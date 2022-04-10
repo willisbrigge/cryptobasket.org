@@ -27,7 +27,7 @@ export function getPostBySlug(slug: string, fields: string[] = []) {
 		}
 
 		if (field === 'image') {
-			items[field] = data[field].replace('https://gateway.ipfs.io/ipfs/', AppConfig.ipfs_gateway);
+			items[field] = data[field].replace('ipfs://', AppConfig.ipfs_gateway);
 		}
 
 		if (field === 'content') {
