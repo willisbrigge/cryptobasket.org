@@ -2,11 +2,11 @@
 title: 'Dogecoin'
 description: 'Dogecoin is an open source peer to peer digital currency favored by Shiba Inus worldwide'
 date: '2019-10-1'
-image: 'https://gateway.ipfs.io/ipfs/QmVgxgbJgp8sztiDRgGAXXvy5BDNdpkPuejpLw9478JsZ2'
+image: 'ipfs://QmVgxgbJgp8sztiDRgGAXXvy5BDNdpkPuejpLw9478JsZ2'
 network: 'bsc'
 category: 'meme'
 ---
-![Error](https://gateway.ipfs.io/ipfs/QmPRkjydDcRxwjedx5y193fRipkBSNa4zVSh2tTJXJezLd)
+![Error](ipfs://QmPRkjydDcRxwjedx5y193fRipkBSNa4zVSh2tTJXJezLd)
 
 ## Introduction
 Dogecoin is an open source peer-to-peer digital currency, favored by Shiba Inus worldwide. Dogecoin sets itself apart from other digital currencies with an amazing, vibrant community made up of friendly folks just like you. Dogecoin is an open source peer-to-peer digital currency, favored by Shiba Inus worldwide. Dogecoin sets itself apart from other digital currencies with an amazing, vibrant community made up of friendly folks just like you. 

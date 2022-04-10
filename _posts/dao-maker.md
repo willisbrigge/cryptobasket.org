@@ -2,12 +2,12 @@
 title: 'example'
 description: 'Venture Capital ReCreated for the Masses'
 date: '2019-06-11'
-image: 'https://gateway.ipfs.io/ipfs/QmQaTRCWXL3QwFUZsCJkuVPSgYpMZg6bPd3de7DzczqeTF'
+image: 'ipfs://QmQaTRCWXL3QwFUZsCJkuVPSgYpMZg6bPd3de7DzczqeTF'
 network: 'ethereum'
 category: 'launchpad'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmfYzp9dt87jMFXFNJLihHb55Kp2yktSZL7XuDhBBSGie4)
+![Error](ipfs://QmfYzp9dt87jMFXFNJLihHb55Kp2yktSZL7XuDhBBSGie4)
 
 ## Introduction
 DAO Maker is building the go-to platform for retail venture investing in equity and tokens. Providing low-risk participation frameworks is essential to reach global retail in venture capital, as most retail investors cannot afford to risk large portions of their money. By providing an opportunity to everyday people to safely grow their own capital, we aim to improve the quality of millions of lives while simultaneously enabling a new funding source to innovation worldwide.
@@ -22,8 +22,8 @@ DAO Maker is building the go-to platform for retail venture investing in equity 
 
 ## Docs
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmRB4WvZPgV6Mh53xEmyfX2Phnp2CCKSKbMCY43advD4nH)
-[AUDIT](https://gateway.ipfs.io/ipfs/QmY1i15sTvHUbsZ3oqgZP2KhQmMTHNfQEqw4ZUTjsAqPU2)
+[WHITEPAPER](ipfs://QmRB4WvZPgV6Mh53xEmyfX2Phnp2CCKSKbMCY43advD4nH)
+[AUDIT](ipfs://QmY1i15sTvHUbsZ3oqgZP2KhQmMTHNfQEqw4ZUTjsAqPU2)
 
 
 ## Links

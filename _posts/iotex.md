@@ -1,14 +1,14 @@
 ---
 title: 'IoTeX'
 date: '2019-05-08'
-image: 'https://gateway.ipfs.io/ipfs/QmYaf25mm1Uf6RtRuRGxtjaxK5KsTaJzEP3uzNb57zdFaJ'
+image: 'ipfs://QmYaf25mm1Uf6RtRuRGxtjaxK5KsTaJzEP3uzNb57zdFaJ'
 description: 'Building the connected world IoTeX is a fast secure and decentralized platform that connects real world devices and data to Web3'
 network: 'ethereum'
 category: 'network'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmPH79RF3xxWQPLRgmXeZocygVo8g7gvYgGtaE5XWikxb3)
+![Error](ipfs://QmPH79RF3xxWQPLRgmXeZocygVo8g7gvYgGtaE5XWikxb3)
 
 ## Introduction
 
@@ -28,7 +28,7 @@ IoTEX mission is to ensure everyday people and businesses can own and control th
 
 ## Video
 
-https://gateway.ipfs.io/ipfs/QmdFPmPksRMUuVGoXxA8yokwVEaYghn68v3jj5GSZ667xp/iotex.mp4
+ipfs://QmdFPmPksRMUuVGoXxA8yokwVEaYghn68v3jj5GSZ667xp/iotex.mp4
 
 ## Contracts
 
@@ -56,7 +56,7 @@ https://www.certik.com/projects/iotex
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmdbHBm97mu5KAkwre7LkLo5WU99nTLVAVpW1QTmnwZ67X)
+![Error](ipfs://QmdbHBm97mu5KAkwre7LkLo5WU99nTLVAVpW1QTmnwZ67X)
 
 
 ---

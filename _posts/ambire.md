@@ -2,12 +2,12 @@
 title: 'Ambire AdEx'
 description: 'AdEx is an open, trust-minimized protocol & stack for digital advertising that reduces ad fraud, malvertising and protects user privacy.'
 date: '2019-09-12'
-image: 'https://gateway.ipfs.io/ipfs/QmQz6TNmSGiAZU2MJnGsmfeH6uP12DjrbgagHsiLBY5EgR'
+image: 'ipfs://QmQz6TNmSGiAZU2MJnGsmfeH6uP12DjrbgagHsiLBY5EgR'
 network: 'ethereum'
 category: 'advertisement'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmaNeRJj5MtGzBUTF8XfGQ4FpgZw2W1WwQBemGFK5NQT99)
+![Error](ipfs://QmaNeRJj5MtGzBUTF8XfGQ4FpgZw2W1WwQBemGFK5NQT99)
 
 ## Introduction
 
@@ -40,7 +40,7 @@ A display ad network for reduced ad fraud and increased user privacy, AdEx bring
 
 ## Docs
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmajbABfqruCxFE3oaFbnyfHWrAEQaJiJMbZKHrejeddsz)
+[WHITEPAPER](ipfs://QmajbABfqruCxFE3oaFbnyfHWrAEQaJiJMbZKHrejeddsz)
 
 ## Links
 

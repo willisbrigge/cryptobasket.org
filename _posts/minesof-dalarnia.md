@@ -1,14 +1,14 @@
 ---
 title: 'Mines Of Dalarnia'
 date: '2019-12-06'
-image: 'https://gateway.ipfs.io/ipfs/QmaQtqaYGp7bD1fQYQDjjjvVHEYppywBhd9DUwHkNP6EmY'
+image: 'ipfs://QmaQtqaYGp7bD1fQYQDjjjvVHEYppywBhd9DUwHkNP6EmY'
 description: 'Mines of Dalarnia is a free-to-play blockchain action adventure platform-mining game'
 network: 'ethereum'
 category: 'game'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmYHAuXgCWq94xqfTUTsjvZBT3N6aJwmBvzfh6TuownyE5)
+![Error](ipfs://QmYHAuXgCWq94xqfTUTsjvZBT3N6aJwmBvzfh6TuownyE5)
 
 ## Introduction
 
@@ -29,7 +29,7 @@ The vision of Mines of Dalarnia (DAR) is to become a multi-layered system that m
 
 ## Litepaper
 
-https://gateway.ipfs.io/ipfs/QmZaAABMyBFupJ7phYtmpTZiJdfXMXoUxMBuvkf1RkQAyg
+ipfs://QmZaAABMyBFupJ7phYtmpTZiJdfXMXoUxMBuvkf1RkQAyg
 
 ## Contracts
 
@@ -44,10 +44,10 @@ https://gateway.ipfs.io/ipfs/QmZaAABMyBFupJ7phYtmpTZiJdfXMXoUxMBuvkf1RkQAyg
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmTY5rfogA7XZQG3FUqbaj8pYx9xeZpNeD69W3Y2potLAC)
+![Error](ipfs://QmTY5rfogA7XZQG3FUqbaj8pYx9xeZpNeD69W3Y2potLAC)
 
 
-![Error](https://gateway.ipfs.io/ipfs/QmSPJxTp1SWDHAnRQoek64zoGP4km2ph6u7axXafdV8XKk)
+![Error](ipfs://QmSPJxTp1SWDHAnRQoek64zoGP4km2ph6u7axXafdV8XKk)
 
 
 ---

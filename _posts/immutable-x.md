@@ -2,12 +2,12 @@
 title: 'ImmutableX'
 description: 'Ethereums leading NFT scaling platform'
 date: '2019-06-03'
-image: 'https://gateway.ipfs.io/ipfs/QmcXuJG9EJEjxQEzznkb7cyydsVPg78u3qf9d63UYDLbmw'
+image: 'ipfs://QmcXuJG9EJEjxQEzznkb7cyydsVPg78u3qf9d63UYDLbmw'
 network: 'ethereum'
 category: 'nft'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmViPsc1oqnutrC6pV2LYD5iXoycfp2TLzBRKUC1o1s8nD)
+![Error](ipfs://QmViPsc1oqnutrC6pV2LYD5iXoycfp2TLzBRKUC1o1s8nD)
 
 ## Introduction
 
@@ -25,8 +25,8 @@ which can be used to pay fees, perform governance or stake on the protocol.
 4. Experience zero gas fees, instant trades, and carbon neutral NFTs for marketplaces, games, and applications without compromise.
 ## Docs
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmUikBbGrGr35Gdp9PCzx5JqExNm2GkNS8Z2Ad6mRBHMKg)
-[TOKENOMICS](https://gateway.ipfs.io/ipfs/Qmdt4pa8KhX6DE6Xaww1CRnWheHqftrhimz3ZUExMfjDUo)
+[WHITEPAPER](ipfs://QmUikBbGrGr35Gdp9PCzx5JqExNm2GkNS8Z2Ad6mRBHMKg)
+[TOKENOMICS](ipfs://Qmdt4pa8KhX6DE6Xaww1CRnWheHqftrhimz3ZUExMfjDUo)
 
 ## Links
 

@@ -2,12 +2,12 @@
 title: 'Chiliz'
 description: 'The world s first tokenized sports exchange'
 date: '2019-04-10'
-image: 'https://gateway.ipfs.io/ipfs/QmX3YHfkhZ1JHPwXS3f65DDUGJazCGjaxd5AhCQ7Kfry1N'
+image: 'ipfs://QmX3YHfkhZ1JHPwXS3f65DDUGJazCGjaxd5AhCQ7Kfry1N'
 network: 'ethereum'
 category: 'sports'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmPXFYF6WFBMWNVhThZJH4ig1aMmoLXJSCcnu6vqb1X1GL)
+![Error](ipfs://QmPXFYF6WFBMWNVhThZJH4ig1aMmoLXJSCcnu6vqb1X1GL)
 
 ## Introduction
 A digital currency for sports and esports entertainment platforms adoptable universally across other industries. Chiliz is a blockchain-based platform that allows sports fans and players to engage and have a unique first-time experience of monetizing the participation of the fans. At its core, Chiliz addresses two issues: funding and engagement. The platform not only allows fans to invest in and control sports organizations but also provides sports companies access to vital funds, allowing fans to feel more connected to teams.  Chiliz provides sports & entertainment entities with blockchain-based tools to help them engage & monetize their audiences.

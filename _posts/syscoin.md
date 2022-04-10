@@ -2,12 +2,12 @@
 title: 'Syscoin'
 description: 'By combining the security of btc & the smart contracts of eth, you get a scalable, fast, low gas platform to build your next idea'
 date: '2019-08-04'
-image: 'https://gateway.ipfs.io/ipfs/QmSwVFjNa2mDW5kuX4GnxwbSa7XqMGJZwGFcomgmpTJ5eQ'
+image: 'ipfs://QmSwVFjNa2mDW5kuX4GnxwbSa7XqMGJZwGFcomgmpTJ5eQ'
 network: 'ethereum'
 category: 'scaling'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmVGP9uBzgwvGrJVNUeZ3QTeroXr7oXRX14UkKYtxSZTai)
+![Error](ipfs://QmVGP9uBzgwvGrJVNUeZ3QTeroXr7oXRX14UkKYtxSZTai)
 
 ## Introduction
 Syscoin is a Proof-of-Work blockchain, merged-mined with Bitcoin. At its base it is a dual-layered blockchain: the core is the Syscoin blockchain itself, and running in tandem with it is an Ethereum Virtual Machine (EVM) layer called NEVM (Network-Enhanced Virtual Machine), which provides smart contract functionality.
@@ -28,7 +28,7 @@ Syscoin is a Proof-of-Work blockchain, merged-mined with Bitcoin. At its base it
 ## Docs
 
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmT5HVpUcauVMQzvdZPNQFBBfq5fsSurggLGWT1RvrW9XD)
+[WHITEPAPER](ipfs://QmT5HVpUcauVMQzvdZPNQFBBfq5fsSurggLGWT1RvrW9XD)
 
 ## Links
 

@@ -25,7 +25,7 @@ const Add = () => (
 			</p>
 			<p>&amp; you will get file hash, which you can use in the markdown </p>
 			<p>
-				<a href="https://gateway.ipfs.io/ipfs/">https://gateway.ipfs.io/ipfs/</a>
+				<a href="ipfs://">ipfs://</a>
 				&lt; IPFS HASH HERE&gt;
 			</p>
 		</Content>

@@ -2,11 +2,11 @@
 title: 'Bluzelle'
 description: 'As new gamers enter crypto, Bluzelle provides an experience that meets their needs for quality games, storage and finance'
 date: '2019-10-01'
-image: 'https://gateway.ipfs.io/ipfs/QmdkiYGSa1CC7qm1AyFiw1zHiCPu2ABEoAfxkJzzmccUvw'
+image: 'ipfs://QmdkiYGSa1CC7qm1AyFiw1zHiCPu2ABEoAfxkJzzmccUvw'
 network: 'ethereum'
 category: 'gamefi'
 ---
-![Error](https://gateway.ipfs.io/ipfs/QmRXd4CHUMjn3ecB6XwWm6Pqs5iE1kQ446uYeH3W2VihNf)
+![Error](ipfs://QmRXd4CHUMjn3ecB6XwWm6Pqs5iE1kQ446uYeH3W2VihNf)
 
 ## Introduction
 Bluzelle is a blockchain for GameFi with its ability to produce high quality games, protect players NFTs, and leverage DeFi yields with its 10,000 TPS Cosmos-Based Blockchain.
@@ -25,7 +25,7 @@ Currently games on Ethereum are facing high scaling issues and enormous transact
 The solution is Bluzelle with it's four point framework.
 
 ## Video
-https://gateway.ipfs.io/ipfs/QmaMxAHTqwA7QajaXGUz5sW36CH1ikxWaN1To6VBmCjiR1/bluezelle.mp4
+ipfs://QmaMxAHTqwA7QajaXGUz5sW36CH1ikxWaN1To6VBmCjiR1/bluezelle.mp4
 
 
 
@@ -41,8 +41,8 @@ https://gateway.ipfs.io/ipfs/QmaMxAHTqwA7QajaXGUz5sW36CH1ikxWaN1To6VBmCjiR1/blue
 
 ## Docs
 
-[AUDITS](https://gateway.ipfs.io/ipfs/QmRSkudo8YLnSobseRrmP5K7yJ3C5AidsgJksMrz2FP4wA)
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmUsYpYtZxdNRPpqVsyJcYLmu2uz7gfq3186b4tkKtCagw)
+[AUDITS](ipfs://QmRSkudo8YLnSobseRrmP5K7yJ3C5AidsgJksMrz2FP4wA)
+[WHITEPAPER](ipfs://QmUsYpYtZxdNRPpqVsyJcYLmu2uz7gfq3186b4tkKtCagw)
 
 
 

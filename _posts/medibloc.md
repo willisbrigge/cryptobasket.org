@@ -1,14 +1,14 @@
 ---
 title: 'Medibloc'
 date: '2019-03-07'
-image: 'https://gateway.ipfs.io/ipfs/QmTeYeAE7BgxN9h5MAfs6r6XDo69BYbPCcnjG1ScjP8awZ'
+image: 'ipfs://QmTeYeAE7BgxN9h5MAfs6r6XDo69BYbPCcnjG1ScjP8awZ'
 description: 'Personal Healthcare Information Ecosystem, built on blockchain'
 network: 'bnb beacon chain'
 category: 'health'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmNuVqraU5LPUsxBmpQHNB8PoggwCAbY8VDWg7ZWqaMc1o)
+![Error](ipfs://QmNuVqraU5LPUsxBmpQHNB8PoggwCAbY8VDWg7ZWqaMc1o)
 
 ## Introduction
 
@@ -32,7 +32,7 @@ MediBlocoffers a healthcare data exchange platform/ecosystem, that will promote 
 
 ## Video
 
-https://gateway.ipfs.io/ipfs/QmZW82WsCUd7cixtv9TcV8XrUd9D7eXNockxGJJAcLySG3/medibloc.mp4
+ipfs://QmZW82WsCUd7cixtv9TcV8XrUd9D7eXNockxGJJAcLySG3/medibloc.mp4
 
 ## Whitepaper
 
@@ -58,7 +58,7 @@ MEDB-87E
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmZtbZ5BkXAVeBcc7GsWt7u4NYyhnQS2FtAhjt7L547Ht3)
+![Error](ipfs://QmZtbZ5BkXAVeBcc7GsWt7u4NYyhnQS2FtAhjt7L547Ht3)
 
 
 ---

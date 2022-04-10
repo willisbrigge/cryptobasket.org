@@ -1,14 +1,14 @@
 ---
 title: 'The Sandbox'
 date: '2020-09-12'
-image: 'https://gateway.ipfs.io/ipfs/QmZUVnbPBrvi67Fi62Asoo2c32HUcS1jw1oSuaqo1gjZqx'
+image: 'ipfs://QmZUVnbPBrvi67Fi62Asoo2c32HUcS1jw1oSuaqo1gjZqx'
 description: 'A platform where creators can monetize voxel ASSETS and gaming experiences on the blockchain.'
 network: 'ethereum'
 category: 'gamefi'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmdtGzDVGzqhtYvihS5w9hmPa6b8YjY27bTupj83auYfvL)
+![Error](ipfs://QmdtGzDVGzqhtYvihS5w9hmPa6b8YjY27bTupj83auYfvL)
 
 ## Introduction
 
@@ -29,7 +29,7 @@ The Sandbox team is building a unique virtual world where players can build, own
 
 ## Whitepaper
 
-https://gateway.ipfs.io/ipfs/QmNyobyPajYfL2kTnRp1Qh7E8kA5aYyDUZiJuirjq8zXC
+ipfs://QmNyobyPajYfL2kTnRp1Qh7E8kA5aYyDUZiJuirjq8zXC
 
 ## Contracts
 
@@ -56,7 +56,7 @@ https://www.certik.com/projects/sandbox.game
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmPSnhMzk8qrX9jjCgCBETcJhHQv7K6Uwr4GeAVpGsE96h)
+![Error](ipfs://QmPSnhMzk8qrX9jjCgCBETcJhHQv7K6Uwr4GeAVpGsE96h)
 
 
 ---

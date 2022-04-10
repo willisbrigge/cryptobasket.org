@@ -2,12 +2,12 @@
 title: 'Rari Governance Token'
 description: 'Lending, borrowing and yield for DeFi'
 date: '2020-05-10'
-image: 'https://gateway.ipfs.io/ipfs/QmUq2kz3qy6d5nezEva6QAhFko1NrpQ9s3dm7w8thnK6mm'
+image: 'ipfs://QmUq2kz3qy6d5nezEva6QAhFko1NrpQ9s3dm7w8thnK6mm'
 network: 'ethereum'
 category: 'yield-aggregator'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmPXPJ9jFVtQ1tgxAPXRaJw4qjzawvuteVuQjcjVzRLZdM)
+![Error](ipfs://QmPXPJ9jFVtQ1tgxAPXRaJw4qjzawvuteVuQjcjVzRLZdM)
 
 ## Introduction
 Rari Capital is a suite of decentralized finance protocols on a mission to bridge the gap between technical and non-technical minds, in order to bring the next wave of mass users into this industry. We have built a series of products that create and deliver aggregate yield, allowing you a simple and safe avenue of value-accrual to your existing assets.
@@ -32,7 +32,7 @@ Rari Capital empowers individuals to break free by creating new opportunities, c
 
 ## Docs
 
-[AUDITS](https://gateway.ipfs.io/ipfs/QmPZai48j33vbW8PZB73DRQBWphWBXDsfBduA2TgwBVg9g)
+[AUDITS](ipfs://QmPZai48j33vbW8PZB73DRQBWphWBXDsfBduA2TgwBVg9g)
 
 
 ## Links

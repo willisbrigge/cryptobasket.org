@@ -2,12 +2,12 @@
 title: 'Decred'
 description: 'Community Directed, Superior Store of Value'
 date: '2019-10-11'
-image: 'https://gateway.ipfs.io/ipfs/QmRuNSJuaJfgf8G7SPDtdXdRKC4w1GrUggBsV6reKKQirC'
+image: 'ipfs://QmRuNSJuaJfgf8G7SPDtdXdRKC4w1GrUggBsV6reKKQirC'
 network: 'decred'
 category: 'cryptocurrency'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmXDJEtiKrFQTHqmfD1GSy2YQPWxYnozWhoZzpXxdtZpJy)
+![Error](ipfs://QmXDJEtiKrFQTHqmfD1GSy2YQPWxYnozWhoZzpXxdtZpJy)
 
 ## Introduction
 Decred is a blockchain-based cryptocurrency with a strong focus on community input, open governance, and sustainable funding for development. It utilizes a hybrid Proof-of-Work (PoW) and Proof-of-Stake (PoS) mining system to ensure that a small group cannot dominate the flow of transactions or make changes to Decred without the input of the community. A unit of the currency is called a decred.

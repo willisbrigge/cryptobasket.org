@@ -1,14 +1,14 @@
 ---
 title: 'Maro'
 date: '2019-6-9'
-image: 'https://gateway.ipfs.io/ipfs/QmRfQbhK5ZioaF7sUPBEhHqd4gSv6p4MYvYJMTdu8FeGqd'
+image: 'ipfs://QmRfQbhK5ZioaF7sUPBEhHqd4gSv6p4MYvYJMTdu8FeGqd'
 description: 'Maro builds an open infrastructure that seamlessly connects billions to the global economy market'
 network: 'maro'
 category: 'blockchain'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmYXNxwX6woeTATb1AqQLCQ675YGNpJeSs87EYsU5QKwGb)
+![Error](ipfs://QmYXNxwX6woeTATb1AqQLCQ675YGNpJeSs87EYsU5QKwGb)
 
 ## Introduction
 
@@ -34,11 +34,11 @@ Maro builds an open infrastructure that seamlessly connects billions to the glob
 
 ## Video
 
-https://gateway.ipfs.io/ipfs/QmbwBBvgRPFmRadTUCaNp76YYhJJnYhf2GL8nfV5DC1rqY/maro.mp4
+ipfs://QmbwBBvgRPFmRadTUCaNp76YYhJJnYhf2GL8nfV5DC1rqY/maro.mp4
 
 ## Whitepaper
 
-https://gateway.ipfs.io/ipfs/QmUWukymo6YzraWx9csWmCpMQrDvVBM5s8kEEk9rAuwLfg
+ipfs://QmUWukymo6YzraWx9csWmCpMQrDvVBM5s8kEEk9rAuwLfg
 
 ## Contracts
 

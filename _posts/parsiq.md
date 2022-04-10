@@ -2,12 +2,12 @@
 title: 'PARSIQ'
 description: 'PARSIQ is a next generation blockchain analytics platform built to connect blockchain activity to off chain applications and devices'
 date: '2019-08-10'
-image: 'https://gateway.ipfs.io/ipfs/QmV3xr8L1wiKZRJaCoSEbi5rat5aSdcJEFnvmbinWpWZfu'
+image: 'ipfs://QmV3xr8L1wiKZRJaCoSEbi5rat5aSdcJEFnvmbinWpWZfu'
 network: 'ethereum'
 category: 'analytics'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmfQC6GAFBvDtXg5zdAXDWRwqKjTmV4gNbFX2SQFVm5G2g)
+![Error](ipfs://QmfQC6GAFBvDtXg5zdAXDWRwqKjTmV4gNbFX2SQFVm5G2g)
 
 ## Introduction
 PARSIQ is a Web3 data platform that helps build functionality on top of blockchain data. With Smart Triggers, you can create “if-this-then-that” workflows – watch for a specific on-chain event and initiate downstream actions when they occur. Our Trigger Wizard is our no-code editor that helps you create Smart Triggers for the most common use cases in just minutes.
@@ -29,8 +29,8 @@ PARSIQ is a Web3 data platform that helps build functionality on top of blockcha
 ## Docs
 
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmeKuLvBjTPZJmNEULRG4di9ZD65s4gCyc9JjGMNtvz15U)
-[AUDIT](https://gateway.ipfs.io/ipfs/QmYpKqAomExoZvvRdJct9TFr2A6ycNxNSHbmAPYKuFm8Yt)
+[WHITEPAPER](ipfs://QmeKuLvBjTPZJmNEULRG4di9ZD65s4gCyc9JjGMNtvz15U)
+[AUDIT](ipfs://QmYpKqAomExoZvvRdJct9TFr2A6ycNxNSHbmAPYKuFm8Yt)
 
 
 ## Links

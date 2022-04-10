@@ -2,12 +2,12 @@
 title: 'yearn-finance'
 description: 'Defi made simple, learn and build'
 date: '2020-03-11'
-image: 'https://gateway.ipfs.io/ipfs/QmbQUDbSZx4cCb7tudGSh1N1pR3fpFVjQMtG4bH3Lm81kF'
+image: 'ipfs://QmbQUDbSZx4cCb7tudGSh1N1pR3fpFVjQMtG4bH3Lm81kF'
 network: 'ethereum'
 category: 'yield-aggregator'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/Qmaa3rjcAmjJCw6qVbmcYGaAWzuJNH5xXD8VS5bRvu15W8)
+![Error](ipfs://Qmaa3rjcAmjJCw6qVbmcYGaAWzuJNH5xXD8VS5bRvu15W8)
 
 ## Introduction
 Yearn Finance is a suite of products in Decentralized Finance that provides yield generation, lending aggregation, and more on the blockchain. The protocol is maintained by various independent developers and is governed by YFI holders.
@@ -20,7 +20,7 @@ Yearn Finance is a suite of products in Decentralized Finance that provides yiel
 
 ## Docs
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmW7jpKt3rzehRDwa4eGz2qavoFoMFNBuPEufSEA1gGF9R)
+[WHITEPAPER](ipfs://QmW7jpKt3rzehRDwa4eGz2qavoFoMFNBuPEufSEA1gGF9R)
 
 ## Links
 

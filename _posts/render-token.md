@@ -1,13 +1,13 @@
 ---
 title: 'Render Token'
 date: '2019-05-06'
-image: 'https://gateway.ipfs.io/ipfs/QmSgKrSAQ5egvkjL4Lk4h9y7e9UfdGnX2xReR22VoPkvvH'
+image: 'ipfs://QmSgKrSAQ5egvkjL4Lk4h9y7e9UfdGnX2xReR22VoPkvvH'
 description: 'Distributed GPU rendering on the blockchain'
 network: 'ethereum'
 category: 'network'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmUAGHRdCWA6fSSXKMh7VbsjfjoTtBya9m9gUHwdxn1rMr)
+![Error](ipfs://QmUAGHRdCWA6fSSXKMh7VbsjfjoTtBya9m9gUHwdxn1rMr)
 
 ## Introduction
 
@@ -28,7 +28,7 @@ Authoring and publishing state-of-the-art graphics is an immense challenge that 
 
 ## Whitepaper
 
-https://gateway.ipfs.io/ipfs/QmS7npYKTykF3UWee6ZW1awhzeenUxP2EYUJ1aQ22GZBz3
+ipfs://QmS7npYKTykF3UWee6ZW1awhzeenUxP2EYUJ1aQ22GZBz3
 
 
 ## Contracts
@@ -55,7 +55,7 @@ https://blog.openzeppelin.com/render-token-audit-2a078ba6d759/
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmfQHisKtQ9zaykMDLiYAy4ApMTj9XcRh16up5PW2riyhN)
+![Error](ipfs://QmfQHisKtQ9zaykMDLiYAy4ApMTj9XcRh16up5PW2riyhN)
 
 
 ---

@@ -2,12 +2,12 @@
 title: 'SuperFarm'
 description: 'Crosschain protocol allowing anyone to deploy DeFi and NFT farms with no code required.'
 date: '2021-04-12'
-image: 'https://gateway.ipfs.io/ipfs/QmNgwdiDb8BpXVg4daeEyR9uHv51uYFqqThhY4wsw7tgKY'
+image: 'ipfs://QmNgwdiDb8BpXVg4daeEyR9uHv51uYFqqThhY4wsw7tgKY'
 network: 'ethereum'
 category: 'launchpad'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmcibUGuFfGDgEw1tTENGmxzCu82P778iAeZgL4Zx23uq5)
+![Error](ipfs://QmcibUGuFfGDgEw1tTENGmxzCu82P778iAeZgL4Zx23uq5)
 
 ## Introduction
 
@@ -26,7 +26,7 @@ SuperFarm is a passionate community building at the intersection of NFTs and DeF
 
 ## Docs
 
-[AUDITS](https://gateway.ipfs.io/ipfs/QmVTM4sUKLtv3w1DjBRyQjW56x5UwSg66MxLV152w9Kmdj)
+[AUDITS](ipfs://QmVTM4sUKLtv3w1DjBRyQjW56x5UwSg66MxLV152w9Kmdj)
 
 ## Links
 

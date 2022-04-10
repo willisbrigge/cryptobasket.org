@@ -1,14 +1,14 @@
 ---
 title: 'Tornado Cash'
 date: '2020-11-15'
-image: 'https://gateway.ipfs.io/ipfs/QmYTGVP9LeKmaHjFNnouMHxqhvJvgteLq3Z7qrSPutU1dm'
+image: 'ipfs://QmYTGVP9LeKmaHjFNnouMHxqhvJvgteLq3Z7qrSPutU1dm'
 description: 'A fully decentralized protocol for private transactions on Ethereum.'
 network: 'ethereum'
 category: 'privacy'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmWHkdApSZZ9SEuMZk51td8dZyiRxXL58QELXj91cuuqvG)
+![Error](ipfs://QmWHkdApSZZ9SEuMZk51td8dZyiRxXL58QELXj91cuuqvG)
 
 ## Introduction
 
@@ -26,7 +26,7 @@ The Tornado Cash tool allows you to remain anonymous on-chain.
 
 ## Whitepaper
 
-https://gateway.ipfs.io/ipfs/QmQLKFDabdz7fgYnpULFk4c6jdBZPVQ6DZmT3yemKqxVjr
+ipfs://QmQLKFDabdz7fgYnpULFk4c6jdBZPVQ6DZmT3yemKqxVjr
 
 ## Contracts
 
@@ -34,7 +34,7 @@ https://gateway.ipfs.io/ipfs/QmQLKFDabdz7fgYnpULFk4c6jdBZPVQ6DZmT3yemKqxVjr
 
 ## Audits
 
-https://gateway.ipfs.io/ipfs/QmVHLyrvPrv8FuS6F9D5acaMd981XYV8PYyR2q5FWbn4YT
+ipfs://QmVHLyrvPrv8FuS6F9D5acaMd981XYV8PYyR2q5FWbn4YT
 
 
 
@@ -47,7 +47,7 @@ https://gateway.ipfs.io/ipfs/QmVHLyrvPrv8FuS6F9D5acaMd981XYV8PYyR2q5FWbn4YT
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmZLkFLfxeKaCABsReDXHEk7tmUkSgcmAzkEmj8Wc287fK)
+![Error](ipfs://QmZLkFLfxeKaCABsReDXHEk7tmUkSgcmAzkEmj8Wc287fK)
 
 
 ---

@@ -2,12 +2,12 @@
 title: 'Helium'
 description: 'It is a people powered network'
 date: '2019-10-01'
-image: 'https://gateway.ipfs.io/ipfs/QmTWQVvdmyMSiyYZ9zUWfKNRAq4LLknchgChkAJsGJQJAk'
+image: 'ipfs://QmTWQVvdmyMSiyYZ9zUWfKNRAq4LLknchgChkAJsGJQJAk'
 network: 'helium'
 category: 'web3'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmRZGZbmpXcdLZNZKTzzhezxWoD8rHxkkQM9RWz91Uk5Ai)
+![Error](ipfs://QmRZGZbmpXcdLZNZKTzzhezxWoD8rHxkkQM9RWz91Uk5Ai)
 
 ## Introduction
 The Helium network is a wide-area wireless networking system, a blockchain, and a protocol token. The blockchain runs on a new consensus protocol, called the Helium Consensus Protocol, and a new kind of proof, called Proof-of-Coverage. The Miners who are providing wireless network coverage in a cryptographically verified physical location and time submit proofs to the Helium network, and the Miners submitting the best proofs are elected to an asynchronous byzantine fault tolerant consensus group at a fixed epoch.
@@ -20,7 +20,7 @@ The Helium network is a wide-area wireless networking system, a blockchain, and 
 
 ## Docs
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/Qma1gm3xC74GLcVtp4umzmzCbWvaqP6Wj3dMthkkV8NaV5)
+[WHITEPAPER](ipfs://Qma1gm3xC74GLcVtp4umzmzCbWvaqP6Wj3dMthkkV8NaV5)
 
 ## Links
 

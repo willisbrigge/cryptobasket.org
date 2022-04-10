@@ -1,14 +1,14 @@
 ---
 title: 'GameFi'
 date: '2021-09-10'
-image: 'https://gateway.ipfs.io/ipfs/QmfK76N5tBQqoCMgJRwxWyo5TjujipxjSeVsKP7NDJuQbb'
+image: 'ipfs://QmfK76N5tBQqoCMgJRwxWyo5TjujipxjSeVsKP7NDJuQbb'
 description: 'Yield Guild & Launchpad'
 network: 'bsc'
 category: 'gaming'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmRnh3MCaUYa5nmyMDmSFVAf52YSL5BuFUaANRF9YCTkL1)
+![Error](ipfs://QmRnh3MCaUYa5nmyMDmSFVAf52YSL5BuFUaANRF9YCTkL1)
 
 ## Introduction
 
@@ -34,7 +34,7 @@ Gaming and crypto both recognize utility of digital assets and the value of scar
 
 ## Audits
 
-https://gateway.ipfs.io/ipfs/QmTeigyqHJp2ZNXNRzwdepYYCqf3RJhcwocToBug7qqEYH
+ipfs://QmTeigyqHJp2ZNXNRzwdepYYCqf3RJhcwocToBug7qqEYH
 
 
 ## Team
@@ -53,7 +53,7 @@ https://gateway.ipfs.io/ipfs/QmTeigyqHJp2ZNXNRzwdepYYCqf3RJhcwocToBug7qqEYH
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmTeigyqHJp2ZNXNRzwdepYYCqf3RJhcwocToBug7qqEYH)
+![Error](ipfs://QmTeigyqHJp2ZNXNRzwdepYYCqf3RJhcwocToBug7qqEYH)
 
 
 ---

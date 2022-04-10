@@ -1,13 +1,13 @@
 ---
 title: 'Band Protocol'
 date: '2019-08-06'
-image: 'https://gateway.ipfs.io/ipfs/QmYhuw5JnNYZXeugmjwsREQXsFXAxHX2EYXM8o91A8JBin'
+image: 'ipfs://QmYhuw5JnNYZXeugmjwsREQXsFXAxHX2EYXM8o91A8JBin'
 description: 'Secure scalable crosschain decentralized oracle we connect smart contracts to external data and APIs Based on Cosmos state of the art SDK BandChain allows efficient flexible and scalable data query secured through cryptographic proofs'
 network: 'ethereum' 
 category: 'network'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmSnGCPLuCaeLqx7wGHEumsLBdiwBwCLFLct9F2fJHoDtW)
+![Error](ipfs://QmSnGCPLuCaeLqx7wGHEumsLBdiwBwCLFLct9F2fJHoDtW)
 
 ## Introduction
 
@@ -37,7 +37,7 @@ https://docs.bandchain.org/whitepaper/
 
 ## Audits
 
-https://gateway.ipfs.io/ipfs/QmdKG2vwM7koMRJYyr38S98AWJX5H9br3dz1mEhXXngWb6
+ipfs://QmdKG2vwM7koMRJYyr38S98AWJX5H9br3dz1mEhXXngWb6
 
 
 ## Team
@@ -55,7 +55,7 @@ https://gateway.ipfs.io/ipfs/QmdKG2vwM7koMRJYyr38S98AWJX5H9br3dz1mEhXXngWb6
 3. **Total Supply** : 100,000,000 BAND
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmNRxABbnQZAYYyheztNCtWPjahdUvGauguGjAqStf85vy)
+![Error](ipfs://QmNRxABbnQZAYYyheztNCtWPjahdUvGauguGjAqStf85vy)
 
 
 ---

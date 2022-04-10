@@ -1,14 +1,14 @@
 ---
 title: 'Mask'
 date: '2020-05-08'
-image: 'https://gateway.ipfs.io/ipfs/QmVNGedHrMH1EMSzLnpSy6ZvV7FDckmN7g4B7pwwLzqm4d'
+image: 'ipfs://QmVNGedHrMH1EMSzLnpSy6ZvV7FDckmN7g4B7pwwLzqm4d'
 description: 'Your Portal To The New Open Internet Mask Network is a free and open source software'
 network: 'ethereum'
 category: 'network'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmQywpCbYcM5fVaBizBsFNdnCjFUNtyZqWwPDu6SCYMYNc)
+![Error](ipfs://QmQywpCbYcM5fVaBizBsFNdnCjFUNtyZqWwPDu6SCYMYNc)
 
 ## Introduction
 
@@ -39,7 +39,7 @@ Mask Network aims to bridge the web2.0 and web 3.0, it has dedicated itself to p
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmUQ7AF6GfZjTHkXzuAnTtD39J1gTkfDK761RefZUdfbAQ)
+![Error](ipfs://QmUQ7AF6GfZjTHkXzuAnTtD39J1gTkfDK761RefZUdfbAQ)
 
 
 ---

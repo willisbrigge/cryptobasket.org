@@ -2,12 +2,12 @@
 title: 'Compound'
 description: 'Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.'
 date: '2019-10-10'
-image: 'https://gateway.ipfs.io/ipfs/QmeExAA3eefrAxoJPrp2tw71F8wFobYdv9r8TMCszaME79'
+image: 'ipfs://QmeExAA3eefrAxoJPrp2tw71F8wFobYdv9r8TMCszaME79'
 network: 'ethereum'
 category: 'defi'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/Qmbf7ZHTMpVmY36AcHKGvYvkAQR3GowTMYAi78Dvw3y4Sp)
+![Error](ipfs://Qmbf7ZHTMpVmY36AcHKGvYvkAQR3GowTMYAi78Dvw3y4Sp)
 
 ## Introduction
 Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications. Compound is a protocol on the Ethereum blockchain that establishes money markets, which are pools of assets with algorithmically derived interest rates, based on the supply and demand for the asset. Suppliers (and borrowers) of an asset interact directly with the protocol, earning (and paying) a floating interest rate, without having to negotiate terms such as maturity, interest rate, or collateral with a peer or counterparty.

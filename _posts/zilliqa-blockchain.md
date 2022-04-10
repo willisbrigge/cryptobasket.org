@@ -1,14 +1,14 @@
 ---
 title: 'Zilliqa '
 date: '2019-10-25'
-image: 'https://gateway.ipfs.io/ipfs/QmVMEZ9NzZv3W7XycaVFwhuV1xB3y8tFFnymBTS15M2uQH'
+image: 'ipfs://QmVMEZ9NzZv3W7XycaVFwhuV1xB3y8tFFnymBTS15M2uQH'
 description: 'Design, build and use powerful dApps.'
 network: 'bsc'
 category: 'smartchain'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmSFoGduAK17gCkHN78hC28m4pMLDpQcxdu3NvVdUapCaC)
+![Error](ipfs://QmSFoGduAK17gCkHN78hC28m4pMLDpQcxdu3NvVdUapCaC)
 
 ## Introduction
 
@@ -28,11 +28,11 @@ Zilliqa solves blockchain scalability issues using its unique sharding technique
 
 ## Video
 
-https://gateway.ipfs.io/ipfs/QmbdJSdbPgJ3MraewwvHZXDaFkABH8iQofmSYEf6kEXn6p/zilliqa.mp4
+ipfs://QmbdJSdbPgJ3MraewwvHZXDaFkABH8iQofmSYEf6kEXn6p/zilliqa.mp4
 
 ## Whitepaper
 
-https://gateway.ipfs.io/ipfs/QmU3bGYK9G6HeTxgQCN5CGt8bWah48jggqZAuz46xsEc2R
+ipfs://QmU3bGYK9G6HeTxgQCN5CGt8bWah48jggqZAuz46xsEc2R
 
 ## Contracts
 
@@ -40,7 +40,7 @@ https://gateway.ipfs.io/ipfs/QmU3bGYK9G6HeTxgQCN5CGt8bWah48jggqZAuz46xsEc2R
 
 ## Audits
 
-https://gateway.ipfs.io/ipfs/QmPWftkz53yjqkqitSbdjdTPVPmAiLRJ3HkQzAkvSR9paY
+ipfs://QmPWftkz53yjqkqitSbdjdTPVPmAiLRJ3HkQzAkvSR9paY
 
 
 ## Team
@@ -60,7 +60,7 @@ https://gateway.ipfs.io/ipfs/QmPWftkz53yjqkqitSbdjdTPVPmAiLRJ3HkQzAkvSR9paY
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmUdeGpQDuw7AYT2aKgdsQZ9mVLqR2TQp5b9ULpFGxa27M)
+![Error](ipfs://QmUdeGpQDuw7AYT2aKgdsQZ9mVLqR2TQp5b9ULpFGxa27M)
 
 
 ---

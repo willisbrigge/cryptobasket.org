@@ -1,14 +1,14 @@
 ---
 title: 'News Crypto'
 date: '2021-10-10'
-image: 'https://gateway.ipfs.io/ipfs/QmRH6M6BPiEPjFLgc7SHFYp8Ph4h1CS7iEeCd3zD3yx3Fx'
+image: 'ipfs://QmRH6M6BPiEPjFLgc7SHFYp8Ph4h1CS7iEeCd3zD3yx3Fx'
 description: 'Best place for money making decisions in the crypto world Market Overview Crypto Gamification Community Predictions and much more'
 network: 'ethereum'
 category: 'education'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmdoY6DmSh1YdUCrsQ9c2Ne1XYn7GWSpw4irSMbQJKc6MF)
+![Error](ipfs://QmdoY6DmSh1YdUCrsQ9c2Ne1XYn7GWSpw4irSMbQJKc6MF)
 
 ## Introduction
 
@@ -35,11 +35,11 @@ News crypto wants to progressively shape the future of cryptocurrency trading an
 
 ## Video
 
-https://gateway.ipfs.io/ipfs/QmRw9pjtvsCEXKJkp7Ttpu2JxJ6Re7dkwgsJ6LMSKgdMCH/newscrypto.mp4
+ipfs://QmRw9pjtvsCEXKJkp7Ttpu2JxJ6Re7dkwgsJ6LMSKgdMCH/newscrypto.mp4
 
 ## Whitepaper
 
-https://gateway.ipfs.io/ipfs/Qmc1kbfGqZ9QRnWPuDkYfMyc3xCqB4hwpBbWubVHe3B17H
+ipfs://Qmc1kbfGqZ9QRnWPuDkYfMyc3xCqB4hwpBbWubVHe3B17H
 
 ## Contracts
 
@@ -47,7 +47,7 @@ https://gateway.ipfs.io/ipfs/Qmc1kbfGqZ9QRnWPuDkYfMyc3xCqB4hwpBbWubVHe3B17H
 
 ## Audits
 
-https://gateway.ipfs.io/ipfs/QmTmZqk7WLXSHsFAP5Z4bq2L4abK9FcRo3sPDJLs8Cjhr1
+ipfs://QmTmZqk7WLXSHsFAP5Z4bq2L4abK9FcRo3sPDJLs8Cjhr1
 
 
 ## Team

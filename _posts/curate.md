@@ -1,14 +1,14 @@
 ---
 title: 'Curate'
 date: '2020-12-06'
-image: 'https://gateway.ipfs.io/ipfs/QmQmgiVvMiUjEKqz9ULMQFQhEq4Xd1FXmvhphAJhM3mQk6'
+image: 'ipfs://QmQmgiVvMiUjEKqz9ULMQFQhEq4Xd1FXmvhphAJhM3mQk6'
 description: 'Curate is a NFT marketplace'
 network: 'ethereum'
 category: 'marketplace'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmbAYp8qRYeJddb6d5dehzz4pya1rjk7h46tGdx5f9NBxn)
+![Error](ipfs://QmbAYp8qRYeJddb6d5dehzz4pya1rjk7h46tGdx5f9NBxn)
 
 ## Introduction
 
@@ -35,11 +35,11 @@ The goal here is to adopt and implement the blockchain technology in another are
 
 ## Video
 
-https://gateway.ipfs.io/ipfs/QmfCwMECBDctQPUjqnMAzBjX1TmjUzzq28EkGWpVcH9u1v/curate.mp4
+ipfs://QmfCwMECBDctQPUjqnMAzBjX1TmjUzzq28EkGWpVcH9u1v/curate.mp4
 
 ## Whitepaper
 
-https://gateway.ipfs.io/ipfs/QmfCJ3cm5Assbgd1Kw6Td6BmwzvmL7ibVaah6H5FEdrbjr
+ipfs://QmfCJ3cm5Assbgd1Kw6Td6BmwzvmL7ibVaah6H5FEdrbjr
 
 ## Contracts
 
@@ -47,7 +47,7 @@ https://gateway.ipfs.io/ipfs/QmfCJ3cm5Assbgd1Kw6Td6BmwzvmL7ibVaah6H5FEdrbjr
 
 ## Audits
 
-https://gateway.ipfs.io/ipfs/QmawkcuEKh7CyNhjEW8yNXTixqW9gorGRr95Bh1pBbvSTa
+ipfs://QmawkcuEKh7CyNhjEW8yNXTixqW9gorGRr95Bh1pBbvSTa
 
 ## Team
 
@@ -65,7 +65,7 @@ https://gateway.ipfs.io/ipfs/QmawkcuEKh7CyNhjEW8yNXTixqW9gorGRr95Bh1pBbvSTa
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmS8ab9Wt2wvLyDm9NP9YvCHgknWmUJiTvLVTWzSQJXrJM)
+![Error](ipfs://QmS8ab9Wt2wvLyDm9NP9YvCHgknWmUJiTvLVTWzSQJXrJM)
 
 
 ---

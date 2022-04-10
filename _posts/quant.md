@@ -2,12 +2,12 @@
 title: 'Quant'
 description: 'Connecting all the worlds distributed ledgers for faster, more efficient growth'
 date: '2019-10-10'
-image: 'https://gateway.ipfs.io/ipfs/QmehiRarYvmXWitt55yqGt67oq7TcZjpnDLi8iUzLnhYew'
+image: 'ipfs://QmehiRarYvmXWitt55yqGt67oq7TcZjpnDLi8iUzLnhYew'
 network: 'ethereum'
 category: 'network'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmP1xAfntAKLYuQtxptk21hpwuXT5ZUFgojzqBuGTXe9sT)
+![Error](ipfs://QmP1xAfntAKLYuQtxptk21hpwuXT5ZUFgojzqBuGTXe9sT)
 
 ## Introduction
 You don’t need to be a DLT expert to build game-changing multi-DLT applications. We believe that applications for distributed ledgers should be as simple to develop as other systems. And, with Quant Overledger, they are. What’s more, our patented cross-DLT technology, available via a REST API, allows applications to function across multiple distributed ledgers simultaneously. QNT crypto is a token on the Quant blockchain that provides digital access to a particular application or service. QNT tokens are then given access fees based on a fixed fiat currency amount.
@@ -29,7 +29,7 @@ You don’t need to be a DLT expert to build game-changing multi-DLT application
 
 ## Docs
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmT6dq95YUFpJFjtJU4RCGUTFQWWwLKw5DucfnpMycSBCS)
+[WHITEPAPER](ipfs://QmT6dq95YUFpJFjtJU4RCGUTFQWWwLKw5DucfnpMycSBCS)
 
 ## Links
 

@@ -1,14 +1,14 @@
 ---
 title: 'Augur'
 date: '2020-09-10'
-image: 'https://gateway.ipfs.io/ipfs/QmPM5Wc8Jjyu14nvRTxtZHvhabRq5G7p3LE3oubvDMaHKH'
+image: 'ipfs://QmPM5Wc8Jjyu14nvRTxtZHvhabRq5G7p3LE3oubvDMaHKH'
 description: 'Augur is a global no-limit betting platform'
 network: 'ethereum'
 category: 'gambling'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmQtL4yt5s6c5Bj5k8u9pKHkbHMgJy92DiyvzktK4QEe4L)
+![Error](ipfs://QmQtL4yt5s6c5Bj5k8u9pKHkbHMgJy92DiyvzktK4QEe4L)
 
 ## Introduction
 
@@ -30,12 +30,12 @@ Betting today is broken & exploitative, betting Industry trades on promises of g
 
 ## Video
 
-https://gateway.ipfs.io/ipfs/QmU1BaPdeC7bq9zC2wEZ8F7pF19X96MWSG8y3kmdcC7CL7/Augur.mp4
+ipfs://QmU1BaPdeC7bq9zC2wEZ8F7pF19X96MWSG8y3kmdcC7CL7/Augur.mp4
 
 
 ## Whitepaper
 
-https://gateway.ipfs.io/ipfs/QmbgQ9W5t952bSJdkt6cjcttEWAqH6XxqZ8RcuFjFiN57b
+ipfs://QmbgQ9W5t952bSJdkt6cjcttEWAqH6XxqZ8RcuFjFiN57b
 
 ## Contracts
 
@@ -43,7 +43,7 @@ https://gateway.ipfs.io/ipfs/QmbgQ9W5t952bSJdkt6cjcttEWAqH6XxqZ8RcuFjFiN57b
 
 ## Audits
 
-https://gateway.ipfs.io/ipfs/QmbtbYgqRYWQf6fPdTEfKhU7Zbq1gxY7zK6kGVi6LZK64k
+ipfs://QmbtbYgqRYWQf6fPdTEfKhU7Zbq1gxY7zK6kGVi6LZK64k
 
 
 ## Team

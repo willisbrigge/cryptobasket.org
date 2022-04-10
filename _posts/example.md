@@ -2,7 +2,7 @@
 title: 'example'
 description: 'example'
 date: '2000-1-1'
-image: 'https://gateway.ipfs.io/ipfs/QmNza1pkvTQ1djh8NYLisSL6LxmyryyPnTjzF4ud7DxoVW'
+image: 'ipfs://QmNza1pkvTQ1djh8NYLisSL6LxmyryyPnTjzF4ud7DxoVW'
 network: 'ethereum'
 category: 'gambling'
 ---

@@ -2,12 +2,12 @@
 title: 'BIFROST'
 description: 'Enabling developers to create DApps across multiple protocols'
 date: '2019-08-10'
-image: 'https://gateway.ipfs.io/ipfs/QmdoAsuF1ueRE38KF7C9ty99Dik561K1NYD2q4pWdX9zzN'
+image: 'ipfs://QmdoAsuF1ueRE38KF7C9ty99Dik561K1NYD2q4pWdX9zzN'
 network: 'ethereum'
 category: 'network'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmSeLKNUrmQQ51JhcHNrEyjBot8yZnnJTgM7v2iZhFLafn)
+![Error](ipfs://QmSeLKNUrmQQ51JhcHNrEyjBot8yZnnJTgM7v2iZhFLafn)
 
 ## Introduction
 Bifrost is a multichain middleware platform that enables developers to create Decentralized Applications (DApps) on top of multiple protocols. Not restrained to a single blockchain, Bifrost creates a new environment where developers can combine the best protocols to develop substantially more scalable and flexible DApps. Detailed information on what is Bifrost coin BFC and how does it work, how to buy, how much is the price, etc. is in the continuation of the content.
@@ -35,7 +35,7 @@ Bifrost Coin (BNC) is the native cryptocurrency of the Bifrost protocol, a Polka
 ## Docs
 
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmaqEtPTrfDVXKGAqEMZzKhe23bJa2HyELHq4QksLNzHFN)
+[WHITEPAPER](ipfs://QmaqEtPTrfDVXKGAqEMZzKhe23bJa2HyELHq4QksLNzHFN)
 
 ## Links
 

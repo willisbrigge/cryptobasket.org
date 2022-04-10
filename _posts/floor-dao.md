@@ -1,13 +1,13 @@
 ---
 title: 'FloorDAO'
 date: '2021-10-08'
-image: 'https://gateway.ipfs.io/ipfs/QmPhbkSLjCA4vyWAo51zmQntdQdb7g1WDu5tGhaHAEx7Da'
+image: 'ipfs://QmPhbkSLjCA4vyWAo51zmQntdQdb7g1WDu5tGhaHAEx7Da'
 description: 'Deep liquidity and high yield strategies for nfts'
 network: 'ethereum'
 category: 'nft'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmYDrvX1N7WyB8cn5s3PE2FwqtcDEb1nEKevgASWEMzpcs)
+![Error](ipfs://QmYDrvX1N7WyB8cn5s3PE2FwqtcDEb1nEKevgASWEMzpcs)
 
 ## Introduction
 
@@ -32,7 +32,7 @@ FloorDAO solves the problem of trading fees that flow back to the exchange’s c
 ## Tokenomics
 
 
-![Error](https://gateway.ipfs.io/ipfs/QmfTcZXCQcJ9oXPgn1UqMjREED1FjVSehizWNJVPRzBbpj)
+![Error](ipfs://QmfTcZXCQcJ9oXPgn1UqMjREED1FjVSehizWNJVPRzBbpj)
 
 
 

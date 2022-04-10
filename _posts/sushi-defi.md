@@ -1,14 +1,14 @@
 ---
 title: 'Sushi'
 date: '2020-09-12'
-image: 'https://gateway.ipfs.io/ipfs/QmYaJn2sKkfnPdgQKb4e6cKHniix7SrMBVpK9qnAGAqw3s'
+image: 'ipfs://QmYaJn2sKkfnPdgQKb4e6cKHniix7SrMBVpK9qnAGAqw3s'
 description: 'Swap, earn, stack yields, lend, borrow, leverage all on one decentralized, community driven platform.'
 network: 'ethereum'
 category: 'defi'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmePphKNiueAN5QqWQsWuXM4BADSW88ZW7Fhx65nsJNrMU)
+![Error](ipfs://QmePphKNiueAN5QqWQsWuXM4BADSW88ZW7Fhx65nsJNrMU)
 
 ## Introduction
 

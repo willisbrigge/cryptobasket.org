@@ -2,12 +2,12 @@
 title: 'VIDT Datalink'
 description: 'Blockchain Validation, NFT Creation, WEB3 & Metaverse'
 date: '2017-10-10'
-image: 'https://gateway.ipfs.io/ipfs/QmWPoYUnL4PSn8yAExkWysZkYsHHMMaVxaQ51HxdyhtgtV'
+image: 'ipfs://QmWPoYUnL4PSn8yAExkWysZkYsHHMMaVxaQ51HxdyhtgtV'
 network: 'ethereum'
 category: 'network'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmbM4sjw8jqkgZDtdmTaTKpfRrSfhjUApYgrGSxJ8MQyMb)
+![Error](ipfs://QmbM4sjw8jqkgZDtdmTaTKpfRrSfhjUApYgrGSxJ8MQyMb)
 
 ## Introduction
  Blockchain Validation, NFT Creation, WEB3 & Metaverse, already in use by numerous integrators. It is our mission to help to grow adoption of the VIDT Datalink technology, establishing decentralised governance and supporting data integrity in general. The VIDT Datalink tech is based on a simple & strong formula that adds and protects value at minimum expense and effort.  Using an every cloud to every chain approach, VIDT Datalink already has numerous integrators and publishers using VIDT to secure valuable digital assets like certificates, NFTs, sensor-data, firmware.

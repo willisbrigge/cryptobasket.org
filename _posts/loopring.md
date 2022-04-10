@@ -2,7 +2,7 @@
 title: 'Loopring'
 description: 'Loopring is a zkRollup Exchange and Payment Protocol'
 date: '2019-10-01'
-image: 'https://gateway.ipfs.io/ipfs/QmYxZ6tsPjXxYuJ1LQaoKUtVkt5bGefALvvh6PBsBe8AFJ'
+image: 'ipfs://QmYxZ6tsPjXxYuJ1LQaoKUtVkt5bGefALvvh6PBsBe8AFJ'
 network: 'ethereum'
 category: 'defi'
 ---
@@ -17,7 +17,7 @@ Loopring's L2 provides a low-fee, high-speed platform for trading, swapping, liq
 
 ## Docs
 
-[AUDITS](https://gateway.ipfs.io/ipfs/QmR4J1YyXnHc8iqEBvQav5XG5hFhUZZ6CpGaKpiqmt9U4f)
+[AUDITS](ipfs://QmR4J1YyXnHc8iqEBvQav5XG5hFhUZZ6CpGaKpiqmt9U4f)
 
 ## Links
 

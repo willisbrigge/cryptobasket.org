@@ -2,12 +2,12 @@
 title: 'TrueFi'
 description: 'TrueFi brings collateral free lending onchain, maximizing capital efficiency for borrowers and earning rates for lenders'
 date: '2019-04-07'
-image: 'https://gateway.ipfs.io/ipfs/QmQvVrHJ9vZkJCkWb9tNfhSpK7obK29fqmuxYj9Qani5dC'
+image: 'ipfs://QmQvVrHJ9vZkJCkWb9tNfhSpK7obK29fqmuxYj9Qani5dC'
 network: 'ethereum'
 category: 'defi'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmepyAeQqFZHA9G92tG2wujhCnjJwBu9gfUzT3RxgtTBvy)
+![Error](ipfs://QmepyAeQqFZHA9G92tG2wujhCnjJwBu9gfUzT3RxgtTBvy)
 
 ## Introduction
 TrueFi is the protocol for uncollateralized lending, powered by the first ever on-chain credit scores and governed by holders of the TRU token. TrueFi allows lenders to earn returns on loaned cryptocurrencies while having full transparency on how the loaned capital is allocated. Vetted borrowers, meanwhile, can use TrueFi for rapid access to fixed-term, fixed-rate cryptocurrency loans. In TrueFi's main lending pools, TRU holders collectively assess the creditworthiness of borrowers and individual loans by staking TRU. 

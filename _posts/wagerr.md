@@ -2,12 +2,12 @@
 title: 'Wagerr'
 description: 'Wagerr is a blockchain secured sportsbook'
 date: '2020-8-10'
-image: 'https://gateway.ipfs.io/ipfs/QmTn88Wn8f1khH6vcB13SL1TZNveM9P6uqjfb3Rupzfyk6'
+image: 'ipfs://QmTn88Wn8f1khH6vcB13SL1TZNveM9P6uqjfb3Rupzfyk6'
 network: 'ethereum'
 category: 'gambling'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmdCxjs3dhmS1rHoTKdVa5HGq5k3nj4hHpXw8KFEFXX8GC)
+![Error](ipfs://QmdCxjs3dhmS1rHoTKdVa5HGq5k3nj4hHpXw8KFEFXX8GC)
 
 ## Introduction
 Wagerr is a permissionless blockchain-based sportsbook secured by a global decentralized network. Bet anywhere. Best odds. Privacy-focused.The Wagerr network distributes a portion of all winning bets to the Oracles. While bettors place money on uncertain events, bookkeepers bet on a sure thing: fees. Steady fees provide reliable income. The more betting action there is, the larger the Oracle rewards. Be the house!
@@ -29,7 +29,7 @@ Wagerr is a permissionless blockchain-based sportsbook secured by a global decen
 
 ## Docs
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/Qma7mGU9JRTVcEjWX3w5thCQYgVKx45JBxwSy28kRpNnnT)
+[WHITEPAPER](ipfs://Qma7mGU9JRTVcEjWX3w5thCQYgVKx45JBxwSy28kRpNnnT)
 
 
 ## Links

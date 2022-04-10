@@ -2,12 +2,12 @@
 title: 'Flux'
 description: 'It is the new generation of scalable decentralized cloud infrastructure.'
 date: '2019-10-07'
-image: 'https://gateway.ipfs.io/ipfs/QmYhcnxNTNcD8h1DckexYbUrqHwsMtdpToxZdbxwdz8mVU'
+image: 'ipfs://QmYhcnxNTNcD8h1DckexYbUrqHwsMtdpToxZdbxwdz8mVU'
 network: 'ethereum'
 category: 'web3'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmeukuPXT5KWiZeefnjqh55QoGZLJDJcts3uQgZytVEbU5)
+![Error](ipfs://QmeukuPXT5KWiZeefnjqh55QoGZLJDJcts3uQgZytVEbU5)
 
 ## Introduction
 
@@ -35,7 +35,7 @@ Flux is the new generation of scalable decentralized cloud infrastructure. Simpl
 
 ## Docs
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmdmGrcJv1BhuBxuZK8sZcDdX1bncS8jNnLAeeBHeDWsxz)
+[WHITEPAPER](ipfs://QmdmGrcJv1BhuBxuZK8sZcDdX1bncS8jNnLAeeBHeDWsxz)
 
 
 ## Links

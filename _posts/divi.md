@@ -2,12 +2,12 @@
 title: 'Divi'
 description: 'Divi is Crypto Made Easy'
 date: '2019-07-10'
-image: 'https://gateway.ipfs.io/ipfs/QmNza1pkvTQ1djh8NYLisSL6LxmyryyPnTjzF4ud7DxoVW'
+image: 'ipfs://QmNza1pkvTQ1djh8NYLisSL6LxmyryyPnTjzF4ud7DxoVW'
 network: 'ethereum'
 category: 'wallet'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmX2jBNfXftiv5UyYYenGJfs8FNHnrYRmubBAvrkur3Aer)
+![Error](ipfs://QmX2jBNfXftiv5UyYYenGJfs8FNHnrYRmubBAvrkur3Aer)
 
 ## Introduction
 Our mission is to accelerate the adoption of digital currencies. We’re building the financial solutions of the future, for everyone. We make crypto easy. We’re consolidating financial services, and delivering one, frictionless package. As one of the only projects that own a fintech, we’re uniquely positioned to make this a reality.

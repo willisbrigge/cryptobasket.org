@@ -1,14 +1,14 @@
 ---
 title: 'Carry'
 date: '2019-05-06'
-image: 'https://gateway.ipfs.io/ipfs/QmX14ywJJ1stHU9VNZttoyGhcASDfWMFD85RAz9vi8nGo5'
+image: 'ipfs://QmX14ywJJ1stHU9VNZttoyGhcASDfWMFD85RAz9vi8nGo5'
 description: 'Cryptocurrency you can carry into the real world'
 network: 'ethereum'
 category: 'utility'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/Qmb2xizzXf9JSPgjJR96FpZH8WCEAzvJ6fPfdstWKf8rQr)
+![Error](ipfs://Qmb2xizzXf9JSPgjJR96FpZH8WCEAzvJ6fPfdstWKf8rQr)
 
 ## Introduction
 
@@ -28,11 +28,11 @@ Carry empowers and allows individual consumers to take control of their purchase
 
 ## Video
 
-https://gateway.ipfs.io/ipfs/QmNxkai4tLHfv5iTnzhzHYa8cV7kqKFcoXaK3LoSmEWgKA/play.mp4
+ipfs://QmNxkai4tLHfv5iTnzhzHYa8cV7kqKFcoXaK3LoSmEWgKA/play.mp4
 
 ## Whitepaper
 
-https://gateway.ipfs.io/ipfs/QmYZQjKFRRCcSZDY7heq1a3miy6xcqdAXMXuAjJhVfNGHZ
+ipfs://QmYZQjKFRRCcSZDY7heq1a3miy6xcqdAXMXuAjJhVfNGHZ
 
 ## Contracts
 
@@ -56,7 +56,7 @@ https://gateway.ipfs.io/ipfs/QmYZQjKFRRCcSZDY7heq1a3miy6xcqdAXMXuAjJhVfNGHZ
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmNZD16BeEC7FnxPYcfWPHEum9WSHjk9AjrvgPEwvcNHLJ)
+![Error](ipfs://QmNZD16BeEC7FnxPYcfWPHEum9WSHjk9AjrvgPEwvcNHLJ)
 
 
 ---

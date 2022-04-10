@@ -2,12 +2,12 @@
 title: 'BakeryToken'
 description: 'BakerySwap is the 1st AMM+NFT exchange on Binance Smart Chain'
 date: '2020-09-11'
-image: 'https://gateway.ipfs.io/ipfs/QmbBufZ7y7m7wkTSYj5eKuw7HghWNTzLBXaZY2NTt5e9oJ'
+image: 'ipfs://QmbBufZ7y7m7wkTSYj5eKuw7HghWNTzLBXaZY2NTt5e9oJ'
 network: 'bsc'
 category: 'defi'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmRePLzujZHefoREB3ZFMTFN6QJaPHjQJdEqMejbYCKQYb)
+![Error](ipfs://QmRePLzujZHefoREB3ZFMTFN6QJaPHjQJdEqMejbYCKQYb)
 
 ## Introduction
 BakerySwap is a DeFi protocol built on the Binance Smart Chain that offers tasty rewards. It works as a decentralized exchange (DEX) that adopts the automated market maker (AMM) model. Stake and bake, create special NFT combos, get your own NFT pets, and more with the help of this guide. BakerySwap is a decentralized exchange adopting the automated market maker (AMM) model most people know through Uniswap. BakerySwap is one of the first projects to leverage BSC to build an AMM DEX. It is also one of the few DeFi projects on the Binance Smart Chain to offer altcoin liquidity pools.

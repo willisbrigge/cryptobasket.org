@@ -2,12 +2,12 @@
 title: 'Oasis Network'
 description: 'Oasis network is a privacy enabled blockchain platform for open finance and a responsible data economy'
 date: '2019-06-10'
-image: 'https://gateway.ipfs.io/ipfs/QmUKN5D79sBwhbt8mXvx6HjwFEaw4kK5TzvaYzrrDu6Axz'
+image: 'ipfs://QmUKN5D79sBwhbt8mXvx6HjwFEaw4kK5TzvaYzrrDu6Axz'
 network: 'ethereum'
 category: 'privacy'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmSE9U9EMpmdwv7k4h8e4AXUuCXa7pfTGx27Hfy7V2Hctt)
+![Error](ipfs://QmSE9U9EMpmdwv7k4h8e4AXUuCXa7pfTGx27Hfy7V2Hctt)
 
 ## Introduction
 Oasis network is a privacy enabled blockchain platform for open finance and a responsible data econom. Built on the Cosmos SDK Oasis Network is a privacy-focused smart contract platform for open finance. The project emphasizes data privacy and user confidentiality applications and use-cases. It tries to do this by isolating its consensus layer from its contract execution layer and offering a built-in interface for privacy-preserving computation between the two. The consensus layer serves as a hub that secures the network and reaches an agreement on transaction legality using a Proof-of-Stake (PoS) method. The execution layer is made up of a number of parallel runtimes (dubbed ParaTimes) for different types of computations that all plug into the consensus layer.

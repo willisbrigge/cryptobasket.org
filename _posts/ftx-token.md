@@ -2,12 +2,12 @@
 title: 'FTX Token'
 description: 'Trade Anywhere & Anytime'
 date: '2019-05-07'
-image: 'https://gateway.ipfs.io/ipfs/QmNocNFTRXa9E7bMrgSwLaEjodfWyDbZqG5cNQ5tMK9Jsw'
+image: 'ipfs://QmNocNFTRXa9E7bMrgSwLaEjodfWyDbZqG5cNQ5tMK9Jsw'
 network: 'bsc'
 category: 'trade'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmP8Uv7Yzg6Ggnv5zsPPuqYWTr18Fbsy1M787vF4418TyU)
+![Error](ipfs://QmP8Uv7Yzg6Ggnv5zsPPuqYWTr18Fbsy1M787vF4418TyU)
 
 ## Introduction
 FTX is a cryptocurrency exchange built by traders, for traders. FTX offers innovative products including industry-first derivatives, options, volatility products and leveraged tokens. We strive to develop a platform robust enough for professional trading firms and intuitive enough for first-time users.
@@ -28,7 +28,7 @@ FTX is a cryptocurrency exchange built by traders, for traders. FTX offers innov
 
 ## Docs
 
-[AUDITS](https://gateway.ipfs.io/ipfs/QmfUwq5SFcR5xyDPpubBNCd6RGp5TfDcrnDm9BXGaX9czH)
+[AUDITS](ipfs://QmfUwq5SFcR5xyDPpubBNCd6RGp5TfDcrnDm9BXGaX9czH)
 [WHITEPAPER](https://docs.google.com/document/d/1u5MOkENoWP8PGcjuoKqRkNP5Gl1LLRB9JvAHwffQ7ec/view)
 
 

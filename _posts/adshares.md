@@ -2,12 +2,12 @@
 title: 'Adshares'
 description: 'Adshares is the first future-proof, scalable, metaverse-ready advertising exchange protocol'
 date: '2019-02-08'
-image: 'https://gateway.ipfs.io/ipfs/Qmco4mtmk9E9AQyxrZJWtb66LpiUwJxz2NXbQid3JgWhFX'
+image: 'ipfs://Qmco4mtmk9E9AQyxrZJWtb66LpiUwJxz2NXbQid3JgWhFX'
 network: 'ethereum'
 category: 'advertisement' 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/Qmb8csQ8LhtySktMQVxcab7pzprhoZTZr8JkYhDauZTUtV)
+![Error](ipfs://Qmb8csQ8LhtySktMQVxcab7pzprhoZTZr8JkYhDauZTUtV)
 
 ## Introduction
 Adshares Network is a decentralized, peer-to-peer market for programmatic advertising.Adshares provides better transparency, less fraud, and reduced costs for all market participants.Adshares Network runs on ESC Blockchain and uses Adshares Tokens for ad payments. Fees collected from processing payments are distributed among token holders.
@@ -32,7 +32,7 @@ Adshares Network is a decentralized, peer-to-peer market for programmatic advert
 
 ## Docs
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmaZBsGtMXmdamjbJg8PYemAFHktG8e1Q2CyUMq5PqgGJ7)
+[WHITEPAPER](ipfs://QmaZBsGtMXmdamjbJg8PYemAFHktG8e1Q2CyUMq5PqgGJ7)
 
 
 ## Links
