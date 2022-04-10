@@ -22,7 +22,7 @@ Here is the example [Content File](https://github.com/moneymafia/cryptobasket.or
 
 & you will get file hash, which you can use in the markdown 
 
-https://gateway.ipfs.io/ipfs/< IPFS HASH HERE>
+ipfs://< IPFS HASH HERE>
 
 
 
