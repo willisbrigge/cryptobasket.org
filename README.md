@@ -28,3 +28,6 @@ ipfs://< IPFS HASH HERE>
 
 ## IMPROVE CODE/UI
 Feel free to edit UI and open PR
+
+## Edit Online
+https://vscode.dev/github/moneymafia/cryptobasket.org
