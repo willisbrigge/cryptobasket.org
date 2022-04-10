@@ -40,9 +40,9 @@ const DisplayPost = (props: IPostProps) => (
 		<div className="px-6 py-10 mx-auto text-center">
 			<div className="p-1 shadow-xl rounded-2xl bg-gradient-to-r from-gray-400 via-gray-600 to-blue-800">
 				<div className="block p-6 bg-white sm:p-8 rounded-xl">
-					<p className="mt-3 text-blue-400 dark:text-gray-300 uppercase text-xl">
+					<h2 className="mt-3 text-blue-400 dark:text-gray-300 uppercase text-xl">
 						#{props.network} | #{props.category}
-					</p>
+					</h2>
 
 					<h1 className="text-3xl font-bold text-gray-800 dark:text-white md:text-4xl">{props.title}</h1>
 
