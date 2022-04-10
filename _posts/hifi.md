@@ -1,14 +1,14 @@
 ---
 title: 'Hifi'
 date: '2020-10-10'
-image: 'https://gateway.ipfs.io/ipfs/QmW4nTGeAAPeKSbxc9PnYB29Wegn8NPTz7w2kKpAy5fBPa'
+image: 'ipfs://QmW4nTGeAAPeKSbxc9PnYB29Wegn8NPTz7w2kKpAy5fBPa'
 description: 'The Lending Protocol allows anyone to borrow against their crypto Buying and selling the tokenized debt enables fixedrate lending and borrowing something much needed in decentralized finance today'
 network: 'ethereum'
 category: 'protocol'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmPixR3KT6g7QfnXfS1YtAiHwyDCG83xxfsN5ktNEL98ug)
+![Error](ipfs://QmPixR3KT6g7QfnXfS1YtAiHwyDCG83xxfsN5ktNEL98ug)
 
 ## Introduction
 Hifi is a decentralized finance protocol that brings fixed-rate, fixed-term lending to Ethereum-based blockchains. Hifi protocol issues synthetic assets called hTokens, which track an arbitrary underlying asset. Unlike most decentralized finance protocols, interest rates on Hifi are not controlled by the protocol developer. It is the open market that dictates the interest rate that participants pay or receive. Similar to other decentralized finance protocols, Hifi has over-collateralization rules. That is, borrowers must be over-collateralized before they can mint hTokens.
@@ -27,7 +27,7 @@ Our intent is to bridge existing consumer credit and decentralized finance (DeFi
 
 ## Whitepaper
 
-https://gateway.ipfs.io/ipfs/QmW9NN13k5bfwXTUmepkc3soPvQ39QscHCkXLbFE1Rz8qQ
+ipfs://QmW9NN13k5bfwXTUmepkc3soPvQ39QscHCkXLbFE1Rz8qQ
 
 ## Contracts
 

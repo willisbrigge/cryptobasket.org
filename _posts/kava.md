@@ -2,12 +2,12 @@
 title: 'Kava'
 description: ' Kava is creating the best network for Web3 developers with flexible deployment, seamless interoperability, and incredible on-chain incentives'
 date: '2019-03-10'
-image: 'https://gateway.ipfs.io/ipfs/QmfAVUonrnFNZBoEpWE5TFphFriiVDKFbqNKUSXB7jYNor'
+image: 'ipfs://QmfAVUonrnFNZBoEpWE5TFphFriiVDKFbqNKUSXB7jYNor'
 network: 'ethereum'
 category: 'defi'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmUBPLExqGZ6mYnaVtG84YzBjZd5h5ynS9q5GZPNqtcJUG)
+![Error](ipfs://QmUBPLExqGZ6mYnaVtG84YzBjZd5h5ynS9q5GZPNqtcJUG)
 
 ## Introduction
 Kava is a lightning-fast Layer-1 blockchain featuring a developer-optimized co-chain architecture that combines the two most used permissionless ecosystems - Ethereum and Cosmos - into a single, scalable, network. The Kava Network’s Co-Chains combine the flexibility and speed of Ethereum smart contract development with the interoperability of the Cosmos SDK in a single network, all powered by the ultra-fast Tendermint consensus engine.

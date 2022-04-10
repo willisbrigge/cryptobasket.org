@@ -2,12 +2,12 @@
 title: 'Alchemix'
 description: 'Alchemix Self Repaying Loans allow you to leverage a range of tokens without risk of liquidation'
 date: '2021-10-10'
-image: 'https://gateway.ipfs.io/ipfs/QmSuSUcAvGkxkJ7n5RxnDyqXUchAjXMwTmNioz2xzXVfxo'
+image: 'ipfs://QmSuSUcAvGkxkJ7n5RxnDyqXUchAjXMwTmNioz2xzXVfxo'
 network: 'ethereum'
 category: 'farm'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmadCV51ubogUGAdmaUUpvPqEJ9M74SvWAfz5e2f6sAeon)
+![Error](ipfs://QmadCV51ubogUGAdmaUUpvPqEJ9M74SvWAfz5e2f6sAeon)
 
 ## Introduction
 Alchemix Self-Repaying Loans allow you to leverage a range of tokens without risk of liquidation. By borrowing a synthetic version of the asset you deposit you'll avoid the risk of liquidation. Defi innovation on a whole new level, Alchemix is the first same-asset loan product in DeFi. Using your collateral we earn yield on your behalf to pay off your loan automagically.

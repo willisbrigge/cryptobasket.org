@@ -2,12 +2,12 @@
 title: 'Everipedia'
 description: 'An ecosystem of knowledge on the blockchain'
 date: '2020-03-08'
-image: 'https://gateway.ipfs.io/ipfs/QmZYNZ8ptTyuNe24WkQB9W19WmWMgXb4btbFqERM6mZ5Fd'
+image: 'ipfs://QmZYNZ8ptTyuNe24WkQB9W19WmWMgXb4btbFqERM6mZ5Fd'
 network: 'eos'
 category: 'media'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmfK4cBjq7eiy7c64LPbVrLyrAZE1TSkBTf74y12xeao87)
+![Error](ipfs://QmfK4cBjq7eiy7c64LPbVrLyrAZE1TSkBTf74y12xeao87)
 
 ## Introduction
 Everipedia's vision is to bring blockchain knowledge to the world and knowledge onto the blockchain, helping verify facts in an era of misinformation and unlocking a new class of use cases in the blockchain space.

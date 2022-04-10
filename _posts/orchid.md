@@ -2,12 +2,12 @@
 title: 'Orchid'
 description: 'Keep your data private and access content anywhere! Download our VPN to protect your privacy and explore the Internet freely'
 date: '2018-10-10'
-image: 'https://gateway.ipfs.io/ipfs/QmV3zaqMdjcG6y8f4G4hdWNFEqBvbn3ugaaUv2scwK11oX'
+image: 'ipfs://QmV3zaqMdjcG6y8f4G4hdWNFEqBvbn3ugaaUv2scwK11oX'
 network: 'ethereum'
 category: 'web3'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmUmbhdarQbysCjeSmRDutV9j247uG6gHyauPBoyTGcWRX)
+![Error](ipfs://QmUmbhdarQbysCjeSmRDutV9j247uG6gHyauPBoyTGcWRX)
 
 ## Introduction
 Orchid is a platform that enables an onion routing network incentivized by OXT and a multi-hop VPN client. The Orchid community believes in Open Source software and that Orchid can enable a brighter, freer and empowered future. Multi-chain compatibility gives users an alternative to high gas prices on Ethereum by allowing them to pay for service on other chains. A system for multiple chains allows users and providers options to find lower transaction fees, and helps provide the most competitive network fee pricing to users everywhere.
@@ -21,7 +21,7 @@ Orchid is a platform that enables an onion routing network incentivized by OXT a
 
 ## Docs
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmaVesPp56miXVxissFeeMDWhfLp84uWA4C5Y4mCWSfHRq)
+[WHITEPAPER](ipfs://QmaVesPp56miXVxissFeeMDWhfLp84uWA4C5Y4mCWSfHRq)
 
 
 ## Links

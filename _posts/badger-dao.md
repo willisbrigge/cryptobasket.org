@@ -2,12 +2,12 @@
 title: 'Badger DAO'
 description: 'Building Products to Bring BTC to DeFi'
 date: '2020-08-11'
-image: 'https://gateway.ipfs.io/ipfs/QmfNL8QwncpxGgy149uZeSMLRexcFqKa8ff4V8i2ytKQfh'
+image: 'ipfs://QmfNL8QwncpxGgy149uZeSMLRexcFqKa8ff4V8i2ytKQfh'
 network: 'ethereum'
 category: 'yield-aggregator'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmcE1C1fZnvEmK6GGedJAGgD7rVdtBDNeoLcdsf83i3sQm)
+![Error](ipfs://QmcE1C1fZnvEmK6GGedJAGgD7rVdtBDNeoLcdsf83i3sQm)
 
 ## Introduction
 Badger is a decentralized autonomous organization (DAO) focused on building the products and infrastructure necessary to accelerate the growth of Bitcoin in Decentralized Finance (DeFi) across multiple blockchains.
@@ -21,7 +21,7 @@ Specifically, it is an ecosystem where projects and people from across all DeFi 
 
 ## Docs
 
-[AUDITS](https://gateway.ipfs.io/ipfs/QmSSqaXK2p2AvUgFgewxLaEL6yKDAXBvbh5B45gKLRmSE8)
+[AUDITS](ipfs://QmSSqaXK2p2AvUgFgewxLaEL6yKDAXBvbh5B45gKLRmSE8)
 
 
 ## Links

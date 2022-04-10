@@ -2,12 +2,12 @@
 title: 'Elemon'
 description: 'Elemon The best IDLE RPG game on blockchain '
 date: '2021-08-10'
-image: 'https://gateway.ipfs.io/ipfs/QmNza1pkvTQ1djh8NYLisSL6LxmyryyPnTjzF4ud7DxoVW'
+image: 'ipfs://QmNza1pkvTQ1djh8NYLisSL6LxmyryyPnTjzF4ud7DxoVW'
 network: 'bsc'
 category: 'metavrese'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmX2jBNfXftiv5UyYYenGJfs8FNHnrYRmubBAvrkur3Aer)
+![Error](ipfs://QmX2jBNfXftiv5UyYYenGJfs8FNHnrYRmubBAvrkur3Aer)
 
 ## Introduction
 Elemon hosted on BSC - is a platform that features tokenized Digital creatures in a virtual universe. This leverages the unique feature of Non-Fungibility that ERC-721 offers. ERC721 is a standard for representing ownership of non-fungible tokens, this implies that each token is unique such as in collectibles or real estate.

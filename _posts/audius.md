@@ -1,14 +1,14 @@
 ---
 title: 'Audius'
 date: '2020-10-10'
-image: 'https://gateway.ipfs.io/ipfs/QmdiMVAebQGmSYH7ELX3hkda5PSm1MXmkjmpsJy6bjhezx'
+image: 'ipfs://QmdiMVAebQGmSYH7ELX3hkda5PSm1MXmkjmpsJy6bjhezx'
 description: 'Freedom to share and listen'
 network: 'ethereum'
 category: 'music'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmedchgnJ8kut5VdohyBs5eYRYH2E2qw2QZHtYW3WMD2q1)
+![Error](ipfs://QmedchgnJ8kut5VdohyBs5eYRYH2E2qw2QZHtYW3WMD2q1)
 
 ## Introduction
 
@@ -47,15 +47,15 @@ The music industry generates $43 billion in revenue but only 12% goes to content
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmYyH2u3Ffx48ziD45wYsgtnAUrWpHwNhghHcpy9XmZKZL)
+![Error](ipfs://QmYyH2u3Ffx48ziD45wYsgtnAUrWpHwNhghHcpy9XmZKZL)
 
 ---
 
 ## Reference 
 
-[AUDIT](https://gateway.ipfs.io/ipfs/QmcP2urW93NUU2uY5TCc6853G17Uq2Se2QnRh2zkBvorCr)
+[AUDIT](ipfs://QmcP2urW93NUU2uY5TCc6853G17Uq2Se2QnRh2zkBvorCr)
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmZ6wx4TzgukgHibVjm1EAAuTtqZW22gicNJeLmDqTGGjW)
+[WHITEPAPER](ipfs://QmZ6wx4TzgukgHibVjm1EAAuTtqZW22gicNJeLmDqTGGjW)
 
 ## Links
 

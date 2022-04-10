@@ -2,12 +2,12 @@
 title: 'UFO Gaming'
 description: 'Play to earn games are the new gaming model taking the world by storm'
 date: '2021-07-11'
-image: 'https://gateway.ipfs.io/ipfs/QmQ1MmfgL57CbUzGaLkjAuJW2bGZqbRjYuUJdhHuX6zPDQ'
+image: 'ipfs://QmQ1MmfgL57CbUzGaLkjAuJW2bGZqbRjYuUJdhHuX6zPDQ'
 network: 'ethereum'
 category: 'gaming'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmfQYnhs1w5G8xuoPCXQ1XsiRKZZpXkzBM6RXRWX5zHzno)
+![Error](ipfs://QmfQYnhs1w5G8xuoPCXQ1XsiRKZZpXkzBM6RXRWX5zHzno)
 
 ## Introduction
 UFO Gaming ($UFO) is a fully decentralized gaming platform bridging traditional games onto the blockchain and giving players the ability to earn while playing. Blockchain. P22 Metaverse. Virtual land. NFT. Gaming. $UFO will be the primary utility token of the Dark Metaverse. In The Dark Metaverse, each game that we release will represent its own planet. The first game or planet that we release in the Dark Metaverse is Super Galactic.
@@ -21,7 +21,7 @@ UFO Gaming ($UFO) is a fully decentralized gaming platform bridging traditional 
 
 ## Docs
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmXUknfZARmdbqg36R2oWyTkyZSziirQcCfvUzsx9QknG6)
+[WHITEPAPER](ipfs://QmXUknfZARmdbqg36R2oWyTkyZSziirQcCfvUzsx9QknG6)
 
 
 ## Links

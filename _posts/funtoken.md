@@ -2,7 +2,7 @@
 title: 'Fun Token'
 description: 'Funtoken is the number one crypto currency for all things gaming'
 date: '2021-5-4'
-image: 'https://gateway.ipfs.io/ipfs/QmP3gLWdFU1cPpNC93sUnMBp7t5osRa1jey13swna18F5f'
+image: 'ipfs://QmP3gLWdFU1cPpNC93sUnMBp7t5osRa1jey13swna18F5f'
 network: 'ethereum'
 category: 'gambling'
 ---

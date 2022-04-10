@@ -2,12 +2,12 @@
 title: 'Voyager Token'
 description: 'Jump into the world of crypto trade more than hundred crypto assets'
 date: '2019-05-07'
-image: 'https://gateway.ipfs.io/ipfs/QmNza1pkvTQ1djh8NYLisSL6LxmyryyPnTjzF4ud7DxoVW'
+image: 'ipfs://QmNza1pkvTQ1djh8NYLisSL6LxmyryyPnTjzF4ud7DxoVW'
 network: 'ethereum'
 category: 'token'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmX2jBNfXftiv5UyYYenGJfs8FNHnrYRmubBAvrkur3Aer)
+![Error](ipfs://QmX2jBNfXftiv5UyYYenGJfs8FNHnrYRmubBAvrkur3Aer)
 
 ## Introduction
 
@@ -30,7 +30,7 @@ Build your wealth Earn up to 12% annual rewards. Beat your bank by earning top r
 
 ## Docs
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmSEnXaDv28j5MgJtHXBjwV8GEfarFnSr1CdUHVju3kmrp)
+[WHITEPAPER](ipfs://QmSEnXaDv28j5MgJtHXBjwV8GEfarFnSr1CdUHVju3kmrp)
 
 ## Links
 

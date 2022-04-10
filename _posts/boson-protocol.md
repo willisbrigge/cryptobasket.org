@@ -2,12 +2,12 @@
 title: 'Boson Protocol'
 description: 'Connecting Metaverse to real world Commerce.'
 date: '2019-11-11'
-image: 'https://gateway.ipfs.io/ipfs/QmVFJJg5RcgMbUBLRDTcccEtqgwmJ8sy5kTUk1pw6qDryW'
+image: 'ipfs://QmVFJJg5RcgMbUBLRDTcccEtqgwmJ8sy5kTUk1pw6qDryW'
 network: 'ethereum'
 category: 'metaverse'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmX1N7bCmJ3FHSeFDdNfX3o5YGrPu824hfvWEQSQ84ZgSA)
+![Error](ipfs://QmX1N7bCmJ3FHSeFDdNfX3o5YGrPu824hfvWEQSQ84ZgSA)
 
 ## Introduction
 With Boson Protocol you can build commerce applications that everyone can trust and anyone can use. Built for creators, communities and merchants, Boson Protocol enables the seamless exchange of digital assets for physical products, services and experiences.

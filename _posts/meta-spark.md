@@ -2,12 +2,12 @@
 title: 'MetaSpark'
 description: 'MetaSpark is the First Metaverse Dating platform to launch with Photo-realistic Avatars and face-tracking '
 date: '2022-04-9'
-image: 'https://gateway.ipfs.io/ipfs/QmXfuBHrT2j1G8ybfEgJukGaA9erf1sGx55i2PGYSs9zCP'
+image: 'ipfs://QmXfuBHrT2j1G8ybfEgJukGaA9erf1sGx55i2PGYSs9zCP'
 network: 'bsc'
 category: 'metaverse'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmX7MRWTAJjgKFYkmwucT9xLPf2zTiDoovwSGtmGBBR8BF)
+![Error](ipfs://QmX7MRWTAJjgKFYkmwucT9xLPf2zTiDoovwSGtmGBBR8BF)
 
 ## Introduction
 MetaSpark is the next generation of online dating, offering an immersive VR Metaverse that lets you to explore beyond the physical and geographical limitations of conventional dating. The MetaSpark $SPARK token is a transactional and utility token. $SPARK will be launched on Binance Smart Chain (BSC) and will be purchasable on PancakeSwap.

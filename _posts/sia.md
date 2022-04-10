@@ -1,14 +1,14 @@
 ---
 title: 'Sia'
 date: '2020-05-06'
-image: 'https://gateway.ipfs.io/ipfs/QmakgajB28qejtsEm36Fmii1yTSeZZgmbRkFNP9MPNvWZB'
+image: 'ipfs://QmakgajB28qejtsEm36Fmii1yTSeZZgmbRkFNP9MPNvWZB'
 description: 'Decentralized storage for the post cloud world'
 network: 'bsc'
 category: 'utility'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmS7TzsnhCqBFiEmQLLVg1MFsRXsCk7Jw8G11Ss3fEpTb1)
+![Error](ipfs://QmS7TzsnhCqBFiEmQLLVg1MFsRXsCk7Jw8G11Ss3fEpTb1)
 
 ## Introduction
 
@@ -30,7 +30,7 @@ Sia is reinventing cloud storage. Our technology connects users who need file st
 
 ## Whitepaper
 
-https://gateway.ipfs.io/ipfs/QmNu7Mvt43vfdV95CHuStN8QJUjWzv34EThgswtmumgNuS
+ipfs://QmNu7Mvt43vfdV95CHuStN8QJUjWzv34EThgswtmumgNuS
 
 ## Contracts
 

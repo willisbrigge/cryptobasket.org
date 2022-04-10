@@ -2,7 +2,7 @@
 title: 'AmazonSwap'
 description: 'AmazonSwap is an innovative DEX that combines good returns for investors and the smart use of fees to create a sustainable ecosystem'
 date: '2022-04-01'
-image: 'https://gateway.ipfs.io/ipfs/QmewPPWXQ7N93MDCak1J9L7zwndLYqcLCBRxdTaZRCKKER'
+image: 'ipfs://QmewPPWXQ7N93MDCak1J9L7zwndLYqcLCBRxdTaZRCKKER'
 network: 'bsc'
 category: 'exchange'
 ---
@@ -30,7 +30,7 @@ AmazonSwap is a project that seeks to solve the main problem of cryptocurrencies
 
 ## Docs
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmZ5oCqaXz3xpbxzCnJnHmuxBuBSNaZHZ9nJTdWe3jaQwG)
+[WHITEPAPER](ipfs://QmZ5oCqaXz3xpbxzCnJnHmuxBuBSNaZHZ9nJTdWe3jaQwG)
 
 ## Links
 

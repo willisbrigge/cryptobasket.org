@@ -2,12 +2,12 @@
 title: 'Tezos'
 description: 'Tezos is a self upgradable and energy efficient Proof of Stake blockchain.'
 date: '2019-05-06'
-image: 'https://gateway.ipfs.io/ipfs/QmbZiAyMoUmCf9Z843EuCCXuetsbQFDaeVyrNzdS4E2NwU'
+image: 'ipfs://QmbZiAyMoUmCf9Z843EuCCXuetsbQFDaeVyrNzdS4E2NwU'
 network: 'bsc'
 category: 'defi'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmQGevhQp24CZxfKiP9t86LxvVgxsp17GYsZRaJWt5i6c1)
+![Error](ipfs://QmQGevhQp24CZxfKiP9t86LxvVgxsp17GYsZRaJWt5i6c1)
 
 ## Introduction
 Tezos is a distributed consensus platform with meta-consensus capability. Tezos not only comes to consensus about the state of its ledger, like Bitcoin or Ethereum. It also attempts to come to consensus about how the protocol and the nodes should adapt and upgrade. The Tezos network is the current incarnation of the Tezos blockchain. It runs with real tez that have been allocated to the donors of July 2017 ICO.
@@ -30,7 +30,7 @@ Alexis Bonte | Member |
 
 ## Docs
 
-[AUDITS](https://gateway.ipfs.io/ipfs/QmNwcevwcyBMHbuvzJeRGMz3Z7xUnSag673e24W5BFGe5Z)
+[AUDITS](ipfs://QmNwcevwcyBMHbuvzJeRGMz3Z7xUnSag673e24W5BFGe5Z)
 
 
 ## Links

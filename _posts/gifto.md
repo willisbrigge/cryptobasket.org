@@ -2,12 +2,12 @@
 title: 'Gifto'
 description: 'Gifto is a decentralized gifting protocol'
 date: '2020-01-01'
-image: 'https://gateway.ipfs.io/ipfs/QmPtFPLBpedqHYHthehoPeXXt1WeCUM5iQmirJeiHZ4WNN'
+image: 'ipfs://QmPtFPLBpedqHYHthehoPeXXt1WeCUM5iQmirJeiHZ4WNN'
 network: 'ethereum'
 category: 'media'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmZYbmJns5V6VQ4pQBxs29f7UmpMLWTYktLmBLoN25smid)
+![Error](ipfs://QmZYbmJns5V6VQ4pQBxs29f7UmpMLWTYktLmBLoN25smid)
 
 ## Introduction
 
@@ -33,7 +33,7 @@ Gifto is said to be a decentralized gifting protocol, which is a concept popular
 
 ## Docs
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmZkufgYPVRFmuKBesTGyaYZnCG9hh2DNfxiubD93NiWEJ)
+[WHITEPAPER](ipfs://QmZkufgYPVRFmuKBesTGyaYZnCG9hh2DNfxiubD93NiWEJ)
 
 
 ## Links

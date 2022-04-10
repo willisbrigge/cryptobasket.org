@@ -2,12 +2,12 @@
 title: 'SeedifyFund'
 description: 'The Incubator and Launchpad for Blockchain Games, NFTs, and metaverses'
 date: '2021-10-11'
-image: 'https://gateway.ipfs.io/ipfs/QmcLFoacMef4qZQ9WZ7fPN2AnP8jXiFYdBRLtFt3h4SpBE'
+image: 'ipfs://QmcLFoacMef4qZQ9WZ7fPN2AnP8jXiFYdBRLtFt3h4SpBE'
 network: 'bsc'
 category: 'launchpad'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmRovkSm3pzKfzAgCRSCUwysnHTbNX1sWZgdee7mh3CFYC)
+![Error](ipfs://QmRovkSm3pzKfzAgCRSCUwysnHTbNX1sWZgdee7mh3CFYC)
 
 ## Introduction
 Seedify.fund is a blockchain innovation hub with a DAO-driven seed stage fund, decentralized incubator, and launchpad, for empowering next innovations of the blockchain ecosystem, through community-driven governance, feedback, involvement and funding mechanisms. At Seedify.fund, stakers and our community members who involve in the success of the projects that get their seed fund and incubated through community votings, receive reward tokens from all selected & funded projects, creating a DeFi seed fund mechanism to create diversified portfolios of reward tokens through staking SFUNDs. 

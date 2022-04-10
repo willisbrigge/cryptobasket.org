@@ -2,12 +2,12 @@
 title: 'SwissBorg'
 description: 'Invest in cryptos the smart way'
 date: '2020-08-06'
-image: 'https://gateway.ipfs.io/ipfs/Qmb9PkYQLM3YxRz2xWFhBYrhS7iMNTM7ENmUReqn3j2B6r'
+image: 'ipfs://Qmb9PkYQLM3YxRz2xWFhBYrhS7iMNTM7ENmUReqn3j2B6r'
 network: 'ethereum'
 category: 'staking'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmZLRP2qEtNvfmg6vNFj6Z4tNbtoxsRBRmcrAQiDbXQbzb)
+![Error](ipfs://QmZLRP2qEtNvfmg6vNFj6Z4tNbtoxsRBRmcrAQiDbXQbzb)
 
 ## Introduction
 

@@ -2,12 +2,12 @@
 title: 'Serum'
 description: 'Faster, Cheaper and more Powerful DeFi'
 date: '2020-08-01'
-image: 'https://gateway.ipfs.io/ipfs/Qmb3Dtjr64MCkogGpdXwY7FVMicfqPV2sxeK6PrhN5aFyz'
+image: 'ipfs://Qmb3Dtjr64MCkogGpdXwY7FVMicfqPV2sxeK6PrhN5aFyz'
 network: 'ethereum'
 category: 'defi'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmVnNYaj2Zwy4JnocQmHCXwJj3FfUEiCsnyR9b8nA1UmHQ)
+![Error](ipfs://QmVnNYaj2Zwy4JnocQmHCXwJj3FfUEiCsnyR9b8nA1UmHQ)
 
 ## Introduction
 Serum brings the speed and convenience of centralized exchanges to DeFi while remaining fully trustless and transparent. Serum is a protocol for decentralized exchanges that brings unprecedented speed and low transaction costs to decentralized finance. It is built on Solana and is completely permissionless. Serum is a protocol and ecosystem that brings unprecedented speed and low transaction costs to decentralized finance. It is built on Solana and is completely permissionless. Ecosystem partners can compose with Serum’s on-chain central limit orderbook to share liquidity and power markets-based features for institutional and retail users.
@@ -23,7 +23,7 @@ Serum brings the speed and convenience of centralized exchanges to DeFi while re
 ## Docs
 
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmPrm3SzYyNXXNM6RyT8vC6cB1j9r4od3YEsKXb3ZUAm31)
+[WHITEPAPER](ipfs://QmPrm3SzYyNXXNM6RyT8vC6cB1j9r4od3YEsKXb3ZUAm31)
 
 
 ## Links

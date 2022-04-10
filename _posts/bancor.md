@@ -2,12 +2,12 @@
 title: 'Bancor'
 description: 'Bancor is the first decentralized trading protocol, empowering traders, liquidity providers & developers'
 date: '2019-04-11'
-image: 'https://gateway.ipfs.io/ipfs/QmacCtATgZoyFLXbmUP7mgvWJWMLkwuoF3ft6uR9HzdjKw'
+image: 'ipfs://QmacCtATgZoyFLXbmUP7mgvWJWMLkwuoF3ft6uR9HzdjKw'
 network: 'ethereum'
 category: 'scaling'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmPGnhJqVUhC5dDhuMVcuYpov95QrxKeh9CYLvte2nE6kR)
+![Error](ipfs://QmPGnhJqVUhC5dDhuMVcuYpov95QrxKeh9CYLvte2nE6kR)
 
 ## Introduction
 Bancor is the first decentralized trading protocol, empowering traders, liquidity providers & developers to participate in an open financial marketplace with no barriers to entry. No one needs permission to use the open-source Bancor Protocol. Bancor is owned and operated by its community as a decentralized autonomous organization (DAO). The Bancor Protocol is governed via a democratic and transparent voting system which allows all stakeholders to get involved and shape Bancor’s future.
@@ -29,7 +29,7 @@ Bancor is the first decentralized trading protocol, empowering traders, liquidit
 
 ## Docs
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmWqCk4N1oyKJKs7s78jnyWBAp84wH2PAfi5EVw8LLzeuo)
+[WHITEPAPER](ipfs://QmWqCk4N1oyKJKs7s78jnyWBAp84wH2PAfi5EVw8LLzeuo)
 
 
 ## Links

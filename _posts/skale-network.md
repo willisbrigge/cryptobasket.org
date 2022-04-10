@@ -2,12 +2,12 @@
 title: 'SKALE Network'
 description: 'The only Ethereum native multichain scaling network'
 date: '2019-08-04'
-image: 'https://gateway.ipfs.io/ipfs/Qmcbqwx25TixWg6AUjAc8rdhcXTCwp4mqfHV3bTc9B7BC9'
+image: 'ipfs://Qmcbqwx25TixWg6AUjAc8rdhcXTCwp4mqfHV3bTc9B7BC9'
 network: 'ethereum'
 category: 'scaling'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmRcEAhjfq75SacPy9Eat3uVtYGEEscQpSGJ8jHZmz2vtg)
+![Error](ipfs://QmRcEAhjfq75SacPy9Eat3uVtYGEEscQpSGJ8jHZmz2vtg)
 
 ## Introduction
 SKALE proposes a decentralized, configurable network of on-demand blockchains that supporthigh-throughput, low-cost, and low-latency transactions enabled with storage capabilities and advanced analytics. Additionally, SKALE proposes messaging protocols that enable participants to communicate between these disparate systems. This system aims to provide Ethereum-as-a-Service to developers by providing a gasless subscription-based decentralized network for the provisioning and deployment of high-throughput, EVM-compatible, storage-enabled, provably secure byzantine fault tolerant blockchains.

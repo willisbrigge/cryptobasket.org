@@ -2,12 +2,12 @@
 title: 'Horizen'
 description: 'The Zero-Knowledge Enabled Network of Blockchains'
 date: '2019-07-09'
-image: 'https://gateway.ipfs.io/ipfs/QmTKP6zm7ymc62Zmy8bJChWuxrnGT8GKQZ3heV6YMUvVAA'
+image: 'ipfs://QmTKP6zm7ymc62Zmy8bJChWuxrnGT8GKQZ3heV6YMUvVAA'
 network: 'horizen'
 category: 'privacy'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmXFGCJAt5rowSCcJKNouYEizft1gdjwMmL5KnypZMipsC)
+![Error](ipfs://QmXFGCJAt5rowSCcJKNouYEizft1gdjwMmL5KnypZMipsC)
 
 ## Introduction
 Horizen is the most secure interoperable blockchain ecosystem supported by the largest and most decentralized multi-tiered node infrastructure in the industry. Horizen's sidechain platform focuses on scalable data privacy and enables businesses and developers to custom build their own public or private blockchains using its unique sidechain technology, Zendoo.

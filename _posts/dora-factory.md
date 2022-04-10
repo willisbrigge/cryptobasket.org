@@ -2,7 +2,7 @@
 title: 'Dora Factory'
 description: 'Dora is a dao for future organisation and communities'
 date: '2020-07-05'
-image: 'https://gateway.ipfs.io/ipfs/QmcYDX9eaEyNFVZvv6k7ooBaFc8Lqn9RTFzTUGvJZp7qC9'
+image: 'ipfs://QmcYDX9eaEyNFVZvv6k7ooBaFc8Lqn9RTFzTUGvJZp7qC9'
 network: 'ethereum'
 category: 'dao'
 ---

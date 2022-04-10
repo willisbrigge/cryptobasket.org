@@ -2,12 +2,12 @@
 title: 'Bloktopia'
 description: ' Earn, Play, Create in the Home of Crypto'
 date: '2021-10-12'
-image: 'https://gateway.ipfs.io/ipfs/QmNhTEfEU6yeCqcpkAas9jQCGAkdVh3TbcPSXDzsEpXdRz'
+image: 'ipfs://QmNhTEfEU6yeCqcpkAas9jQCGAkdVh3TbcPSXDzsEpXdRz'
 network: 'bsc'
 category: 'metaverse'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmcApyZsU42UxgcMo9aCM3jt1wcm1ikGiHrYodHkceVKps)
+![Error](ipfs://QmcApyZsU42UxgcMo9aCM3jt1wcm1ikGiHrYodHkceVKps)
 
 ## Introduction
 
@@ -23,7 +23,7 @@ category: 'metaverse'
 
 
 ## Docs
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmPvfrcmUnpPCmfDvCuggdzvw4WNcAcgiU1WybAEDrnUFk)
+[WHITEPAPER](ipfs://QmPvfrcmUnpPCmfDvCuggdzvw4WNcAcgiU1WybAEDrnUFk)
 
 
 ## Links

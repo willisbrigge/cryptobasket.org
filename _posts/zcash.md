@@ -2,12 +2,12 @@
 title: 'Zcash'
 description: 'Zcash is a digital currency fast and confidential with low fees. It is perfect for mobile payments'
 date: '2019-07-05'
-image: 'https://gateway.ipfs.io/ipfs/Qmcwit3AoLaCiRaaC11KumT49UJhmicwwCsmhSGPWvma96'
+image: 'ipfs://Qmcwit3AoLaCiRaaC11KumT49UJhmicwwCsmhSGPWvma96'
 network: 'bsc'
 category: 'privacy'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmX2kne2yetdbx6ApU1rTqfoksVaxDB1ZsuaeHLJdLyg3z)
+![Error](ipfs://QmX2kne2yetdbx6ApU1rTqfoksVaxDB1ZsuaeHLJdLyg3z)
 
 ## Introduction
 
@@ -23,8 +23,8 @@ Zcash is a cryptocurrency that uses advanced applied cryptography to provide enh
 
 ## Docs
 
-[AUDITS](https://gateway.ipfs.io/ipfs/QmdJPrJDeXSuvMW16xdqAQVqPAW8uwBRaG2zLBFvQAfvWG)
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmZnuX5AEXUr47buK4frXy2DVHyUBwLK9rHoyQNcp9sb9T)
+[AUDITS](ipfs://QmdJPrJDeXSuvMW16xdqAQVqPAW8uwBRaG2zLBFvQAfvWG)
+[WHITEPAPER](ipfs://QmZnuX5AEXUr47buK4frXy2DVHyUBwLK9rHoyQNcp9sb9T)
 
 ## Links
 

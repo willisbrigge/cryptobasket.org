@@ -2,12 +2,12 @@
 title: 'CEEK'
 description: 'Ceek connects music artists, atheletes, and ither digital creators directly to their fans'
 date: '2019-02-15'
-image: 'https://gateway.ipfs.io/ipfs/QmYVkbQ81uKmJWHbUCqLmwqBrH9ymcnb7uEEz4hZeCe9U5'
+image: 'ipfs://QmYVkbQ81uKmJWHbUCqLmwqBrH9ymcnb7uEEz4hZeCe9U5'
 network: 'ethereum'
 category: 'vr'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmT9CeVeNdkU3YAqx21BWRpxcsN27q8AkmjiyhHCc5pivr)
+![Error](ipfs://QmT9CeVeNdkU3YAqx21BWRpxcsN27q8AkmjiyhHCc5pivr)
 
 ## Introduction
 Defi for music artists, sports, and content creators.CEEK directly connects music artists, athletes, and other digital content creators directly to their fans in virtual worlds. CEEK’s platform enables the tokenization of smart tickets for content creators, which can track and verify sales of tickets and digital assets on the CEEK blockchain. This ensures royalty payouts to creators through immutable data on a ledger.

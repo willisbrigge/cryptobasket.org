@@ -2,12 +2,12 @@
 title: 'Arweave'
 description: 'store data permanently, it allows users to truly store data forever'
 date: '2019-10-04'
-image: 'https://gateway.ipfs.io/ipfs/QmWif9epFDSMRLbvjFqLpcsF6dSVfEBPZcLr1AkojZrbWj'
+image: 'ipfs://QmWif9epFDSMRLbvjFqLpcsF6dSVfEBPZcLr1AkojZrbWj'
 network: 'dsn'
 category: 'storage'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmdqrDm78nFDcSZHE9kbzQoXsxGn6fEh7QjA2ScGoLcBkj)
+![Error](ipfs://QmdqrDm78nFDcSZHE9kbzQoXsxGn6fEh7QjA2ScGoLcBkj)
 
 ## Introduction
 
@@ -29,7 +29,7 @@ Arweave is a new type of storage that backs data with sustainable and perpetual 
 |Damon Sweeney| Developer |
 
 ## Docs
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/Qme3oMAFKE985EYSE5dcBbLGqHFHHJt4BFNZH236gXAmSp)
+[WHITEPAPER](ipfs://Qme3oMAFKE985EYSE5dcBbLGqHFHHJt4BFNZH236gXAmSp)
 
 
 ## Links

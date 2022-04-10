@@ -1,14 +1,14 @@
 ---
 title: 'Playcent'
 date: '2021-01-10'
-image: 'https://gateway.ipfs.io/ipfs/QmZ9NgCeAiCz6zsMKwo4bxT4gCMHbHwQ5Q9va84YgxUApQ'
+image: 'ipfs://QmZ9NgCeAiCz6zsMKwo4bxT4gCMHbHwQ5Q9va84YgxUApQ'
 description: 'NFT, gaming, and social token suite, allowing creators to monetize their skills'
 network: 'ethereum'
 category: 'nft'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmSX9djBPVah7jrgiWBn27jxj5AEnTFjNoREoifbPdbnj3)
+![Error](ipfs://QmSX9djBPVah7jrgiWBn27jxj5AEnTFjNoREoifbPdbnj3)
 
 ## Introduction
 Playcent is a blockchain based user generated content platform for interactive apps and games. It’s a remix tool that anyone can use to make interactive games, mini-apps, and memes based on the various templates created by independent developers. 

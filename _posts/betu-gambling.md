@@ -1,14 +1,14 @@
 ---
 title: 'Betu'
 date: '2021-07-06'
-image: 'https://gateway.ipfs.io/ipfs/QmP2Gm7JYU5LgSzZoCnNSYxb2EeRNKRvxGjdZihhiQMWyG'
+image: 'ipfs://QmP2Gm7JYU5LgSzZoCnNSYxb2EeRNKRvxGjdZihhiQMWyG'
 description: 'Sports, esports & crypto betting platform.'
 network: 'bsc'
 category: 'gambling'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmRhFBPwVtgybZtpBJqMh65hUyZAvAmKpvdj9S6V2RiKBq)
+![Error](ipfs://QmRhFBPwVtgybZtpBJqMh65hUyZAvAmKpvdj9S6V2RiKBq)
 
 ## Introduction
 
@@ -26,7 +26,7 @@ The BetU Platform will enable people to become their own bookmaker and bet again
 
 ## Video
 
-https://gateway.ipfs.io/ipfs/QmbNfUCuDZ7THHTxmFitp15ryHd56K3Gfjw79QRPxN86N1/BetU.mp4
+ipfs://QmbNfUCuDZ7THHTxmFitp15ryHd56K3Gfjw79QRPxN86N1/BetU.mp4
 
 
 ## Contracts

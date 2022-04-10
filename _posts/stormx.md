@@ -2,12 +2,12 @@
 title: 'StormX'
 description: 'The easiest way to earn crypto'
 date: '2021-03-04'
-image: 'https://gateway.ipfs.io/ipfs/QmcUgzg3PY1V5dw5KsuSqG7KRPEJSqbfmZvmSMBy7uyign'
+image: 'ipfs://QmcUgzg3PY1V5dw5KsuSqG7KRPEJSqbfmZvmSMBy7uyign'
 network: 'ethereum'
 category: 'media'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmZqXnN5C4ZAxDhzZbKpEU9rLHZyQyutd1na6gTFwRjC3g)
+![Error](ipfs://QmZqXnN5C4ZAxDhzZbKpEU9rLHZyQyutd1na6gTFwRjC3g)
 
 ## Introduction
 It is a revolutionary app and chrome extension platform based on blockchain technology that allow users to earn crypto rewards and stake them by whether from shopping or completing multiple tasks. The research aims to investigate this platform and its mechanism of action, as it will go deeper to get to know it, as well as how to use it and what it can offer to the user. The research will also try to display analytical data that will lead to the conclusion whether it is feasible to enter StormX world.
@@ -29,7 +29,7 @@ It is a revolutionary app and chrome extension platform based on blockchain tech
 ## Docs
 
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmRNQfx1TbQ4ynd7Xismn3E5UGYoK9kQeogJyjtRX4rsbW)
+[WHITEPAPER](ipfs://QmRNQfx1TbQ4ynd7Xismn3E5UGYoK9kQeogJyjtRX4rsbW)
 
 
 ## Links

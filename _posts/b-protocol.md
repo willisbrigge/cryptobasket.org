@@ -1,13 +1,13 @@
 ---
 title: 'BProtocol'
 date: '2020-08-08'
-image: 'https://gateway.ipfs.io/ipfs/QmTLd1jGDad7hMT6uUGGp3D5aCv3QmvaMjoPZ2htzVF2Sh'
+image: 'ipfs://QmTLd1jGDad7hMT6uUGGp3D5aCv3QmvaMjoPZ2htzVF2Sh'
 description: 'BProtocol is DeFi backstop liquidity protocol'
 network: 'ethereum'
 category: 'defi'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmbTfx3yMnLL9LNFusekMRGX5SpifsxNWhxLtwHbHshyAm)
+![Error](ipfs://QmbTfx3yMnLL9LNFusekMRGX5SpifsxNWhxLtwHbHshyAm)
 
 ## Introduction
 
@@ -26,7 +26,7 @@ B.Protocol aims to make lending platforms more capital efficient and stable by i
 
 ## Whitepaper
 
-https://gateway.ipfs.io/ipfs/Qmb2ZMk7F48jYSwJczdJeqXJz7CZVh8H4KnfyNdHZSMRG5
+ipfs://Qmb2ZMk7F48jYSwJczdJeqXJz7CZVh8H4KnfyNdHZSMRG5
 
 
 ## Contracts

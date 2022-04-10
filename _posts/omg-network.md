@@ -2,12 +2,12 @@
 title: 'OMG Network'
 description: 'OMG Network is a decentralized, public network that allows high throughput, low-cost peer to peer transactions'
 date: '2021-08-05'
-image: 'https://gateway.ipfs.io/ipfs/QmNza1pkvTQ1djh8NYLisSL6LxmyryyPnTjzF4ud7DxoVW'
+image: 'ipfs://QmNza1pkvTQ1djh8NYLisSL6LxmyryyPnTjzF4ud7DxoVW'
 network: 'etereum'
 category: 'scaling'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmX2jBNfXftiv5UyYYenGJfs8FNHnrYRmubBAvrkur3Aer)
+![Error](ipfs://QmX2jBNfXftiv5UyYYenGJfs8FNHnrYRmubBAvrkur3Aer)
 
 ## Introduction
 The OMG Network is a decentralized, public network that allows high throughput, low-cost peer-to-peer transactions. With the OMG Network, anyone can transact value across geographies, asset classes, and applications. The OMG Network leverages Layer-2 Plasma architecture to provide high throughput and strong safety guarantees for third parties who wish to build scalable, decentralized payment apps on the Ethereum Network. The OMG Network allows you to access, manage, and transact with digital assets that are kept securely on the blockchain.

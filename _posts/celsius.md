@@ -2,12 +2,12 @@
 title: 'Celsius'
 description: 'Celsius network is a regulated, SEC compliant, lending platform that enables users to receive interest on deposited cryptocurrencies or take out crypto collateralized loans'
 date: '2019-07-10'
-image: 'https://gateway.ipfs.io/ipfs/QmRkve8btc5NegocoV71PF38PposWFWBCBL8tuhXmCjBFP'
+image: 'ipfs://QmRkve8btc5NegocoV71PF38PposWFWBCBL8tuhXmCjBFP'
 network: 'ethereum'
 category: 'finance'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmYv4HBnsym4x9FBn2q5NFzNyabR6tHzKr62Ey48FcwtMv)
+![Error](ipfs://QmYv4HBnsym4x9FBn2q5NFzNyabR6tHzKr62Ey48FcwtMv)
 
 ## Introduction
 
@@ -30,7 +30,7 @@ Celsius network is a regulated, SEC compliant, lending platform that enables use
 
 ## Docs
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmeHwvB3Quo5Qn3GHsYmrMTpUCwSffE1tSoa5asBD73N9s)
+[WHITEPAPER](ipfs://QmeHwvB3Quo5Qn3GHsYmrMTpUCwSffE1tSoa5asBD73N9s)
 
 
 ## Links

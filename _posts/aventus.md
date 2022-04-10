@@ -2,12 +2,12 @@
 title: 'Aventus'
 description: 'Aventus making it better to build on Ethereum and beyond'
 date: '2019-01-01'
-image: 'https://gateway.ipfs.io/ipfs/QmNza1pkvTQ1djh8NYLisSL6LxmyryyPnTjzF4ud7DxoVW'
+image: 'ipfs://QmNza1pkvTQ1djh8NYLisSL6LxmyryyPnTjzF4ud7DxoVW'
 network: 'ethereum'
 category: 'network'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmX2jBNfXftiv5UyYYenGJfs8FNHnrYRmubBAvrkur3Aer)
+![Error](ipfs://QmX2jBNfXftiv5UyYYenGJfs8FNHnrYRmubBAvrkur3Aer)
 
 ## Introduction
 
@@ -32,8 +32,8 @@ Aventus Protocol, an open blockchain ticketing standard. The aim of the Protocol
 
 ## Docs
 
-[AUDITS](https://gateway.ipfs.io/ipfs/QmYLWYRDw6dyk294zkkBqvQCwApFVe3jdEwtsJhzcGP82e)
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmSJnM8YvFxK3GCXfHRwN2JjpEuUWCvsDEgSTnBtrLPckn)
+[AUDITS](ipfs://QmYLWYRDw6dyk294zkkBqvQCwApFVe3jdEwtsJhzcGP82e)
+[WHITEPAPER](ipfs://QmSJnM8YvFxK3GCXfHRwN2JjpEuUWCvsDEgSTnBtrLPckn)
 
 ## Links
 

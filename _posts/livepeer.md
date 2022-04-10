@@ -1,13 +1,13 @@
 ---
 title: 'Livepeer '
 date: '2020-10-10'
-image: 'https://gateway.ipfs.io/ipfs/QmcCjBs7zSQ2NbViS9XDWNPmUAgsgriJ54Bi7UU4BfEn8A'
+image: 'ipfs://QmcCjBs7zSQ2NbViS9XDWNPmUAgsgriJ54Bi7UU4BfEn8A'
 description: 'Decentralized video streaming network built on the Ethereum'
 network: 'ethereum'
 category: 'other'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmVguvCzpZvQv9aHbpo9RMviLATsmGanDBKhjBBJYW7gVb)
+![Error](ipfs://QmVguvCzpZvQv9aHbpo9RMviLATsmGanDBKhjBBJYW7gVb)
 
 ## Introduction
 

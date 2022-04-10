@@ -2,12 +2,12 @@
 title: 'Rally'
 description: 'Rally is a platform for creators and their communities to build their own independent digital economies'
 date: '2019-03-08'
-image: 'https://gateway.ipfs.io/ipfs/QmVutSn174buXdiGCNKGJURMS6Lj1ybEtyR2P9MbnYuPE8'
+image: 'ipfs://QmVutSn174buXdiGCNKGJURMS6Lj1ybEtyR2P9MbnYuPE8'
 network: 'ethereum'
 category: 'farming'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmRL6iuHEjVjaTUrZrqsdktR8dAE7Due3LKudtP3At3HvB)
+![Error](ipfs://QmRL6iuHEjVjaTUrZrqsdktR8dAE7Due3LKudtP3At3HvB)
 
 ## Introduction
 Rally is a platform that builds communities around a business or message using content sharing with crypto token rewards. Rally combines concepts from traditional word-of-mouth and influencer marketing with gamification and tactics that have built cryptocurrencies and their communities. This will be the content sharing economy: the next phase in the evolution of the sharing economy, enabled by blockchain and managed by users on their smartphones.
@@ -21,7 +21,7 @@ Rally is a platform that builds communities around a business or message using c
 
 ## Docs
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmfEkk1Y2bWTa1TFNepRZGPTYMD1AkVQy1xw9rxUuSYqkT)
+[WHITEPAPER](ipfs://QmfEkk1Y2bWTa1TFNepRZGPTYMD1AkVQy1xw9rxUuSYqkT)
 
 ## Links
 

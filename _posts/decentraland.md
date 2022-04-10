@@ -1,14 +1,14 @@
 ---
 title: 'Decentraland '
 date: '2020-04-10'
-image: 'https://gateway.ipfs.io/ipfs/QmQGQecNfJ9gQoAcHBXhdh1ypE13LDbGpr3QW3B2j91Pkf'
+image: 'ipfs://QmQGQecNfJ9gQoAcHBXhdh1ypE13LDbGpr3QW3B2j91Pkf'
 description: 'Create, explore and trade in the first-ever virtual world owned by its users.'
 network: 'ethereum'
 category: 'metaverse'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmWiXzHewjL6F1QZixYM8AvX8jB7MGjptdcZBu9NceqRbh)
+![Error](ipfs://QmWiXzHewjL6F1QZixYM8AvX8jB7MGjptdcZBu9NceqRbh)
 
 ## Introduction
 
@@ -32,11 +32,11 @@ Decentraland aims to establish a network that allows its content creators to own
 
 ## Video
 
-https://gateway.ipfs.io/ipfs/QmcSyvzpBWmhyjfm9mQDCwkehhfdx1mPpm1d6bhXUcaJWG/Decentraland.mp4
+ipfs://QmcSyvzpBWmhyjfm9mQDCwkehhfdx1mPpm1d6bhXUcaJWG/Decentraland.mp4
 
 ## Whitepaper
 
-https://gateway.ipfs.io/ipfs/QmYmQvPMWGhSV59a619Z1GfktBB1DggFjv1VNtSfn5FpsE
+ipfs://QmYmQvPMWGhSV59a619Z1GfktBB1DggFjv1VNtSfn5FpsE
 
 ## Contracts
 
@@ -62,7 +62,7 @@ https://www.certik.com/projects/decentraland#audit
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmV1TCJopCuvGQYbQeXuAAV9Hb3wJaL3waWGZKb3p6Lraf)
+![Error](ipfs://QmV1TCJopCuvGQYbQeXuAAV9Hb3wJaL3waWGZKb3p6Lraf)
 
 
 ---

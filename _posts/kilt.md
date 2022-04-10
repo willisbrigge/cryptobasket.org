@@ -1,14 +1,14 @@
 ---
 title: 'Kilt'
 date: '2019-09-09'
-image: 'https://gateway.ipfs.io/ipfs/QmaQMZ57oVj45rwTxVrFsGsWzQ34J2bxMHMemhkfGzEHvC'
+image: 'ipfs://QmaQMZ57oVj45rwTxVrFsGsWzQ34J2bxMHMemhkfGzEHvC'
 description: 'KILT is a fully decentralized identity protocol for issuing selfsovereign verifiable credentials and DIDs'
 network: 'kusama'
 category: 'utility'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmbbGAaBXAWY7VNMGGEDVZYBCYVNfyP5khA3p5srY5Yr1F)
+![Error](ipfs://QmbbGAaBXAWY7VNMGGEDVZYBCYVNfyP5khA3p5srY5Yr1F)
 
 ## Introduction
 
@@ -29,7 +29,7 @@ KILT is a decentralized open-source blockchain protocol for issuing self-soverei
 
 ## Whitepaper
 
-https://gateway.ipfs.io/ipfs/QmYZQjKFRRCcSZDY7heq1a3miy6xcqdAXMXuAjJhVfNGHZ
+ipfs://QmYZQjKFRRCcSZDY7heq1a3miy6xcqdAXMXuAjJhVfNGHZ
 
 ## Contracts
 
@@ -53,7 +53,7 @@ https://gateway.ipfs.io/ipfs/QmYZQjKFRRCcSZDY7heq1a3miy6xcqdAXMXuAjJhVfNGHZ
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmS5J9iNE8nwtPmfuQX3RP5bT9Y2bijZKcXwbNByppocJY)
+![Error](ipfs://QmS5J9iNE8nwtPmfuQX3RP5bT9Y2bijZKcXwbNByppocJY)
 
 
 ---

@@ -1,14 +1,14 @@
 ---
 title: 'Fei Protocol'
 date: '2021-05-30'
-image: 'https://gateway.ipfs.io/ipfs/QmeY6o482Pb7PQ2Xo4Qmo4FV7GBVsfVnNTDPbHUN8ydjaM'
+image: 'ipfs://QmeY6o482Pb7PQ2Xo4Qmo4FV7GBVsfVnNTDPbHUN8ydjaM'
 description: 'Fei is a decentralized, scalable, and DeFi-native stablecoin protocol.'
 network: 'ethereum'
 category: 'defi'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmUbpEHpSYZwQPpXViTpSboEPDmgFDB1LYvQhXuXcgAjKu)
+![Error](ipfs://QmUbpEHpSYZwQPpXViTpSboEPDmgFDB1LYvQhXuXcgAjKu)
 
 ## Introduction
 
@@ -30,7 +30,7 @@ Fiat-collateralized stablecoins like USDC and USDT are centrally controlled, cry
 
 ## Whitepaper
 
-https://gateway.ipfs.io/ipfs/Qmd4LY7QWikCbr3r622HUQCsk5c6jpQNt8nHk3BCkDTsv6
+ipfs://Qmd4LY7QWikCbr3r622HUQCsk5c6jpQNt8nHk3BCkDTsv6
 
 ## Contracts
 
@@ -49,7 +49,7 @@ https://blog.openzeppelin.com/fei-audit-2/
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmNphHuz8zVSZJm1R2YaV2DPKzQ7F3gREQ2zdrXdcdTuZd)
+![Error](ipfs://QmNphHuz8zVSZJm1R2YaV2DPKzQ7F3gREQ2zdrXdcdTuZd)
 
 
 ---

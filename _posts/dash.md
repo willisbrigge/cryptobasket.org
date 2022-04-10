@@ -2,12 +2,12 @@
 title: 'Dash'
 description: 'DashDirect makes it fast & easy with savings every time you spend!'
 date: '2019-02-03'
-image: 'https://gateway.ipfs.io/ipfs/QmSykogGTu34mFuDVbhtTB9FULwWc8Lgxz2HqA9daDhGFG'
+image: 'ipfs://QmSykogGTu34mFuDVbhtTB9FULwWc8Lgxz2HqA9daDhGFG'
 network: 'bsc'
 category: 'dao'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmQevGgUKSxtEorLNu7eBeX6uXimpGccCaGKFay1EE7aHo)
+![Error](ipfs://QmQevGgUKSxtEorLNu7eBeX6uXimpGccCaGKFay1EE7aHo)
 
 ## Introduction
 

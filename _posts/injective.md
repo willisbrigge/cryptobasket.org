@@ -1,14 +1,14 @@
 ---
 title: 'Injective'
 date: '2020-10-20'
-image: 'https://gateway.ipfs.io/ipfs/QmdFNEHb3gsU4rG7G54dzikyDnmjJmuWDAMGtzNnwbuE8o'
+image: 'ipfs://QmdFNEHb3gsU4rG7G54dzikyDnmjJmuWDAMGtzNnwbuE8o'
 description: 'The blockchain optimized for building powerful interchain DeFi apps'
 network: 'ethereum'
 category: 'defi'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmPQuwrETMFN23pwBy38TTMf1S39R5y3PbCMWevUXM1yez)
+![Error](ipfs://QmPQuwrETMFN23pwBy38TTMf1S39R5y3PbCMWevUXM1yez)
 
 ## Introduction
 Injective Protocol is a fully decentralized layer-2 DEX protocol built for the next generation of decentralized derivatives exchange. The Injective Chain is a Tendermint-based IBC-compatible blockchain which supports a decentralized orderbook-based DEX protocol and a trustless ERC-20 token bridge to the Ethereum blockchain.
@@ -26,11 +26,11 @@ Our mission is to create a more free and inclusive financial system through dece
 
 ## Video
 
-https://gateway.ipfs.io/ipfs/QmavWk4jBsnNVKAG5oLqwtx7hi8pvZoVavD6B9spVLxyt7/injective.mp4
+ipfs://QmavWk4jBsnNVKAG5oLqwtx7hi8pvZoVavD6B9spVLxyt7/injective.mp4
 
 ## Whitepaper
 
-https://gateway.ipfs.io/ipfs/QmWNrt8wwSgHzdfuAB1PpdbNAkX4EE3AXB9sQt68oL74ug
+ipfs://QmWNrt8wwSgHzdfuAB1PpdbNAkX4EE3AXB9sQt68oL74ug
 
 ## Contracts
 0xe28b3b32b6c345a34ff64674606124dd5aceca30
@@ -38,7 +38,7 @@ https://gateway.ipfs.io/ipfs/QmWNrt8wwSgHzdfuAB1PpdbNAkX4EE3AXB9sQt68oL74ug
 
 ## Audits
 
-https://gateway.ipfs.io/ipfs/QmbDoXG23GjQqGPiZFi7MP3dLcjk6fTaRknwQ69d3Bt9r9
+ipfs://QmbDoXG23GjQqGPiZFi7MP3dLcjk6fTaRknwQ69d3Bt9r9
 
 
 ## Team
@@ -58,10 +58,10 @@ https://gateway.ipfs.io/ipfs/QmbDoXG23GjQqGPiZFi7MP3dLcjk6fTaRknwQ69d3Bt9r9
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmRaWFNBYCqxUci2J3eKS5yyTvFKktCf8hLjUuiCovCuMT)
+![Error](ipfs://QmRaWFNBYCqxUci2J3eKS5yyTvFKktCf8hLjUuiCovCuMT)
 
 
-![Error](https://gateway.ipfs.io/ipfs/Qmd9GzWacmfPa9Lt9xSWDFhJG7HbMNvGPfDTYLcWN14M9n)
+![Error](ipfs://Qmd9GzWacmfPa9Lt9xSWDFhJG7HbMNvGPfDTYLcWN14M9n)
 
 
 

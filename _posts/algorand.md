@@ -2,12 +2,12 @@
 title: 'Algorand'
 description: 'Encouraging innovation, development, research & participation on the protocol'
 date: '2019-01-12'
-image: 'https://gateway.ipfs.io/ipfs/QmYooxadyyk3u5sjiZspoasRog4JnewWNjkeqY4TuJ8QnM'
+image: 'ipfs://QmYooxadyyk3u5sjiZspoasRog4JnewWNjkeqY4TuJ8QnM'
 network: 'algorand'
 category: 'network'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmbGQhak8Enf4bUnhKV8VoJAUydQea99vVWVVMVD4KnqHb)
+![Error](ipfs://QmbGQhak8Enf4bUnhKV8VoJAUydQea99vVWVVMVD4KnqHb)
 
 ## Introduction
 We are the world’s most decentralized, scalable, and secure blockchain infrastructure. From decentralized finance to generative NFT art (and everything in between), our sustainable blockchain is powering economic models of the future. Algorand is unleashing scalability, fusing TradFi x DeFi, and accelerating global sustainability. Checkout the ecosystem of organizations powering economic models of the future on Algorand.

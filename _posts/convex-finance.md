@@ -2,12 +2,12 @@
 title: 'Convex Finance'
 description: 'Boosted Curve staking, Maximize your yields'
 date: '2021-04-10'
-image: 'https://gateway.ipfs.io/ipfs/QmXB2Ce726sNzJbrJPsQQz1BZRQvfDntPS18prAi9JmrgG'
+image: 'ipfs://QmXB2Ce726sNzJbrJPsQQz1BZRQvfDntPS18prAi9JmrgG'
 network: 'ethereum'
 category: 'yield-aggregator'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmfJTZywJYdLmDU8u3XHeQLxduJbpT18jjJSWZy3cU2CnZ)
+![Error](ipfs://QmfJTZywJYdLmDU8u3XHeQLxduJbpT18jjJSWZy3cU2CnZ)
 
 ## Introduction
 Convex Finance is a platform built to boost rewards for CRV stakers and liquidity providers alike, all in a simple and easy to use interface. Convex aims to simplify staking on Curve, as well as the CRV-locking system with the help of its native fee-earning token. Liquidity providers earn trading fees and claim boosted CRV without locking CRV themselves.
@@ -21,8 +21,8 @@ Convex Finance is a platform built to boost rewards for CRV stakers and liquidit
 
 ## Docs
 
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmPnfayZmxWVzE9eMKPrbweu4ouaruFp5emFDMfhg69iEh)
-[AUDIT](https://gateway.ipfs.io/ipfs/QmU4y1CtrzTyFUiQhSeZn5msZmDMNWFVaGP99J3ffNQeqf)
+[WHITEPAPER](ipfs://QmPnfayZmxWVzE9eMKPrbweu4ouaruFp5emFDMfhg69iEh)
+[AUDIT](ipfs://QmU4y1CtrzTyFUiQhSeZn5msZmDMNWFVaGP99J3ffNQeqf)
 
 
 ## Links

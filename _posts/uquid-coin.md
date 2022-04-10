@@ -2,12 +2,12 @@
 title: 'Uquid Coin'
 description: 'Smart Shopping Market on Web3 Metaverse. Make shopfi by connect defi with Ecommerce. Buy Now Pay Later in 3 protect the future value of crypto assets'
 date: '2019-03-09'
-image: 'https://gateway.ipfs.io/ipfs/Qmeip2xxk3UqggGsqg2nBqCAaPKW1T64r7bqPskwM7Gxc3'
+image: 'ipfs://Qmeip2xxk3UqggGsqg2nBqCAaPKW1T64r7bqPskwM7Gxc3'
 network: 'etehreum'
 category: 'defi'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmaVzN4DTwbtnQqgpXj8w2947psQjVu5cTA6NponMfHvsd)
+![Error](ipfs://QmaVzN4DTwbtnQqgpXj8w2947psQjVu5cTA6NponMfHvsd)
 
 ## Introduction
 UQC is a decentralized virtual currency based on the ERC20 Token one of Ethereum Technological trends. The goal of this blockchain asset is to supplement the development of UQUID Ecosystem. In this virtual revolution, coin holders will have the benefit of instantly and effortlessly cashing out their coins.

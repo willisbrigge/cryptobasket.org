@@ -1,14 +1,14 @@
 ---
 title: 'Fantom'
 date: '2019-05-10'
-image: 'https://gateway.ipfs.io/ipfs/QmVEgNeQDKnXygeGxfY9FywZpNGQu98ktZtRJ9bToYF6g7'
+image: 'ipfs://QmVEgNeQDKnXygeGxfY9FywZpNGQu98ktZtRJ9bToYF6g7'
 description: 'A fast, high-throughput open-source smart contract platform for digital assets and dApps.'
 network: 'ethereum'
 category: 'blockchain'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmcSdj7GeGEnVTFWrzAuj9BwS9SEB4VbzJGxfjw3vgpms1)
+![Error](ipfs://QmcSdj7GeGEnVTFWrzAuj9BwS9SEB4VbzJGxfjw3vgpms1)
 
 ## Introduction
 
@@ -31,11 +31,11 @@ Fantom is building a highly scalable blockchain ecosystem, it is committed to pr
 
 ## Video
 
-https://gateway.ipfs.io/ipfs/QmNsmVnArgerPADr4XCP3ia4cdjMustJ1tuaqZdcFHFFL6/fantom.mp4
+ipfs://QmNsmVnArgerPADr4XCP3ia4cdjMustJ1tuaqZdcFHFFL6/fantom.mp4
 
 ## Whitepaper
 
-https://gateway.ipfs.io/ipfs/Qmb6mA4P3Wbo4pvcmGwPBxPzMc9vUZoxFZXPV6hNbNWWeC
+ipfs://Qmb6mA4P3Wbo4pvcmGwPBxPzMc9vUZoxFZXPV6hNbNWWeC
 
 ## Contracts
 
@@ -63,7 +63,7 @@ https://callisto.network/fantom-token-security-audit-report/
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmV41Pdc8nZz5NXGmXTAywm7kvrd4XmqJW7PuHAqamCeMn)
+![Error](ipfs://QmV41Pdc8nZz5NXGmXTAywm7kvrd4XmqJW7PuHAqamCeMn)
 
 
 ---

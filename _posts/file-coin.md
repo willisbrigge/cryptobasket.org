@@ -1,14 +1,14 @@
 ---
 title: 'Filecoin'
 date: '2020-11-01'
-image: 'https://gateway.ipfs.io/ipfs/QmXwvpR4ZSnvLwRkirpX1gKKvbAFKiYJdKdGiVjQWL7Bj8'
+image: 'ipfs://QmXwvpR4ZSnvLwRkirpX1gKKvbAFKiYJdKdGiVjQWL7Bj8'
 description: 'Filecoin network is made up of a large number of diverse storage providers and developers.'
 network: 'heco'
 category: 'storage'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmP5qkPgUoGwmS6zBusSWDXuwz7NdmkV7LooM3Hz2jwLPd)
+![Error](ipfs://QmP5qkPgUoGwmS6zBusSWDXuwz7NdmkV7LooM3Hz2jwLPd)
 
 ## Introduction
 
@@ -32,7 +32,7 @@ The Filecoin network is designed to reward participants at multiple levels — f
 
 ## Whitepaper
 
-https://gateway.ipfs.io/ipfs/QmdhGTx5URGR1EwAPTTBV17QBmX7PDhuHrfFoiVzSjBsu7
+ipfs://QmdhGTx5URGR1EwAPTTBV17QBmX7PDhuHrfFoiVzSjBsu7
 
 ## Contracts
 
@@ -40,7 +40,7 @@ https://gateway.ipfs.io/ipfs/QmdhGTx5URGR1EwAPTTBV17QBmX7PDhuHrfFoiVzSjBsu7
 
 ## Audits
 
-https://gateway.ipfs.io/ipfs/QmWL4VJGZHzs4XL7BJBxWtWyK5gyo52cn28SmA26s9i1ro
+ipfs://QmWL4VJGZHzs4XL7BJBxWtWyK5gyo52cn28SmA26s9i1ro
 
 ## Token Distribution
 
@@ -50,7 +50,7 @@ https://gateway.ipfs.io/ipfs/QmWL4VJGZHzs4XL7BJBxWtWyK5gyo52cn28SmA26s9i1ro
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmeqGFojQjV4ew1VSXwiwmd7jS6f5aE6UrXxCz4wwmLu37)
+![Error](ipfs://QmeqGFojQjV4ew1VSXwiwmd7jS6f5aE6UrXxCz4wwmLu37)
 
 
 ---

@@ -2,12 +2,12 @@
 title: 'Genopets'
 description: 'The worlds first Move to Earn NFT Game'
 date: '2021-05-12'
-image: 'https://gateway.ipfs.io/ipfs/QmcXckj4UDNuEyVqhBkXMzkowRCrfYTAejeZdkns3nrc2H'
+image: 'ipfs://QmcXckj4UDNuEyVqhBkXMzkowRCrfYTAejeZdkns3nrc2H'
 network: 'ethereum'
 category: 'move to earn'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmU4xDVsCGeFiPgWvkFTtmtpucEwYF6RnH11K19iD1VFJt)
+![Error](ipfs://QmU4xDVsCGeFiPgWvkFTtmtpucEwYF6RnH11K19iD1VFJt)
 
 ## Introduction
 

@@ -1,14 +1,14 @@
 ---
 title: 'Conflux'
 date: '2019-10-06'
-image: 'https://gateway.ipfs.io/ipfs/QmVwKafH5rgj7UUVpacjo8wV3mwGzcw1LLoFEZiUvsxStd'
+image: 'ipfs://QmVwKafH5rgj7UUVpacjo8wV3mwGzcw1LLoFEZiUvsxStd'
 description: 'Blockchain Without Barriers.'
 network: 'bsc'
 category: 'blockchain'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmX2jBNfXftiv5UyYYenGJfs8FNHnrYRmubBAvrkur3Aer)
+![Error](ipfs://QmX2jBNfXftiv5UyYYenGJfs8FNHnrYRmubBAvrkur3Aer)
 
 ## Introduction
 
@@ -30,7 +30,7 @@ Our mission is to be a catalyst for the borderless economy, Through blockchain a
 
 ## Whitepaper
 
-https://gateway.ipfs.io/ipfs/QmWcvwGzNsMHueho1E3AaEFFSVfGLRu3FchZ5GudLZNJkm
+ipfs://QmWcvwGzNsMHueho1E3AaEFFSVfGLRu3FchZ5GudLZNJkm
 
 ## Contracts
 

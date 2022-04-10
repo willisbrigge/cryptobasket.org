@@ -1,14 +1,14 @@
 ---
 title: 'InsurAce'
 date: '2021-02-09'
-image: 'https://gateway.ipfs.io/ipfs/Qmc8PuH5CqfUnbrG2RdebSMfw5atCmeuXRDsub5X7tq8xP'
+image: 'ipfs://Qmc8PuH5CqfUnbrG2RdebSMfw5atCmeuXRDsub5X7tq8xP'
 description: 'Reliable, Robust, and Secure insurance services to DeFi users.'
 network: 'ethereum'
 category: 'insurance'
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmUBZsgoa7rUrqpg6WhEHy1qDfmNRjcAE45RVD8Wu1LDHZ)
+![Error](ipfs://QmUBZsgoa7rUrqpg6WhEHy1qDfmNRjcAE45RVD8Wu1LDHZ)
 
 ## Introduction
 
@@ -27,7 +27,7 @@ InsurAce started with an initiative to establish a decentralized protocol that s
 
 ## Whitepaper
 
-https://gateway.ipfs.io/ipfs/QmTGHLs1J3bdNgrHYF4j36q3vGZKzpkwgdgMLC5H1vp14w
+ipfs://QmTGHLs1J3bdNgrHYF4j36q3vGZKzpkwgdgMLC5H1vp14w
 
 ## Contracts
 
@@ -35,7 +35,7 @@ https://gateway.ipfs.io/ipfs/QmTGHLs1J3bdNgrHYF4j36q3vGZKzpkwgdgMLC5H1vp14w
 
 ## Audits
 
-https://gateway.ipfs.io/ipfs/QmchqmJbH42qr4qBMqAesnPHRVsC7Lhv6Bs7eCkV6W86bA
+ipfs://QmchqmJbH42qr4qBMqAesnPHRVsC7Lhv6Bs7eCkV6W86bA
 
 
 
@@ -48,7 +48,7 @@ https://gateway.ipfs.io/ipfs/QmchqmJbH42qr4qBMqAesnPHRVsC7Lhv6Bs7eCkV6W86bA
 
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmQQUEUkFcmuJZvC8kTY14CaXXmFpvEigPwdbRGq6T6umR)
+![Error](ipfs://QmQQUEUkFcmuJZvC8kTY14CaXXmFpvEigPwdbRGq6T6umR)
 
 
 ---

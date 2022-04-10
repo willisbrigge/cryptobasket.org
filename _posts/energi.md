@@ -2,12 +2,12 @@
 title: 'Energi'
 description: 'Energi is the safest blockchain for users'
 date: '2019-05-03'
-image: 'https://gateway.ipfs.io/ipfs/QmXKnUUwdTsrNRKme5uwfJjjofsuTWEHyj93c2QBhCcwMD'
+image: 'ipfs://QmXKnUUwdTsrNRKme5uwfJjjofsuTWEHyj93c2QBhCcwMD'
 network: 'ethereum'
 category: 'blockchain'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmcQnuNdA4age7PuhsatsV5XoLSAXUiiRVkR8GZXFj7YHD)
+![Error](ipfs://QmcQnuNdA4age7PuhsatsV5XoLSAXUiiRVkR8GZXFj7YHD)
 
 ## Introduction
 The World's Safest Blockchain. Fast Transaction Speeds and Low Gas Fees. Earn Passive Income from Farming Pools.  Simply put, Energi’s security, decentralized exchange (Energiswap), community, offerings, and benefits are unparalleled in the crypto space.
@@ -34,7 +34,7 @@ The World's Safest Blockchain. Fast Transaction Speeds and Low Gas Fees. Earn Pa
 
 ## Docs
 
-[WHITEPAPER]((https://gateway.ipfs.io/ipfs/QmUpNuTTAtkkiNH5tUNokHsZCB8HnTb3X1rsermU9MjPcH)
+[WHITEPAPER]((ipfs://QmUpNuTTAtkkiNH5tUNokHsZCB8HnTb3X1rsermU9MjPcH)
 
 ## Links
 

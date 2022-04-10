@@ -2,12 +2,12 @@
 title: 'Hegic'
 description: 'Hegic is an on chain peer to pool options trading protocol on Ethereum'
 date: '2020-05-10'
-image: 'https://gateway.ipfs.io/ipfs/QmUbLrhea3692ycnNumKGTELzgSXz3X6NhQSGcPQ364Z1Z'
+image: 'ipfs://QmUbLrhea3692ycnNumKGTELzgSXz3X6NhQSGcPQ364Z1Z'
 network: 'ethereum'
 category: 'defi'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/Qmbw68yLS4e8Z4purYgaZHae4d8aAtMr16UkvmbMUBxZyB)
+![Error](ipfs://Qmbw68yLS4e8Z4purYgaZHae4d8aAtMr16UkvmbMUBxZyB)
 
 ## Introduction
 Hegic is a protocol for trustless creating, maintaining and settling of hedge contracts. Hedge contract is an options*-like on-chain contract that gives the holder (buyer) a right to buy or to sell an asset at a certain price (strike) as well as imposes the obligation on the writer (seller) to buy or to sell an asset during a certain period. It can be useful for the market participants who want to protect their assets from the price downside and for the liquidity providers who might find the returns on writing hedge contracts attractive enough to allocate some of their capital on the liquidity pool contract.
@@ -20,8 +20,8 @@ Hegic is a protocol for trustless creating, maintaining and settling of hedge co
 
 ## Docs
 
-[AUDITS](https://gateway.ipfs.io/ipfs/QmWz27LwXr3Lp5kaPn1Q1jAF9TzCUzdufuPnpUMo84iie5)
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmWy8x6vEunH4gD2gWT4Bt4bBwWX2KAEUov46tCLvMRcME)
+[AUDITS](ipfs://QmWz27LwXr3Lp5kaPn1Q1jAF9TzCUzdufuPnpUMo84iie5)
+[WHITEPAPER](ipfs://QmWy8x6vEunH4gD2gWT4Bt4bBwWX2KAEUov46tCLvMRcME)
 
 ## Links
 

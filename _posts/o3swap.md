@@ -2,12 +2,12 @@
 title: 'O3 Swap'
 description: 'First AMM based cross-chain DEX'
 date: '2019-06-01'
-image: 'https://gateway.ipfs.io/ipfs/Qmd9nbz2fA1vhJNziDpSg8TztnMhygMx8d3qikoMxAG2Ad'
+image: 'ipfs://Qmd9nbz2fA1vhJNziDpSg8TztnMhygMx8d3qikoMxAG2Ad'
 network: 'ethereum'
 category: 'dex'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmVmYPYq1GFwpCdsBhGb8HPqF7aADHsaFcGzo2VX68irjV)
+![Error](ipfs://QmVmYPYq1GFwpCdsBhGb8HPqF7aADHsaFcGzo2VX68irjV)
 
 ## Introduction
 O3 Swap is a proprietary cross-chain aggregation protocol built by O3 Labs. The mission of O3 Swap is to provide consumers access to cryptocurrency-based, financial services, allowing them to exchange, or ‘swap’, various digital assets within their O3 Wallet. The benefits of this design can be attributed to the high level of safety and security that is inherent to the decentralized model of asset storage and protection. The platform also provides ‘cross-chain’ swaps to conduct exchange settlements without regard to the limitations of a typical isolated Blockchain network.  
@@ -20,7 +20,7 @@ O3 Swap is a proprietary cross-chain aggregation protocol built by O3 Labs. The 
 
 ## Docs
 
-[AUDITS](https://gateway.ipfs.io/ipfs/QmWfc7KB4u69ZD9WvXCzv5ZCE6pd1hnVEm2CTrdrxVuQKH)
+[AUDITS](ipfs://QmWfc7KB4u69ZD9WvXCzv5ZCE6pd1hnVEm2CTrdrxVuQKH)
 
 
 ## Links

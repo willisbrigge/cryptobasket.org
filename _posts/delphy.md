@@ -2,12 +2,12 @@
 title: 'Delphy'
 description: 'Making the world more predictable'
 date: '2020-03-07'
-image: 'https://gateway.ipfs.io/ipfs/QmaR2Jgs8hwd8RQcWeNhstjBSfzgHGKv5bwioMVpmVqCGD'
+image: 'ipfs://QmaR2Jgs8hwd8RQcWeNhstjBSfzgHGKv5bwioMVpmVqCGD'
 network: 'ethereum'
 category: 'gambling'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmTRdbbDShbrjTWqyA1gGU71DfZsojyLdDTgCoXVGC3JrR)
+![Error](ipfs://QmTRdbbDShbrjTWqyA1gGU71DfZsojyLdDTgCoXVGC3JrR)
 
 ## Introduction
 Delphy is a distributed, social mobile prediction market platform built on Ethereum.The platform provides users with various types of prediction markets,

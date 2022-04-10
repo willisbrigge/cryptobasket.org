@@ -2,12 +2,12 @@
 title: 'Perpetual Protocol'
 description: 'Perpetual Protocol is an on-chain perpetual futures DEX with deep liquidity and builder ready composability'
 date: '2020-04-06'
-image: 'https://gateway.ipfs.io/ipfs/QmNza1pkvTQ1djh8NYLisSL6LxmyryyPnTjzF4ud7DxoVW'
+image: 'ipfs://QmNza1pkvTQ1djh8NYLisSL6LxmyryyPnTjzF4ud7DxoVW'
 network: 'ethereum'
 category: 'defi'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/QmTLgrwyg9BUWhX7hjm4YnNsMm3jyYq6uWXAsD5xQyYR8N)
+![Error](ipfs://QmTLgrwyg9BUWhX7hjm4YnNsMm3jyYq6uWXAsD5xQyYR8N)
 
 ## Introduction
 Perpetual Protocol is an on-chain perpetual futures DEX with deep liquidity and builder-ready composability. Perpetual Protocol is a decentralized perpetual contract protocol with virtual AMMs to provide guaranteed liquidity.
@@ -19,7 +19,7 @@ Perpetual Protocol is an on-chain perpetual futures DEX with deep liquidity and 
 
 ## Docs
 
-[AUDITS](https://gateway.ipfs.io/ipfs/QmVaB7R5gnfuLgCMA8uNPRUo2GjVJRHpSqgwf2AGA7kJBo)
+[AUDITS](ipfs://QmVaB7R5gnfuLgCMA8uNPRUo2GjVJRHpSqgwf2AGA7kJBo)
 
 ## Links
 
