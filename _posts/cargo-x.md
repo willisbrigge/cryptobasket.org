@@ -26,6 +26,10 @@ The CargoX Platform gives you the world’s easiest way to upload documents and 
 |Leif Arne Strommen | Vice President |
 |Gregor Veselko | Management board|
 
+## Docs
+
+[WHITEPAPER](https://gateway.ipfs.io/QmQaYfETYwQs2e5CTchpnUi7Y32BN4PHFf25Xxi3pgtRSU)
+
 
 ## Links
 
