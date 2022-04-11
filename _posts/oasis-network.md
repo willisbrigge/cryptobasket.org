@@ -22,5 +22,6 @@ Oasis network is a privacy enabled blockchain platform for open finance and a re
 
 [WEBISTE](https://oasisprotocol.org/)
 [WHITEPAPER](https://docsend.com/view/aq86q2pckrut2yvq)
+
 [TELEGRAM](https://t.me/oasisprotocolcommunity)
 [TWITTER](https://twitter.com/OasisProtocol)

@@ -25,5 +25,6 @@ TrueFi is the protocol for uncollateralized lending, powered by the first ever o
 
 [WEBISTE](https://truefi.io/)
 [LITEPAPER](https://blog.trusttoken.com/introducing-truefi-the-defi-protocol-for-uncollateralized-lending-9bfd6594a48)
+
 [TELEGRAM](https://t.me/jointruefi)
 [TWITTER](https://twitter.com/TrustToken)

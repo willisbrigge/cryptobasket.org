@@ -22,5 +22,6 @@ It is a spell book that allows users to produce magic money on the the internet.
 
 [WEBISTE](https://abracadabra.money/)
 [WHITEPAPER](https://docs.abracadabra.money/)
+
 [DISCORD](https://discord.com/invite/mim)
 [TWITTER](https://twitter.com/MIM_Spell)

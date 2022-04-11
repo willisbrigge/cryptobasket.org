@@ -22,5 +22,6 @@ Our mission is to accelerate the adoption of digital currencies. We’re buildin
 
 [WEBISTE](https://www.diviproject.org)
 [WHITEPAPER](https://wiki.diviproject.org/#whitepaper)
+
 [TELEGRAM](https://t.me/diviproject)
 [TWITETR](https://twitter.com/DiviProject)

@@ -33,5 +33,6 @@ category: 'network'
 
 [WEBISTE](https://www.vidt-datalink.com/)
 [AUDITS](https://www.certik.com/projects/vidt)
+
 [TELEGRAM](https://t.me/vidtoken)
 [DISCORD](https://twitter.com/VIDT_Datalink)

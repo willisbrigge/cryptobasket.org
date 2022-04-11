@@ -36,5 +36,6 @@ Building on foundation free to play mobil gaming model, Genopets is the first ma
 
 [WEBISTE](https://www.genopets.me/)
 [WHITEPAPER](https://docsend.com/view/fc6387gd57t6ksdm)
+
 [TELEGRAM](https://t.me/Genopets)
 [TWITTER](https://twitter.com/genopets)

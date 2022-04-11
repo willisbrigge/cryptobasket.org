@@ -26,5 +26,6 @@ Yearn Finance is a suite of products in Decentralized Finance that provides yiel
 
 [WEBISTE](https://yearn.finance/)
 [AUDITS](https://www.certik.com/projects/yearn-finance)
+
 [TELEGRAM](https://t.me/iearnfinance)
 [TWITTER](https://twitter.com/iearnfinance)

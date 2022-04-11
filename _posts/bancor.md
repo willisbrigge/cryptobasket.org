@@ -36,5 +36,6 @@ Bancor is the first decentralized trading protocol, empowering traders, liquidit
 
 [WEBISTE](https://bancor.network/)
 [AUDITS](https://www.certik.com/projects/bancor)
+
 [TELEGRAM](https://telegram.me/bancor)
 [TWITTER](https://twitter.com/Bancor)

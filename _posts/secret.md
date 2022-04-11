@@ -23,5 +23,6 @@ Secret Network is a blockchain-based, open-source protocol that lets anyone perf
 
 [WEBISTE](https://scrt.network/)
 [WHITEPAPER](https://docs.scrt.network/)
+
 [TELEGRAM](https://t.me/scrtcommunity)
 [TWITTER](https://twitter.com/secretnetwork)

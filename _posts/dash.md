@@ -26,5 +26,6 @@ Dash is a next generation, p2p payments network and cryptocurrency where transac
 
 [WEBISTE](https://www.dash.org/)
 [WHITEPAPER](https://docs.dash.org/en/stable/)
+
 [TELEGRAM](https://t.me/dash_chat)
 [TWITTER](https://twitter.com/Dashpay)

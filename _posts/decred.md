@@ -31,5 +31,6 @@ Decred is a blockchain-based cryptocurrency with a strong focus on community inp
 
 [WEBISTE](https://decred.org/)
 [WHITEPAPER](https://docs.decred.org/)
+
 [TELEGRAM](https://t.me/decred)
 [TWITETR](https://twitter.com/decredproject)

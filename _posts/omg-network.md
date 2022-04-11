@@ -24,5 +24,6 @@ The OMG Network is a decentralized, public network that allows high throughput, 
 [WEBISTE](https://omg.network/)
 [AUDITS](https://www.certik.com/projects/omgnetwork)
 [WHITEPAPER](https://docs.omg.network/)
+
 [TELEGRAM](https://t.me/omgnetwork)
 [TWITTER](https://twitter.com/omgnetworkhq)

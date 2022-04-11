@@ -33,5 +33,6 @@ A digital currency for sports and esports entertainment platforms adoptable univ
 [WEBISTE](https://www.chiliz.com)
 [AUDITS](https://www.certik.com/projects/chiliz)
 [WHITEPAPER](https://whitepaper.io/document/522/chiliz-whitepaper)
+
 [TELEGRAM](https://t.me/chiliz_io)
 [TWITTER](https://twitter.com/chiliz)

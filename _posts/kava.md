@@ -23,5 +23,6 @@ Kava is a lightning-fast Layer-1 blockchain featuring a developer-optimized co-c
 [WEBISTE](https://www.kava.io/)
 [WHITEPAPER](https://docsend.com/view/gwbwpc3)
 [AUDITS](https://www.certik.com/projects/kava)
+
 [TELEGRAM](https://t.me/kavalabs)
 [TWITTER](https://twitter.com/kava_platform)

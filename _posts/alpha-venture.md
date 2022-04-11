@@ -22,5 +22,6 @@ Alpha Venture DAO is a community of daring individuals who shape the future of W
 
 [WEBISTE](https://alphaventuredao.io/)
 [WHITEPAPER](https://docs.alphaventuredao.io/alpha-finance-lab/alpha-venture-dao/overview)
+
 [TELEGRAM](https://t.me/AlphaFinanceLab)
 [TWITTER](https://twitter.com/alphaventuredao)

@@ -25,5 +25,6 @@ With Boson Protocol you can build commerce applications that everyone can trust 
 
 [WEBISTE](http://bosonprotocol.io/)
 [AUDITS](https://www.certik.com/projects/bosonprotocol)
+
 [TELEGRAM](https://t.me/bosonprotocol)
 [TWITTER](https://twitter.com/BosonProtocol)

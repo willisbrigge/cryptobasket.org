@@ -28,5 +28,6 @@ STEPN IS A WEB 3 LIFESTYLE APP WITH SOCIAL-FI AND GAME-FI ELEMENTS PLAYERS CAN M
 
 [WEBISTE](https://www.stepn.com/)
 [WHITEPAPER](https://whitepaper.stepn.com/)
+
 [TELEGRAM](https://t.me/STEPNofficial)
 [TWITTER](https://twitter.com/STEPNofficial)

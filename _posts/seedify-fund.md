@@ -27,5 +27,6 @@ Seedify.fund is a blockchain innovation hub with a DAO-driven seed stage fund, d
 [WEBISTE](https://launchpad.seedify.fund/)
 [WHITEPAPER](https://docs.seedify.fund/)
 [AUDITS](https://www.certik.com/projects/seedifyfund)
+
 [TELEGRAM](https://t.me/seedifyfund)
 [TWITTER](https://twitter.com/seedifyfund)

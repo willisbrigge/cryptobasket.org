@@ -30,5 +30,6 @@ With Elemon, we hope that the increasingly strong Blockchain-applied financial m
 [WEBISTE](https://elemon.io/)
 [AUDITS](https://www.certik.com/projects/elemon)
 [WHITEPAPER](https://whitepaper.elemon.io/)
+
 [TELEGRAM](https://t.me/ElemonOfficial)
 [TWITTER](https://twitter.com/ElemonGame)

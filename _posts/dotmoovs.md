@@ -31,5 +31,6 @@ Dotmoov has developed proprietary artificial intelligence system, some advanced 
 
 [WEBISTE](https://www.dotmoovs.com/)
 [WHITEPAPER](https://docsend.com/view/pjamgzxazgmbwt24)
+
 [TELEGRAM](https://t.me/dotmoovs)
 [TWITTER](https://twitter.com/dotmoovs)

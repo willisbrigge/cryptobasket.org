@@ -25,5 +25,6 @@ Perpetual Protocol is an on-chain perpetual futures DEX with deep liquidity and 
 
 [WEBISTE](https://perp.com/)
 [WHITEPAPER](https://www.notion.so/Strike-Protocol-9049cc65e99246d886a230972d0cbd60)
+
 [TWITTER](https://twitter.com/perpprotocol)
 [DISCORD](https://discord.com/invite/mYKKRTn)

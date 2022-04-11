@@ -32,5 +32,6 @@ which can be used to pay fees, perform governance or stake on the protocol.
 
 [WEBISTE](https://www.immutable.com/)
 [AUDITS](https://www.certik.com/projects/immutable-x)
+
 [DISCORD](https://discord.com/invite/TUa8a9A)
 [TWITTER](https://twitter.com/Immutable)

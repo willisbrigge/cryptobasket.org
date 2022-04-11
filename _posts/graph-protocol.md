@@ -28,5 +28,6 @@ The Graph is an indexing protocol for querying networks like Ethereum and IPFS. 
 
 [WEBISTE](https://thegraph.com)
 [AUDITS](https://blog.openzeppelin.com/thegraph-governance-upgrade-audit)
+
 [TELEGRAM](https://t.me/GraphProtocol)
 [TWITTER](https://twitter.com/graphprotocol)

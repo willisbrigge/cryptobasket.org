@@ -28,5 +28,6 @@ Synthetix is a decentralized synthetic asset issuance protocol built on Ethereum
 [WEBISTE](https://www.synthetix.io/)
 [WHITEPAPER](https://docs.synthetix.io/litepaper/)
 [AUDITS](https://www.slowmist.com/en/security-audit-certificate.html?id=e26420b30dfb1fc75a5d8dbc1ccf7df21e8ec9be6acb40e5e25ccf436e149fd3)
+
 [TWITTER](https://twitter.com/synthetix_io)
 [DISCORD](https://discord.gg/AEdUHzt)

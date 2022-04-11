@@ -32,5 +32,6 @@ Boba offers fast exits backed by community-driven liquidity pools, shrinking the
 
 [WEBISTE](https://boba.network/)
 [AUDITS](https://www.certik.com/projects/boba-network)
+
 [TWITTER](https://twitter.com/bobanetwork)
 [TELEGRAM](https://t.me/bobanetwork)

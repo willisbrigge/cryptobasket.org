@@ -37,5 +37,6 @@ Alexis Bonte | Member |
 
 [WEBISTE](https://www.tezos.com/)
 [DOCUMENTATION](https://tezos.gitlab.io/)
+
 [TELEGRAM](https://t.me/tezosplatform)
 [TWITTER][(](https://twitter.com/tezos))
