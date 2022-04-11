@@ -14,10 +14,11 @@ GYM NETWORK is a DeFi Aggregator Investment System combining the best yields wit
 
 
 ## Features
-1. GYM NETWORK is owned by the users. Each of you has voting power in the measure of your GYMNET token holdings. 
-2. Owning GYMNET means that you will be able to propose new “Exercise Routines" and vote on the routines proposed by others. 
-3. Affiliate levels with 45% commission on your investors rewards daily
-4. Bot black listing and transactions monitoring for suspicious activities
+1. Affiliate levels with 45% commission on your investors rewards daily
+2. Bot black listing and transactions monitoring for suspicious activities
+3. GYM NETWORK is owned by the users. Each of you has voting power in the measure of your GYMNET token holdings. 
+4. Owning GYMNET means that you will be able to propose new “Exercise Routines" and vote on the routines proposed by others. 
+   
 
 
 ## Team
