@@ -4,7 +4,7 @@ description: 'STEPN is a Web3 lifestyle app with social & game elements.'
 date: '2021-09-10'
 image: 'ipfs://QmSQqYctFt6AtpBhQhACkHpBhiHgJGFqVk8PsthuKGR5zv'
 network: 'bsc'
-category: 'move to earn'
+category: 'fitness'
 ---
 
 ![Error](ipfs://QmWQYxeQcZ4hL3Qa7Uae4VSXqkgwnKar4RjPA1WzhbzMnn)
