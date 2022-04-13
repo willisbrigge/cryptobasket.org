@@ -1,7 +1,7 @@
 export const AppConfig = {
 	site_name: 'Crypto Basket',
 	title: 'Crypto Basket',
-	description: ' Open Source Blockchain Project Directory, that list all new cryptocurrency & blockchain projects.',
+	description: 'Open Source Blockchain Project Directory, that list all new cryptocurrency & blockchain projects.',
 	url: 'https://cryptobasket.org',
 	locale: 'en',
 	author: 'Anonymous',
