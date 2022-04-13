@@ -18,7 +18,7 @@ const BlogGallery = (props: IBlogGalleryProps) => (
         <div key={elt.slug}>
           <section className="p-5 py-5 text-left transform duration-1000 hover:-translate-y-2 hover:shadow-2xl cursor-pointer">
             <h2 className="font-semibold mb-2 mt-5 text-cyan-600 uppercase">
-              <a href="{'https://www.google.com/search?q=site%3Acryptobasket.org'+ elt.network}"> #{elt.network}</a> | <a href="{'https://www.google.com/search?q=site%3Acryptobasket.org'+ elt.category}"> #{elt.category}</a>
+              <a href={'https://www.google.com/search?q=site%3Acryptobasket.org+' + elt.network}> #{elt.network}</a> | <a href={'https://www.google.com/search?q=site%3Acryptobasket.org+' + elt.category}> #{elt.category}</a>
             </h2>
             <Link href="/posts/[slug]" as={`/posts/${elt.slug}`} passHref>
               <h1 className="text-3xl mb-2 h-16">{elt.title}</h1>
