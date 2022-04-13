@@ -24,7 +24,6 @@ const BlogGallery = (props: IBlogGalleryProps) => (
               <h1 className="text-3xl mb-2 h-16">{elt.title}</h1>
               <p className="mb-5">{elt.description.substring(0, 150)}</p>
             </Link>
-
           </section>
 
           <Link href="/posts/[slug]" as={`/posts/${elt.slug}`} passHref>
