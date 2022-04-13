@@ -5,6 +5,6 @@ export const AppConfig = {
 	url: 'https://cryptobasket.org',
 	locale: 'en',
 	author: 'Anonymous',
-	pagination_size: 6,
+	pagination_size: 10,
 	ipfs_gateway: 'https://ipfs.infura.io/ipfs/',
 };
