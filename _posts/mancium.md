@@ -2,12 +2,12 @@
 title: 'Mancium'
 description: 'A global gaming enterprise within the Mancium blockchain ecosystem.'
 date: '2021-12-10'
-image: 'https://gateway.ipfs.io/ipfs/Qmbujhcx2T3wwMiPZpbXoixkmr7qQ2bG1rvRbf6ZGQFffW'
+image: 'ipfs://Qmbujhcx2T3wwMiPZpbXoixkmr7qQ2bG1rvRbf6ZGQFffW'
 network: 'ethereum'
 category: 'gaming'
 ---
 
-![Error](https://gateway.ipfs.io/ipfs/Qmeq4RQofCnTjYPnV6E692U6QzyHj9YyJFtj6ZiuicReXa)
+![Error](ipfs://Qmeq4RQofCnTjYPnV6E692U6QzyHj9YyJFtj6ZiuicReXa)
 
 ## Introduction
 
@@ -26,7 +26,12 @@ Mancium is a token that allows you to participate actively in the MANC ecosystem
 
 ## Tokenomics
 
-![Error](https://gateway.ipfs.io/ipfs/QmRvpNJySFn4p8Dq2KJ2ami8atirGSMGwcwodeUqbMmzDL)
+![Error](ipfs://QmRvpNJySFn4p8Dq2KJ2ami8atirGSMGwcwodeUqbMmzDL)
+
+## Docs
+
+[WHITEPAPER](ipfs://QmPFsn1SBYpxamwPzyaAmttdYioc6usvPJJkjyv3jP5eLv)
+
 
 
 ## Team
@@ -39,12 +44,8 @@ Mancium is a token that allows you to participate actively in the MANC ecosystem
 |TALHA KELEŞ | Digital Marketing|
 
 
-## Docs
-
-[WHITEPAPER](https://gateway.ipfs.io/ipfs/QmPFsn1SBYpxamwPzyaAmttdYioc6usvPJJkjyv3jP5eLv)
-
 ## Links
 
-[WEBISTE](https://www.mancium.io)
+[WEBSITE](https://www.mancium.io)
 [TELEGRAM](https://t.me/mancium)
 [TWITTER](https://twitter.com/manciumtoken)
