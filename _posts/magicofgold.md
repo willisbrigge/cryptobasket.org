@@ -1,6 +1,6 @@
 ---
-title: 'Magic of Gold'
-description: 'The top NFT RPG strategy game built on Binance Smart Chain. Unlike many other NFT games, Magic focuses on strategy and provides players with engaging yet profitable gameplay'
+title: 'MagicOfGold'
+description: 'The top NFT RPG strategy game built on Binance Smart Chain Unlike many other NFT games Magic focuses on strategy and provides players with engaging yet profitable gameplay'
 date: '2022-01-05'
 image: 'ipfs://QmQ2iybU3bFCoGzyy1c38aXgxpsnZWwPDNFUQzh9XaN9eq'
 network: 'bsc'
@@ -26,9 +26,9 @@ Magic is a Play-2-Earn NFT tactical RPG game built on the Binance Smart Chain pl
 
 1. Name: Magic of Gold
 2. Symbol: $MAGIC
-5. Total supply: 1,000,000,000
-6. Lock : 196.416.000 (19.6%)
-7. Circulating supply : 558.587.955 (55.8%)
+3. Total supply: 1,000,000,000
+4. Lock : 196.416.000 (19.6%)
+5. Circulating supply : 558.587.955 (55.8%)
 
 
 ![Error](ipfs://QmcM2pmSFQFQz2nJMrFfLAUWRQv2huyL3n6eTjNam2Svsg)
@@ -36,7 +36,7 @@ Magic is a Play-2-Earn NFT tactical RPG game built on the Binance Smart Chain pl
 ## Docs
 
 [WHITEPAPER](https://magicofthegold.com/Magic-of-Gold-Whitepaper.html)
-[AUDIT-REPORT](ipfs://QmPahkemE8EhwseZPmsEiSwFt2mx8Wmhwva4ZtbUXr36zz)
+[AUDIT](ipfs://QmPahkemE8EhwseZPmsEiSwFt2mx8Wmhwva4ZtbUXr36zz)
 
 ## Links
 
