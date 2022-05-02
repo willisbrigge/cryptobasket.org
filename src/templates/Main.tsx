@@ -13,7 +13,7 @@ const Main = (props: IMainProps) => (
 	<div className="antialiased w-full text-gray-700 px-3 md:px-0">
 		{props.meta}
 
-		<div className="max-w-6xl mx-auto px-5">
+		<div className="max-w-7xl mx-auto px-5">
 			<div className="border-b border-gray-300">
 				<div className="pt-16 pb-8">
 					<div className="font-semibold text-2xl text-gray-900 uppercase">{AppConfig.title}</div>
@@ -31,23 +31,15 @@ const Main = (props: IMainProps) => (
 							<Link href="/add/">
 								<div className="border-b-2 border-transparent hover:text-gray-800 transition-colors duration-200 transform dark:hover:text-gray-200 hover:border-blue-500 mx-1.5 sm:mx-6">ADD PROJECT</div>
 							</Link>
+							<a href="https://t.me/stevenseric">
+								<div className="border-b-2 border-transparent hover:text-gray-800 transition-colors duration-200 transform dark:hover:text-gray-200 hover:border-blue-500 mx-1.5 sm:mx-6">SUPPORT (TELEGRAM)</div>
+							</a>
 						</div>
 					</nav>
 				</div>
 			</div>
 
-			<div className="py-20">{props.children}</div>
-
-			<footer className="bg-gray-50 py-3">
-				<nav className="relative flex flex-wrap justify-center gap-8 p-8 text-sm font-bold">
-					<a className="hover:opacity-75" href="https://github.com/moneymafia/cryptobasket.org" target="_blank" rel="noopener noreferrer">
-						GITHUB
-					</a>
-					<a className="hover:opacity-75" href="https://t.me/stevenseric" target="_blank" rel="noopener noreferrer">
-						SUPPORT (TELEGRAM)
-					</a>
-				</nav>
-			</footer>
+			<div className="py-10 pb-20">{props.children}</div>
 		</div>
 	</div>
 );
