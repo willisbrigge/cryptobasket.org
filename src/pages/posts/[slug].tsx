@@ -37,19 +37,17 @@ const DisplayPost = (props: IPostProps) => (
 			/>
 		}
 	>
-		<div className="px-6 py-10 mx-auto text-center">
-			<div className="p-1 shadow-xl rounded-2xl bg-gradient-to-r from-gray-400 via-gray-600 to-blue-800">
-				<div className="block p-6 bg-white sm:p-8 rounded-xl">
-					<h2 className="mt-3 text-blue-400 dark:text-gray-300 uppercase text-xl">
-						#{props.network} | #{props.category}
-					</h2>
 
-					<h1 className="text-3xl font-bold text-gray-800 dark:text-white md:text-4xl">{props.title}</h1>
+		<aside className="p-12 bg-gray-100 sm:p-16 lg:p-24">
+			<div className="max-w-xl mx-auto text-center">
+				<p className="text-sm font-medium text-gray-500 uppercase">
+					#{props.network} | #{props.category}
+				</p>
+				<p className="mt-2 text-3xl font-bold sm:text-5xl">{props.title}</p>
+				<p className="mt-2 text-sm text-gray-500">{format(new Date(props.date), 'LLLL d, yyyy')}</p>
 
-					<p className="mt-3 text-gray-500 dark:text-gray-300">{format(new Date(props.date), 'LLLL d, yyyy')}</p>
-				</div>
 			</div>
-		</div>
+		</aside>
 
 		<Content>
 			<div
@@ -58,8 +56,11 @@ const DisplayPost = (props: IPostProps) => (
 			/>
 		</Content>
 
-		<div className="border border-gray-300 text-center py-3">
-			<a href={'https://github.com/moneymafia/cryptobasket.org/edit/main/_posts/' + props.slug + '.md'}>EDIT POST ON GITHUB</a>
+		<div className="py-5">
+			<a href={'https://github.com/moneymafia/cryptobasket.org/edit/main/_posts/' + props.slug + '.md'} className="relative inline-block text-sm font-medium text-indigo-600 group active:text-indigo-500 focus:outline-none focus:ring">
+				<span className="absolute inset-0 transition-transform translate-x-0.5 translate-y-0.5 bg-indigo-600 group-hover:translate-y-0 group-hover:translate-x-0" />
+				<span className="relative block px-8 py-3 bg-white border border-current">EDIT POST ON GITHUB</span>
+			</a>
 		</div>
 	</Main>
 );
