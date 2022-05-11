@@ -1,5 +1,5 @@
 ---
-title: 'example'
+title: 'Dao Maker'
 description: 'Venture Capital ReCreated for the Masses'
 date: '2019-06-11'
 image: 'ipfs://QmQaTRCWXL3QwFUZsCJkuVPSgYpMZg6bPd3de7DzczqeTF'
