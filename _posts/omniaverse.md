@@ -4,7 +4,7 @@ description: 'OmniaVerse is the first ever multiverse portal that allows the hid
 date: '2022-03-01'
 image: 'ipfs://Qmah3j6kxSd6LQjF4EbZsK8ScCiM79hJtpzUcg1URv3mF8'
 network: 'bitgert'
-category: 'utility-token'
+category: 'utility token'
 ---
 
 ![Error](ipfs://QmSHPXnnk5uQHRS4Hxz1s6dQDuWoe3QDHQAYMK3HkPfvSt)
