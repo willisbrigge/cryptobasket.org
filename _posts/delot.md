@@ -1,6 +1,6 @@
 ---
 title: 'DELOT'
-description: 'The world’s first innovative decentralized lottery 'game for token holders'
+description: 'The world’s first innovative decentralized lottery game for token holders.'
 date: '2022-03-10'
 image: 'https://gateway.ipfs.io/ipfs/QmPPyBTsVKrJD2tHHAYDKirDyT6Z2TnWvqjHptesj2pRUL'
 network: 'bsc'
