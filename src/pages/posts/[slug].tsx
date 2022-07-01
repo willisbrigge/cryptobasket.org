@@ -64,7 +64,7 @@ const DisplayPost = (props: IPostProps) => (
 
 		<div id="disqus_thread"></div>
 
-		<Script src="https://cryptobasket.disqus.com/embed.js" strategy="lazyOnload" onLoad={() => console.log(`disqus loaded correctly`)} />
+		<Script src="https://cryptobasket.disqus.com/embed.js" strategy="afterInteractive" onLoad={() => console.log(`disqus loaded correctly`)} />
 	</Main>
 );
 
