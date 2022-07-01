@@ -66,11 +66,6 @@ const DisplayPost = (props: IPostProps) => (
                 <div id="disqus_thread"></div>
 
 <script>
-    var disqus_config = function () {
-    this.page.url = {'https://cryptobasket.org/posts/' + props.slug };
-    this.page.identifier = {props.slug}; 
-    };
-
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = 'https://cryptobasket.disqus.com/embed.js';
