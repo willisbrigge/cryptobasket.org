@@ -31,7 +31,7 @@ const Meta = (props: IMetaProps) => {
 				<meta name="description" content={props.description ? props.description : AppConfig.description} key="description" />
 				<meta name="author" content={AppConfig.author} key="author" />
 				{props.canonical && <link rel="canonical" href={props.canonical} key="canonical" />}
-				<meta property="og:title" content={`${props.title} | ${AppConfig.site_name}`} key="og:title" />
+				<meta property="og:title" content={`${props.title} Live Price Chart & News | ${AppConfig.site_name}`} key="og:title" />
 				<meta property="og:description" content={props.description ? props.description : AppConfig.description} key="og:description" />
 				<meta property="og:locale" content={AppConfig.locale} key="og:locale" />
 				<meta property="og:site_name" content={AppConfig.site_name} key="og:site_name" />
@@ -63,7 +63,7 @@ const Meta = (props: IMetaProps) => {
               },
               "name": "${AppConfig.author}"
             },
-            "headline": "${props.title} | ${AppConfig.site_name}",
+            "headline": "${props.title} Live Price Chart & News | ${AppConfig.site_name}",
             "image": ["${props.post.image.replace('ipfs://', AppConfig.ipfs_gateway)}"],
             "datePublished": "${new Date(props.post.date).toISOString()}",
             "dateModified": "${new Date(props.post.date).toISOString()}",
