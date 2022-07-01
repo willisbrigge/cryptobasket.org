@@ -62,6 +62,23 @@ const DisplayPost = (props: IPostProps) => (
 				<span className="relative block px-8 py-3 bg-white border border-current">EDIT POST ON GITHUB</span>
 			</a>
 		</div>
+		
+                <div id="disqus_thread"></div>
+
+<script>
+    var disqus_config = function () {
+    this.page.url = {'https://cryptobasket.org/posts/' + props.slug };
+    this.page.identifier = {props.slug}; 
+    };
+
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cryptobasket.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+
 	</Main>
 );
 
