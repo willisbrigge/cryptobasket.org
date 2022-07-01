@@ -8,7 +8,6 @@ import { Meta } from '../../layout/Meta';
 import { Main } from '../../templates/Main';
 import { getAllPosts, getPostBySlug } from '../../utils/Content';
 import { markdownToHtml } from '../../utils/Markdown';
-import Script from 'next/script';
 
 type IPostUrl = {
 	slug: string;
@@ -55,16 +54,21 @@ const DisplayPost = (props: IPostProps) => (
 			/>
 		</Content>
 
+
 		<div className="py-5">
-			<a href={'https://github.com/moneymafia/cryptobasket.org/edit/main/_posts/' + props.slug + '.md'} className="relative inline-block text-sm font-medium text-indigo-600 group active:text-indigo-500 focus:outline-none focus:ring">
-				<span className="absolute inset-0 transition-transform translate-x-0.5 translate-y-0.5 bg-indigo-600 group-hover:translate-y-0 group-hover:translate-x-0" />
-				<span className="relative block px-8 py-3 bg-white border border-current">EDIT POST ON GITHUB</span>
-			</a>
+			<div className="pr-5 inline-block ">
+				<a href={'https://github.com/moneymafia/cryptobasket.org/edit/main/_posts/' + props.slug + '.md'} className="relative inline-block text-sm font-medium text-indigo-600 group active:text-indigo-500 focus:outline-none focus:ring">
+					<span className="absolute inset-0 transition-transform translate-x-0.5 translate-y-0.5 bg-indigo-600 group-hover:translate-y-0 group-hover:translate-x-0" />
+					<span className="relative block px-8 py-3 bg-white border border-current">EDIT POST ON GITHUB</span>
+				</a>
+			</div>
+			<div className="pr-5 inline-block ">
+				<a href={'https://t.me/cryptobasketorg'} className="relative inline-block text-sm font-medium text-indigo-600 group active:text-indigo-500 focus:outline-none focus:ring">
+					<span className="absolute inset-0 transition-transform translate-x-0.5 translate-y-0.5 bg-indigo-600 group-hover:translate-y-0 group-hover:translate-x-0" />
+					<span className="relative block px-8 py-3 bg-white border border-current">JOIN TELEGRAM GROUP</span>
+				</a>{' '}
+			</div>
 		</div>
-
-		<div id="disqus_thread"></div>
-
-		<Script src="https://cryptobasket.disqus.com/embed.js" strategy="afterInteractive" onLoad={() => console.log(`disqus loaded correctly`)} />
 	</Main>
 );
 
