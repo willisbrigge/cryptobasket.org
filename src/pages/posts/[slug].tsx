@@ -8,7 +8,7 @@ import { Meta } from '../../layout/Meta';
 import { Main } from '../../templates/Main';
 import { getAllPosts, getPostBySlug } from '../../utils/Content';
 import { markdownToHtml } from '../../utils/Markdown';
-import { Helmet } from "react-helmet";
+import Script from 'next/script';
 
 type IPostUrl = {
 	slug: string;
@@ -38,7 +38,6 @@ const DisplayPost = (props: IPostProps) => (
 			/>
 		}
 	>
-
 		<aside className="p-12 bg-gray-100 sm:p-16 lg:p-24">
 			<div className="max-w-xl mx-auto text-center">
 				<p className="text-sm font-medium text-gray-500 uppercase">
@@ -46,7 +45,6 @@ const DisplayPost = (props: IPostProps) => (
 				</p>
 				<p className="mt-2 text-3xl font-bold sm:text-5xl">{props.title}</p>
 				<p className="mt-2 text-sm text-gray-500">{format(new Date(props.date), 'LLLL d, yyyy')}</p>
-
 			</div>
 		</aside>
 
@@ -63,14 +61,10 @@ const DisplayPost = (props: IPostProps) => (
 				<span className="relative block px-8 py-3 bg-white border border-current">EDIT POST ON GITHUB</span>
 			</a>
 		</div>
-		
-                <div id="disqus_thread"></div>
 
-            <Helmet>
-              <script src="https://cryptobasket.org/track.js" type="text/javascript" />
-            </Helmet>
+		<div id="disqus_thread"></div>
 
-
+		<Script src="https://cryptobasket.disqus.com/embed.js" strategy="lazyOnload" onLoad={() => console.log(`disqus loaded correctly`)} />
 	</Main>
 );
 
