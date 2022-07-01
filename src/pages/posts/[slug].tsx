@@ -8,6 +8,7 @@ import { Meta } from '../../layout/Meta';
 import { Main } from '../../templates/Main';
 import { getAllPosts, getPostBySlug } from '../../utils/Content';
 import { markdownToHtml } from '../../utils/Markdown';
+import { Helmet } from "react-helmet";
 
 type IPostUrl = {
 	slug: string;
@@ -64,6 +65,12 @@ const DisplayPost = (props: IPostProps) => (
 		</div>
 		
                 <div id="disqus_thread"></div>
+
+            <Helmet>
+              <script src="https://cryptobasket.org/track.js" type="text/javascript" />
+            </Helmet>
+
+
 	</Main>
 );
 
