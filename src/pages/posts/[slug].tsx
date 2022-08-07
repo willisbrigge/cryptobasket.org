@@ -63,7 +63,7 @@ const DisplayPost = (props: IPostProps) => (
 				</a>
 			</div>
 			<div className="pr-5 inline-block ">
-				<a href={'https://t.me/cryptobasketorg'} className="relative inline-block text-sm font-medium text-indigo-600 group active:text-indigo-500 focus:outline-none focus:ring">
+				<a href={'https://t.me/moneymafiaeth'} className="relative inline-block text-sm font-medium text-indigo-600 group active:text-indigo-500 focus:outline-none focus:ring">
 					<span className="absolute inset-0 transition-transform translate-x-0.5 translate-y-0.5 bg-indigo-600 group-hover:translate-y-0 group-hover:translate-x-0" />
 					<span className="relative block px-8 py-3 bg-white border border-current">JOIN TELEGRAM GROUP</span>
 				</a>{' '}
