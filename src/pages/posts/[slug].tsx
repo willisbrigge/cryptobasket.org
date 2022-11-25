@@ -19,7 +19,6 @@ type IPostProps = {
 	date: string;
 	image: string;
 	content: string;
-	network: string;
 	category: string;
 	slug: string;
 };
@@ -39,9 +38,7 @@ const DisplayPost = (props: IPostProps) => (
 	>
 		<aside className="p-12 bg-gray-100 sm:p-16 lg:p-24">
 			<div className="max-w-xl mx-auto text-center">
-				<p className="text-sm font-medium text-gray-500 uppercase">
-					#{props.network} | #{props.category}
-				</p>
+				<p className="text-sm font-medium text-gray-500 uppercase">#{props.category}</p>
 				<p className="mt-2 text-3xl font-bold sm:text-5xl">{props.title}</p>
 				<p className="mt-2 text-sm text-gray-500">{format(new Date(props.date), 'LLLL d, yyyy')}</p>
 			</div>
@@ -70,7 +67,7 @@ export const getStaticPaths: GetStaticPaths<IPostUrl> = async () => {
 };
 
 export const getStaticProps: GetStaticProps<IPostProps, IPostUrl> = async ({ params }) => {
-	const post = getPostBySlug(params!.slug, ['title', 'description', 'date', 'image', 'content', 'slug', 'category', 'network']);
+	const post = getPostBySlug(params!.slug, ['title', 'description', 'date', 'image', 'content', 'slug', 'category']);
 	const content = await markdownToHtml(post.content || '');
 
 	return {
@@ -80,7 +77,6 @@ export const getStaticProps: GetStaticProps<IPostProps, IPostUrl> = async ({ par
 			date: post.date,
 			image: post.image,
 			content,
-			network: post.network,
 			category: post.category,
 			slug: post.slug,
 		},

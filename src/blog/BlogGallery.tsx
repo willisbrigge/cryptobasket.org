@@ -20,9 +20,7 @@ const BlogGallery = (props: IBlogGalleryProps) => (
 							<span className="absolute inset-0 border-2 border-black border-dashed" />
 							<div className="relative flex items-end h-full transition-transform transform bg-white border-2 border-black group-hover:-translate-x-2 group-hover:-translate-y-2">
 								<div className="px-8 pb-8 transition-opacity group-hover:opacity-0 group-hover:absolute">
-									<h2 className="font-semibold mb-2 mt-5 text-cyan-600 uppercase">
-										#{elt.network} | #{elt.category}
-									</h2>
+									<h2 className="font-semibold mb-2 mt-5 text-cyan-600 uppercase">#{elt.category}</h2>
 									<h2 className="mt-4 text-2xl font-medium">{elt.title}</h2>
 								</div>
 								<div className="absolute p-8 transition-opacity opacity-0 group-hover:opacity-100 group-hover:relative">
@@ -43,15 +41,13 @@ const BlogGallery = (props: IBlogGalleryProps) => (
 					<Link href="/posts/[slug]" as={`/posts/${elt.slug}`} passHref>
 						<a className="hidden">
 							<h1>
-								{elt.network} {elt.category} {elt.title}
+								{elt.category} {elt.title}
 							</h1>
 						</a>
 					</Link>
 					<Link href="/posts/[slug]" as={`/posts/${elt.slug}`} passHref>
 						<a className="hidden">
-							<h1>
-								{elt.title} {elt.network}
-							</h1>
+							<h1>{elt.title}</h1>
 						</a>
 					</Link>
 				</div>
