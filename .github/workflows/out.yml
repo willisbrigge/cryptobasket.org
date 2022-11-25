@@ -1,7 +1,5 @@
 name: out
-on:
-  schedule:
-    - cron: '6 1/3 * * *'
+on: [push]
 
 jobs:
  build-and-deploy:
@@ -17,6 +15,7 @@ jobs:
       rm -r _posts
       git clone https://github.com/moneymafia/cryptobasketblog _posts
       cd _posts 
+      find . -type f -name "* *" -exec bash -c 'mv "$0" "${0// /_}"' {} \;
       rm -r .git
       cd ./
       
