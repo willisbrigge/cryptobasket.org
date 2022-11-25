@@ -12,7 +12,7 @@ jobs:
 
    - name: Cyck
      run: |
-      git clone https://github.com/moneymafia/cryptobasketblog.git _posts
+      git clone https://github.com/moneymafia/cryptobasketblog _posts
       ls
       
    - name: Install
