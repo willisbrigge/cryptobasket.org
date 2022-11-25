@@ -28,9 +28,6 @@ const Main = (props: IMainProps) => (
 							<Link href="/about/">
 								<div className="border-b-2 border-transparent hover:text-gray-800 transition-colors duration-200 transform dark:hover:text-gray-200 hover:border-blue-500 mx-1.5 sm:mx-6">ABOUT</div>
 							</Link>
-							<Link href="/add/">
-								<div className="border-b-2 border-transparent hover:text-gray-800 transition-colors duration-200 transform dark:hover:text-gray-200 hover:border-blue-500 mx-1.5 sm:mx-6">ADD PROJECT</div>
-							</Link>
 						</div>
 					</nav>
 				</div>
