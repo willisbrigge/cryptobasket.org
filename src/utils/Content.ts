@@ -27,7 +27,7 @@ export function getPostBySlug(slug: string, fields: string[] = []) {
 		}
 
 		if (field === 'image') {
-			items[field] = data[field].replaceAll('cdn://', AppConfig.cdn);
+			items[field] = data[field];
 		}
 
 		if (field === 'content') {

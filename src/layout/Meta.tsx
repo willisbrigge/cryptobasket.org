@@ -27,18 +27,18 @@ const Meta = (props: IMetaProps) => {
 				<link rel="icon" type="image/png" sizes="32x32" href={`${router.basePath}/favicon-32x32.png`} key="icon32" />
 				<link rel="icon" type="image/png" sizes="16x16" href={`${router.basePath}/favicon-16x16.png`} key="icon16" />
 				<link rel="icon" href={`${router.basePath}/favicon.ico`} key="favicon" />
-				<title>{`${props.title} | ${AppConfig.site_name}`}</title>
+				<title>{`${props.title} | Crypto Basket`}</title>
 				<meta name="description" content={props.description ? props.description : AppConfig.description} key="description" />
 				<meta name="author" content="Crypto Basket" key="author" />
 				{props.canonical && <link rel="canonical" href={props.canonical} key="canonical" />}
-				<meta property="og:title" content={`${props.title} Live Price Chart & News | ${AppConfig.site_name}`} key="og:title" />
+				<meta property="og:title" content={`${props.title} Live Price Chart & News | Crypto Basket`} key="og:title" />
 				<meta property="og:description" content={props.description ? props.description : AppConfig.description} key="og:description" />
 				<meta property="og:locale" content="en" key="og:locale" />
-				<meta property="og:site_name" content={AppConfig.site_name} key="og:site_name" />
+				<meta property="og:site_name" content="Crypto Basket" key="og:site_name" />
 				{props.post && (
 					<>
 						<meta property="og:type" content="article" key="og:type" />
-						<meta property="og:image" content={`${props.post.image.replace('cdn://', AppConfig.cdn)}`} key="og:image" />
+						<meta property="og:image" content={`${props.post.image}`} key="og:image" />
 						<meta name="twitter:card" content="summary_large_image" key="twitter:card" />
 						<meta property="article:published_time" content={new Date(props.post.date).toISOString()} key="article:published_time" />
 						<meta property="article:modified_time" content={new Date(props.post.date).toISOString()} key="article:modified_time" />
@@ -63,8 +63,8 @@ const Meta = (props: IMetaProps) => {
               },
               "name": "Crypto Basket"
             },
-            "headline": "${props.title} Live Price Chart & News | ${AppConfig.site_name}",
-            "image": ["${props.post.image.replace('cdn://', AppConfig.cdn)}"],
+            "headline": "${props.title} Live Price Chart & News | Crypto Basket",
+            "image": ["${props.post.image}"],
             "datePublished": "${new Date(props.post.date).toISOString()}",
             "dateModified": "${new Date(props.post.date).toISOString()}",
             "mainEntityOfPage": {
