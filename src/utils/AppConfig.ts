@@ -4,7 +4,6 @@ export const AppConfig = {
 	description: 'Open Source Blockchain & Cryptocurrency Projects Directory.',
 	url: 'https://cryptobasket.org',
 	locale: 'en',
-	author: 'Anonymous',
 	pagination_size: 15,
 	cdn: 'https://cdn.cryptobasket.org/',
 };

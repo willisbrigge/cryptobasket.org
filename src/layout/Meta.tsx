@@ -29,7 +29,7 @@ const Meta = (props: IMetaProps) => {
 				<link rel="icon" href={`${router.basePath}/favicon.ico`} key="favicon" />
 				<title>{`${props.title} | ${AppConfig.site_name}`}</title>
 				<meta name="description" content={props.description ? props.description : AppConfig.description} key="description" />
-				<meta name="author" content={AppConfig.author} key="author" />
+				<meta name="author" content="Crypto Basket" key="author" />
 				{props.canonical && <link rel="canonical" href={props.canonical} key="canonical" />}
 				<meta property="og:title" content={`${props.title} Live Price Chart & News | ${AppConfig.site_name}`} key="og:title" />
 				<meta property="og:description" content={props.description ? props.description : AppConfig.description} key="og:description" />
@@ -51,7 +51,7 @@ const Meta = (props: IMetaProps) => {
             "description": "${props.description ? props.description : AppConfig.description}",
             "author": {
               "@type": "Person",
-              "name": "${AppConfig.author}"
+              "name": "Crypto Basket"
             },
             "@type": "BlogPosting",
             "url": "${AppConfig.url}${router.basePath}${addTrailingSlash(router.asPath)}",
@@ -61,7 +61,7 @@ const Meta = (props: IMetaProps) => {
                 "@type": "ImageObject",
                 "url": "${AppConfig.url}${router.basePath}/logo.png"
               },
-              "name": "${AppConfig.author}"
+              "name": "Crypto Basket"
             },
             "headline": "${props.title} Live Price Chart & News | ${AppConfig.site_name}",
             "image": ["${props.post.image.replace('cdn://', AppConfig.cdn)}"],
