@@ -9,10 +9,11 @@ import remarkRehype from 'remark-rehype';
 import rehypeVideo from 'rehype-video';
 
 import { unified } from 'unified';
+import { AppConfig } from './AppConfig';
 
-// RehypeVideoOptions
 
 export async function markdownToHtml(markdown: string) {
-	const result = await unified().use(remarkParse).use(gfm).use(remarkRehype).use(rehypePrism).use(rehypeVideo).use(html).process(markdown);
+	const xmarkdown = markdown.replaceAll('cdn://', AppConfig.cdn)
+	const result = await unified().use(remarkParse).use(gfm).use(remarkRehype).use(rehypePrism).use(rehypeVideo).use(html).process(xmarkdown);
 	return result.toString().replace(/@@baseUrl@@/g, process.env.baseUrl || '');
 }

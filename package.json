@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"homepage": "./",
 	"scripts": {
-		"dev": "next dev",
+		"dev": "npx browserslist@latest --update-db && next dev",
 		"build": "rimraf .next out && next build",
 		"start": "next start",
 		"export": "next export && touch out/.nojekyll",
