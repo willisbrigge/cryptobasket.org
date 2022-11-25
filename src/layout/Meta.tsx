@@ -33,7 +33,7 @@ const Meta = (props: IMetaProps) => {
 				{props.canonical && <link rel="canonical" href={props.canonical} key="canonical" />}
 				<meta property="og:title" content={`${props.title} Live Price Chart & News | ${AppConfig.site_name}`} key="og:title" />
 				<meta property="og:description" content={props.description ? props.description : AppConfig.description} key="og:description" />
-				<meta property="og:locale" content={AppConfig.locale} key="og:locale" />
+				<meta property="og:locale" content="en" key="og:locale" />
 				<meta property="og:site_name" content={AppConfig.site_name} key="og:site_name" />
 				{props.post && (
 					<>
