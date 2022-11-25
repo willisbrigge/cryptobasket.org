@@ -14,10 +14,12 @@ const Main = (props: IMainProps) => (
 		<section className="w-full px-8 text-gray-700 bg-gradient-to-r from-teal-100 to-yellow-100">
 			<div className="flex flex-col flex-wrap items-center justify-between py-6 mx-auto md:flex-row container">
 				<div className="relative flex flex-col md:flex-row">
-					<Link href="/" className="flex items-center mb-5 font-medium text-gray-900 lg:w-auto lg:items-center lg:justify-center md:mb-0">
-						<svg className="w-auto h-10 fill-current" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor">
-							<path strokeLinecap="round" strokeLinejoin="round" d="M2.25 18L9 11.25l4.306 4.307a11.95 11.95 0 015.814-5.519l2.74-1.22m0 0l-5.94-2.28m5.94 2.28l-2.28 5.941" />
-						</svg>
+					<Link href="/">
+						<div className="flex items-center mb-5 font-medium text-gray-900 lg:w-auto lg:items-center lg:justify-center md:mb-0">
+							<svg className="w-auto h-10 fill-current" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor">
+								<path strokeLinecap="round" strokeLinejoin="round" d="M2.25 18L9 11.25l4.306 4.307a11.95 11.95 0 015.814-5.519l2.74-1.22m0 0l-5.94-2.28m5.94 2.28l-2.28 5.941" />
+							</svg>
+						</div>
 					</Link>
 				</div>
 				<div className="inline-flex flex-col items-center sm:flex-row sm:ml-5 lg:justify-end">
