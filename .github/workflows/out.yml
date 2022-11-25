@@ -10,6 +10,12 @@ jobs:
      with:
       persist-credentials: false
 
+   - name: Cyck
+     run: |
+      ls
+      cd ./
+      ls
+      
    - name: Install
      run: |
       npm ci
