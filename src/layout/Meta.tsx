@@ -54,12 +54,13 @@ const Meta = (props: IMetaProps) => {
               "name": "Crypto Basket"
             },
             "@type": "BlogPosting",
-            "url": "${AppConfig.url}${router.basePath}${addTrailingSlash(router.asPath)}",
+            "url": "https://cryptobasket.org${router.basePath}${addTrailingSlash(router.asPath)}",
             "publisher": {
               "@type": "Organization",
               "logo": {
                 "@type": "ImageObject",
-                "url": "${AppConfig.url}${router.basePath}/logo.png"
+                "url": "https://cryptobasket.org${router.basePath}/logo.png"
+
               },
               "name": "Crypto Basket"
             },
@@ -69,7 +70,7 @@ const Meta = (props: IMetaProps) => {
             "dateModified": "${new Date(props.post.date).toISOString()}",
             "mainEntityOfPage": {
               "@type": "WebPage",
-              "@id": "${AppConfig.url}${router.basePath}${addTrailingSlash(router.asPath)}"
+              "@id": "https://cryptobasket.org${router.basePath}${addTrailingSlash(router.asPath)}"
             },
             "@context": "http://schema.org"
           }`,
