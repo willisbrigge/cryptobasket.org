@@ -53,18 +53,6 @@ const DisplayPost = (props: IPostProps) => (
 				dangerouslySetInnerHTML={{ __html: props.content }}
 			/>
 		</Content>
-
-		<div className="py-5">
-			<div className="pr-5 inline-block">
-				<a
-					href={'https://github.com/moneymafia/cryptobasketblog/edit/main/' + props.slug + '.md'}
-					className="relative inline-block text-sm font-medium text-indigo-600 group active:text-indigo-500 focus:outline-none focus:ring"
-				>
-					<span className="absolute inset-0 transition-transform translate-x-0.5 translate-y-0.5 bg-indigo-600 group-hover:translate-y-0 group-hover:translate-x-0" />
-					<span className="relative block px-8 py-3 bg-white border border-current">EDIT ON GITHUB</span>
-				</a>
-			</div>
-		</div>
 	</Main>
 );
 
