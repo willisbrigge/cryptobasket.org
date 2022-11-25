@@ -47,7 +47,7 @@ const DisplayPost = (props: IPostProps) => (
 			</p>
 		</div>
 
-		<div className="m-auto max-w-4xl">
+		<div className="m-auto max-w-3xl">
 			<Content>
 				<div
 					// eslint-disable-next-line react/no-danger
