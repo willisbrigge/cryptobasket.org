@@ -2,37 +2,40 @@ name: out
 on: [push]
 
 jobs:
- build-and-deploy:
-  runs-on: ubuntu-latest
-  steps:
-   - name: Checkout 🛎️
-     uses: actions/checkout@v2.3.1
-     with:
-      persist-credentials: false
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2.3.1
+        with:
+          persist-credentials: false
 
-   - name: Cyck
-     run: |
-      rm -r _posts
-      git clone https://github.com/moneymafia/cryptobasketblog _posts
-      cd _posts 
-      find . -type f -name "* *" -exec bash -c 'mv "$0" "${0// /_}"' {} \;
-      rm -r .git
-      cd ./
-      
-   - name: Install
-     run: |
-      npm ci
-      
-   - name: Build
-     run: |
-      npm run build
+      - name: Cyck
+        run: |
+          rm -r _posts
+          git clone https://github.com/moneymafia/cryptobasketblog _posts
+          cd _posts 
+          rm -r .git
+          cd ./
 
-   - name: Export
-     run: |
-      npm run export
+      - name: Slug Map
+        run: |
+          node clean.js
 
-   - name: Out
-     uses: JamesIves/github-pages-deploy-action@4.1.7
-     with:
-        branch: out
-        folder: out
+      - name: Install
+        run: |
+          npm ci
+
+      - name: Build
+        run: |
+          npm run build
+
+      - name: Export
+        run: |
+          npm run export
+
+      - name: Out
+        uses: JamesIves/github-pages-deploy-action@4.1.7
+        with:
+          branch: out
+          folder: out
