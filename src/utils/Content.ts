@@ -17,17 +17,17 @@ export function getPostSlugs() {
 export function getPostBySlug(slug: string, fields: string[] = []) {
 	const realSlug = slug.replace(/\.md$/, '');
 	const fullPath = join(postsDirectory, `${realSlug}.md`);
-	const fileContents = fs.readFileSync(fullPath.replaceAll('__', ' '), 'utf8');
+	const fileContents = fs.readFileSync(fullPath, 'utf8');
 	const { data, content } = matter(fileContents);
 	const items: PostItems = {};
 
 	fields.forEach((field) => {
 		if (field === 'slug') {
-			items[field] = realSlug.replaceAll(' ', '__');
+			items[field] = realSlug;
 		}
 
 		if (field === 'image') {
-			items[field] = data[field].replace('cdn://', AppConfig.cdn);
+			items[field] = data[field].replaceAll('cdn://', AppConfig.cdn);
 		}
 
 		if (field === 'content') {
