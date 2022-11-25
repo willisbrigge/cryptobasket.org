@@ -8,10 +8,10 @@ type IMainProps = {
 };
 
 const Main = (props: IMainProps) => (
-	<div className="antialiased w-full text-gray-700 px-3 md:px-0">
+	<div className="px-5 py-5 mx-auto container">
 		{props.meta}
 
-		<section className="w-full px-8 text-gray-700 bg-gradient-to-r from-teal-100 to-yellow-100">
+		<section className="w-full px-8 text-gray-700">
 			<div className="flex flex-col flex-wrap items-center justify-between py-6 mx-auto md:flex-row container">
 				<div className="relative flex flex-col md:flex-row">
 					<Link href="/">
@@ -30,9 +30,7 @@ const Main = (props: IMainProps) => (
 			</div>
 		</section>
 
-		<div className="px-5 py-5 mx-auto  container">
-			<div>{props.children}</div>
-		</div>
+		<div className="py-10">{props.children}</div>
 	</div>
 );
 
