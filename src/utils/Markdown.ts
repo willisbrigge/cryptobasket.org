@@ -9,7 +9,6 @@ import remarkRehype from 'remark-rehype';
 import rehypeVideo from 'rehype-video';
 
 import { unified } from 'unified';
-import { AppConfig } from './AppConfig';
 
 // RehypeVideoOptions
 
