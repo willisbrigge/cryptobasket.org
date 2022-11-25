@@ -12,7 +12,7 @@ export type IBlogGalleryProps = {
 
 const BlogGallery = (props: IBlogGalleryProps) => (
 	<>
-		<section className="p-5 md:p-0 grid grid-cols-1 xl:grid-cols-3 gap-5 items-start ">
+		<section className="p-5 md:p-0 grid grid-cols-1 xl:grid-cols-2 gap-5 items-start ">
 			{props.posts.map((elt) => (
 				<div key={elt.slug}>
 					<Link href="/posts/[slug]" as={`/posts/${elt.slug}`} passHref>

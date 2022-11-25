@@ -13,27 +13,25 @@ const Main = (props: IMainProps) => (
 	<div className="antialiased w-full text-gray-700 px-3 md:px-0">
 		{props.meta}
 
-		<div className="max-w-7xl mx-auto px-5">
-			<div className="border-b border-gray-300">
-				<div className="pt-16 pb-8">
-					<div className="font-semibold text-2xl text-gray-900 uppercase">{AppConfig.title}</div>
-					<div className="text-xl">{AppConfig.description}</div>
+		<section className="w-full px-8 text-gray-700 bg-gradient-to-r from-teal-100 to-yellow-100">
+			<div className="flex flex-col flex-wrap items-center justify-between py-6 mx-auto md:flex-row container">
+				<div className="relative flex flex-col md:flex-row">
+					<Link href="/" className="flex items-center mb-5 font-medium text-gray-900 lg:w-auto lg:items-center lg:justify-center md:mb-0">
+						<svg className="w-auto h-10 fill-current" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor">
+							<path strokeLinecap="round" strokeLinejoin="round" d="M2.25 18L9 11.25l4.306 4.307a11.95 11.95 0 015.814-5.519l2.74-1.22m0 0l-5.94-2.28m5.94 2.28l-2.28 5.941" />
+						</svg>
+					</Link>
 				</div>
-				<div className="uppercase">
-					<nav className="bg-white shadow dark:bg-gray-800">
-						<div className="container flex items-center justify-center p-6 mx-auto text-gray-600 capitalize dark:text-gray-300">
-							<Link href="/">
-								<div className="border-b-2 border-transparent hover:text-gray-800 transition-colors duration-200 transform dark:hover:text-gray-200 hover:border-blue-500 mx-1.5 sm:mx-6">HOME</div>
-							</Link>
-							<Link href="/about/">
-								<div className="border-b-2 border-transparent hover:text-gray-800 transition-colors duration-200 transform dark:hover:text-gray-200 hover:border-blue-500 mx-1.5 sm:mx-6">ABOUT</div>
-							</Link>
-						</div>
+				<div className="inline-flex flex-col items-center sm:flex-row sm:ml-5 lg:justify-end">
+					<nav className="flex flex-wrap items-center space-x-4 text-sm md:text-lg font-semibold tracking-wide sm:space-x-6 uppercase">
+						<Link href="/about/">ABOUT</Link>
 					</nav>
 				</div>
 			</div>
+		</section>
 
-			<div className="py-10 pb-20">{props.children}</div>
+		<div className="px-5 py-5 mx-auto  container">
+			<div>{props.children}</div>
 		</div>
 	</div>
 );
