@@ -6,5 +6,5 @@ export const AppConfig = {
 	locale: 'en',
 	author: 'Anonymous',
 	pagination_size: 15,
-	ipfs_gateway: 'https://infura-ipfs.io/ipfs/',
+	cdn: 'https://cdn.cryptobasket.org/',
 };

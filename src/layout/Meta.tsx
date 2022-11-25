@@ -38,7 +38,7 @@ const Meta = (props: IMetaProps) => {
 				{props.post && (
 					<>
 						<meta property="og:type" content="article" key="og:type" />
-						<meta property="og:image" content={`${props.post.image.replace('ipfs://', AppConfig.ipfs_gateway)}`} key="og:image" />
+						<meta property="og:image" content={`${props.post.image.replace('cdn://', AppConfig.cdn)}`} key="og:image" />
 						<meta name="twitter:card" content="summary_large_image" key="twitter:card" />
 						<meta property="article:published_time" content={new Date(props.post.date).toISOString()} key="article:published_time" />
 						<meta property="article:modified_time" content={new Date(props.post.date).toISOString()} key="article:modified_time" />
@@ -64,7 +64,7 @@ const Meta = (props: IMetaProps) => {
               "name": "${AppConfig.author}"
             },
             "headline": "${props.title} Live Price Chart & News | ${AppConfig.site_name}",
-            "image": ["${props.post.image.replace('ipfs://', AppConfig.ipfs_gateway)}"],
+            "image": ["${props.post.image.replace('cdn://', AppConfig.cdn)}"],
             "datePublished": "${new Date(props.post.date).toISOString()}",
             "dateModified": "${new Date(props.post.date).toISOString()}",
             "mainEntityOfPage": {
